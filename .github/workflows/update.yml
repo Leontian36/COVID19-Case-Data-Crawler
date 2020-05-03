@@ -21,7 +21,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: Generate new data
-        run: python run.py
+        run: |
+          mkdir -p csv
+          python run.py
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
