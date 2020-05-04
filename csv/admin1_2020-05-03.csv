@@ -1,0 +1,521 @@
+﻿,date,iso3,admin0_name,admin1_hasc,admin1_name,confirmed,death,recovered
+1,2020-05-03,ARG,Argentina,AR.BA,Buenos Aires,729,47,120
+3,2020-05-03,ARG,Argentina,AR.CC,Chaco,191,9,56
+4,2020-05-03,ARG,Argentina,AR.CH,Chubut,1,,
+5,2020-05-03,ARG,Argentina,AR.DF,Ciudad de Buenos Aires,648,32,301
+6,2020-05-03,ARG,Argentina,AR.CB,Cordoba,228,6,38
+7,2020-05-03,ARG,Argentina,AR.CN,Corrientes,31,,5
+8,2020-05-03,ARG,Argentina,AR.ER,Entre Rios,21,,10
+10,2020-05-03,ARG,Argentina,AR.JY,Jujuy,5,,3
+11,2020-05-03,ARG,Argentina,AR.LP,La Pampa,5,,
+12,2020-05-03,ARG,Argentina,AR.LR,La Rioja,31,2,2
+13,2020-05-03,ARG,Argentina,AR.MZ,Mendoza,63,5,5
+14,2020-05-03,ARG,Argentina,AR.MN,Misiones,3,,
+15,2020-05-03,ARG,Argentina,AR.NQ,Neuquen,91,4,2
+16,2020-05-03,ARG,Argentina,AR.RN,Rio Negro,106,2,7
+17,2020-05-03,ARG,Argentina,AR.SA,Salta,4,,
+18,2020-05-03,ARG,Argentina,AR.SJ,San Juan,2,,
+19,2020-05-03,ARG,Argentina,AR.SL,San Luis,11,,6
+20,2020-05-03,ARG,Argentina,AR.SC,Santa Cruz,40,,5
+21,2020-05-03,ARG,Argentina,AR.SF,Santa Fe,209,2,27
+22,2020-05-03,ARG,Argentina,AR.SE,Santiago del Estero,12,,3
+23,2020-05-03,ARG,Argentina,AR.TF,Tierra del Fuego,110,,36
+24,2020-05-03,ARG,Argentina,AR.TM,Tucuman,30,3,3
+25,2020-05-03,AUS,Australia,AU.AC,Australian Capital Territory,106,3,103
+26,2020-05-03,AUS,Australia,AU.NS,New South Wales,3033,42,2328
+27,2020-05-03,AUS,Australia,AU.NT,Northern Territory,29,,24
+28,2020-05-03,AUS,Australia,AU.QL,Queensland,1038,6,980
+29,2020-05-03,AUS,Australia,AU.SA,South Australia,438,4,427
+30,2020-05-03,AUS,Australia,AU.TS,Tasmania,221,13,164
+31,2020-05-03,AUS,Australia,AU.VI,Victoria,1406,18,1300
+32,2020-05-03,AUS,Australia,AU.WA,Western Australia,551,9,523
+33,2020-05-03,AUT,Austria,AT.TR,Tirol,3504,105,3215
+34,2020-05-03,AUT,Austria,AT.SZ,Salzburg,1219,36,1115
+35,2020-05-03,AUT,Austria,AT.ST,Steiermark,1766,133,1246
+36,2020-05-03,AUT,Austria,AT.NO,Niederösterreich,2633,92,2255
+37,2020-05-03,AUT,Austria,AT.WI,Wien,2538,135,1827
+38,2020-05-03,AUT,Austria,AT.KA,Kärnten,410,13,382
+39,2020-05-03,AUT,Austria,AT.VO,Vorarlberg,873,17,824
+40,2020-05-03,AUT,Austria,AT.OO,Oberösterreich,2257,57,2106
+41,2020-05-03,AUT,Austria,AT.BU,Burgenland,327,10,258
+45,2020-05-03,BRA,Brazil,BR.AC,Acre,657,24,
+46,2020-05-03,BRA,Brazil,BR.AP,Amapá,1482,43,
+47,2020-05-03,BRA,Brazil,BR.AM,Amazonas,6683,548,
+48,2020-05-03,BRA,Brazil,BR.PB,Pará,3863,309,
+49,2020-05-03,BRA,Brazil,BR.RO,Rondônia,705,24,
+50,2020-05-03,BRA,Brazil,BR.RR,Roraima,740,11,
+51,2020-05-03,BRA,Brazil,BR.TO,Tocantins,246,4,
+52,2020-05-03,BRA,Brazil,BR.AL,Alagoas,1441,64,
+53,2020-05-03,BRA,Brazil,BR.BA,Bahia,3495,123,
+54,2020-05-03,BRA,Brazil,BR.CE,Ceará,8370,663,
+55,2020-05-03,BRA,Brazil,BR.MA,Maranhão,4040,237,
+56,2020-05-03,BRA,Brazil,BR.PA,Paraíba,1169,76,
+57,2020-05-03,BRA,Brazil,BR.PE,Pernambuco,8643,652,
+58,2020-05-03,BRA,Brazil,BR.PI,Piauí,742,28,
+59,2020-05-03,BRA,Brazil,BR.RN,Rio Grande do Norte,1392,61,
+60,2020-05-03,BRA,Brazil,BR.SE,Sergipe,730,14,
+61,2020-05-03,BRA,Brazil,BR.ES,Espirito Santo,3086,114,
+62,2020-05-03,BRA,Brazil,BR.MG,Minas Gerais,2118,89,
+63,2020-05-03,BRA,Brazil,BR.RJ,Rio de Janeiro,11139,1019,
+64,2020-05-03,BRA,Brazil,BR.SC,São Paulo,31772,2627,
+65,2020-05-03,BRA,Brazil,BR.PR,Paraná,1514,93,
+66,2020-05-03,BRA,Brazil,BR.RS,Rio Grande do Sul,1666,65,
+67,2020-05-03,BRA,Brazil,BR.SP,Santa Catarina,2346,52,
+68,2020-05-03,BRA,Brazil,BR.DF,Distrito Federal,1649,33,
+69,2020-05-03,BRA,Brazil,BR.GO,Goiás,850,30,
+70,2020-05-03,BRA,Brazil,BR.MT,Mato Grosso,337,12,
+71,2020-05-03,BRA,Brazil,BR.MS,Mato Grosso do Sul,272,10,
+72,2020-05-03,CAN,Canada,CA.AB,Alberta,5766,95,
+73,2020-05-03,CAN,Canada,CA.BC,British Columbia,2171,114,
+75,2020-05-03,CAN,Canada,CA.MB,Manitoba,282,6,
+76,2020-05-03,CAN,Canada,CA.NB,New Brunswick,118,,
+77,2020-05-03,CAN,Canada,CA.NF,Newfoundland and Labrador,259,3,
+78,2020-05-03,CAN,Canada,CA.NS,Nova Scotia,971,37,
+79,2020-05-03,CAN,Canada,CA.ON,Ontario,18574,1326,
+80,2020-05-03,CAN,Canada,CA.PE,Prince Edward Island,27,0,
+81,2020-05-03,CAN,Canada,CA.QC,Quebec,31873,2206,
+82,2020-05-03,CAN,Canada,CA.SK,Saskatchewan,433,7,
+84,2020-05-03,CAN,Canada,CA.NT,Northwest Territories,5,,
+85,2020-05-03,CAN,Canada,CA.YT,Yukon,11,,
+86,2020-05-03,CHL,Chile,CL.AN,Antofagasta,481,4,
+87,2020-05-03,CHL,Chile,CL.AR,Araucanía,1251,32,
+88,2020-05-03,CHL,Chile,CL.AP,Arica y Parinacota,278,3,
+89,2020-05-03,CHL,Chile,CL.AT,Atacama,35,,
+90,2020-05-03,CHL,Chile,CL.AI,Aysén,7,,
+91,2020-05-03,CHL,Chile,CL.BI,Biobío,709,7,
+92,2020-05-03,CHL,Chile,CL.CO,Coquimbo,74,,
+93,2020-05-03,CHL,Chile,CL.LG,Los Lagos,477,9,
+94,2020-05-03,CHL,Chile,CL.LR,Los Ríos,180,5,
+95,2020-05-03,CHL,Chile,CL.MA,Magallanes,693,10,
+96,2020-05-03,CHL,Chile,CL.ML,Maule,384,13,
+97,2020-05-03,CHL,Chile,CL.RM,Santiago Metropolitan,8300,100,
+98,2020-05-03,CHL,Chile,CL.NB,Ñuble,747,14,
+99,2020-05-03,CHL,Chile,CL.LI,O'Higgins,97,1,
+100,2020-05-03,CHL,Chile,CL.TP,Tarapacá,169,1,
+101,2020-05-03,CHL,Chile,CL.VS,Valparaíso,493,10,
+244,2020-05-03,DEU,Germany,DE.RP,Rheinland-Pfalz,6150,177,
+245,2020-05-03,DEU,Germany,DE.SH,Schleswig-Holstein,2788,113,
+247,2020-05-03,DEU,Germany,DE.HE,Hessen,8549,372,
+248,2020-05-03,DEU,Germany,DE.BW,Baden-Württemberg,32411,1421,
+249,2020-05-03,DEU,Germany,DE.BY,Bayern,42997,1926,
+250,2020-05-03,DEU,Germany,DE.NW,Nordrhein-Westfalen,33560,1290,
+251,2020-05-03,DEU,Germany,DE.HB,Bremen,893,30,
+252,2020-05-03,DEU,Germany,DE.HH,Hamburg,4636,166,
+253,2020-05-03,DEU,Germany,DE.NI,Niedersachsen,10325,456,
+254,2020-05-03,DEU,Germany,DE.BE,Berlin,6010,154,
+255,2020-05-03,DEU,Germany,DE.BR,Brandenburg,2914,122,
+256,2020-05-03,DEU,Germany,DE.SN,Sachsen,4702,167,
+257,2020-05-03,DEU,Germany,DE.TH,Thüringen,2355,96,
+258,2020-05-03,DEU,Germany,DE.SL,Saarland,2608,139,
+259,2020-05-03,DEU,Germany,DE.MV,Mecklenburg-Vorpommern,699,18,
+260,2020-05-03,DEU,Germany,DE.ST,Sachsen-Anhalt,1578,45,
+261,2020-05-03,IND,India,IN.KL,Kerala,469,,
+262,2020-05-03,IND,India,IN.DD,Delhi,2918,,
+263,2020-05-03,IND,India,IN.TG,Telangana,1001,,
+264,2020-05-03,IND,India,IN.RJ,Rajasthan,2185,,
+265,2020-05-03,IND,India,IN.HR,Haryana,296,,
+266,2020-05-03,IND,India,IN.UP,Uttar Pradesh,1873,,
+267,2020-05-03,IND,India,IN.LD,Ladakh,20,,
+268,2020-05-03,IND,India,IN.TN,Tamil Nadu,1885,,
+269,2020-05-03,IND,India,IN.JK,Jammu and Kashmir,523,,
+270,2020-05-03,IND,India,IN.KA,Karnataka,503,,
+271,2020-05-03,IND,India,IN.MH,Maharashtra,8068,,
+272,2020-05-03,IND,India,IN.PB,Punjab,322,,
+273,2020-05-03,IND,India,IN.AP,Andhra Pradesh,1097,,
+274,2020-05-03,IND,India,IN.UT,Uttarakhand,51,,
+275,2020-05-03,IND,India,IN.OR,Odisha,103,,
+276,2020-05-03,IND,India,IN.PY,Puducherry,8,,
+277,2020-05-03,IND,India,IN.WB,West Bengal,611,,
+278,2020-05-03,IND,India,IN.CH,Chandigarh,36,,
+279,2020-05-03,IND,India,IN.CT,Chhattisgarh,37,,
+280,2020-05-03,IND,India,IN.GJ,Gujarat,3301,,
+281,2020-05-03,IND,India,IN.HP,Himachal Pradesh,40,,
+282,2020-05-03,IND,India,IN.MP,Madhya Pradesh,2090,,
+283,2020-05-03,IND,India,IN.BR,Bihar,277,,
+284,2020-05-03,IND,India,IN.MN,Manipur,2,,
+285,2020-05-03,IND,India,IN.MZ,Mizoram,1,,
+286,2020-05-03,IND,India,IN.GA,Goa,7,,
+287,2020-05-03,IND,India,IN.AN,Andaman and Nicobar Islands,33,,
+288,2020-05-03,IND,India,IN.JH,Jharkhand,82,,
+289,2020-05-03,IND,India,IN.AS,Assam,36,,
+290,2020-05-03,IND,India,IN.AR,Arunachal Pradesh,1,,
+292,2020-05-03,IND,India,IN.TR,Tripura,2,,
+294,2020-05-03,IND,India,IN.ML,Meghalaya,12,,
+297,2020-05-03,IDN,Indonesia,ID.AC,Aceh,12,,
+298,2020-05-03,IDN,Indonesia,ID.SU,Sumatera Utara,123,,
+299,2020-05-03,IDN,Indonesia,ID.SB,Sumatera Barat,195,,
+300,2020-05-03,IDN,Indonesia,ID.RI,Riau,53,,
+301,2020-05-03,IDN,Indonesia,ID.JA,Jambi,38,,
+302,2020-05-03,IDN,Indonesia,ID.SL,Sumatera Selatan,185,,
+303,2020-05-03,IDN,Indonesia,ID.BE,Bengkulu,12,,
+304,2020-05-03,IDN,Indonesia,ID.LA,Lampung,50,,
+306,2020-05-03,IDN,Indonesia,ID.KR,Kepulauan Riau,92,,
+308,2020-05-03,IDN,Indonesia,ID.JR,Jawa Barat,1059,,
+309,2020-05-03,IDN,Indonesia,ID.JT,Jawa Tengah,776,,
+311,2020-05-03,IDN,Indonesia,ID.JI,Jawa Timur,1117,,
+312,2020-05-03,IDN,Indonesia,ID.BT,Banten,432,,
+313,2020-05-03,IDN,Indonesia,ID.BA,Bali,262,,
+314,2020-05-03,IDN,Indonesia,ID.NB,Nusa Tenggara Barat,269,,
+315,2020-05-03,IDN,Indonesia,ID.NT,Nusa Tenggara Timur,10,,
+316,2020-05-03,IDN,Indonesia,ID.KB,Kalimantan Barat,70,,
+317,2020-05-03,IDN,Indonesia,ID.KT,Kalimantan Tengah,157,,
+318,2020-05-03,IDN,Indonesia,ID.KS,Kalimantan Selatan,195,,
+319,2020-05-03,IDN,Indonesia,ID.KM,Kalimantan Timur,162,,
+321,2020-05-03,IDN,Indonesia,ID.SW,Sulawesi Utara,45,,
+322,2020-05-03,IDN,Indonesia,ID.ST,Sulawesi Tengah,59,,
+323,2020-05-03,IDN,Indonesia,ID.SE,Sulawesi Selatan,601,,
+324,2020-05-03,IDN,Indonesia,ID.SG,Sulawesi Tenggara,64,,
+325,2020-05-03,IDN,Indonesia,ID.GO,Gorontalo,15,,
+326,2020-05-03,IDN,Indonesia,ID.SR,Sulawesi Barat,44,,
+327,2020-05-03,IDN,Indonesia,ID.MA,Maluku,23,,
+328,2020-05-03,IDN,Indonesia,ID.MU,Maluku Utara,50,,
+329,2020-05-03,IDN,Indonesia,ID.PA,Papua,240,,
+330,2020-05-03,IDN,Indonesia,ID.IB,Papua Barat,43,,
+331,2020-05-03,IRN,Iran,IR.QM,Qom,1178,,
+332,2020-05-03,IRN,Iran,IR.TH,Tehran,5098,,
+333,2020-05-03,IRN,Iran,IR.MN,Mazandaran,1700,,
+334,2020-05-03,IRN,Iran,IR.AL,Alborz,1177,,
+335,2020-05-03,IRN,Iran,IR.SM,Semnan,645,,
+336,2020-05-03,IRN,Iran,IR.GI,Golestan,391,,
+337,2020-05-03,IRN,Iran,IR.QZ,Qazvin,669,,
+338,2020-05-03,IRN,Iran,IR.IL,Isfahan,1979,,
+339,2020-05-03,IRN,Iran,IR.ES,Fars,505,,
+340,2020-05-03,IRN,Iran,IR.HD,Hormozgan,148,,
+341,2020-05-03,IRN,Iran,IR.KB,Kohgiluyeh and Boyer-Ahmad,73,,
+342,2020-05-03,IRN,Iran,IR.CM,Chaharmahal and Bakhtiari,68,,
+343,2020-05-03,IRN,Iran,IR.BS,Bushehr,55,,
+344,2020-05-03,IRN,Iran,IR.FA,Gilan,1191,,
+345,2020-05-03,IRN,Iran,IR.AR,Ardabil,289,,
+346,2020-05-03,IRN,Iran,IR.EA,East Azerbaijan,813,,
+347,2020-05-03,IRN,Iran,IR.WA,West Azerbaijan,395,,
+348,2020-05-03,IRN,Iran,IR.KD,Kordestan,238,,
+349,2020-05-03,IRN,Iran,IR.ZA,Zanjan,394,,
+350,2020-05-03,IRN,Iran,IR.MK,Markazi,882,,
+351,2020-05-03,IRN,Iran,IR.GO,Hamadan,175,,
+352,2020-05-03,IRN,Iran,IR.KZ,Khuzestan,444,,
+353,2020-05-03,IRN,Iran,IR.BK,Kermanshah,243,,
+354,2020-05-03,IRN,Iran,IR.LO,Lorestan,476,,
+355,2020-05-03,IRN,Iran,IR.HG,Ilam,183,,
+356,2020-05-03,IRN,Iran,IR.KV,Razavi Khorasan,858,,
+357,2020-05-03,IRN,Iran,IR.SB,Sistan and Baluchestan,134,,
+358,2020-05-03,IRN,Iran,IR.YA,Yazd,725,,
+359,2020-05-03,IRN,Iran,IR.KJ,South Khorasan,178,,
+360,2020-05-03,IRN,Iran,IR.KE,Kerman,169,,
+361,2020-05-03,IRN,Iran,IR.KS,North Khorasan,165,,
+362,2020-05-03,IRL,Ireland,IE.DN,Dublin,9624,,
+363,2020-05-03,IRL,Ireland,IE.CW,Carlow,93,,
+364,2020-05-03,IRL,Ireland,IE.CN,Cavan,627,,
+365,2020-05-03,IRL,Ireland,IE.CE,Clare,229,,
+366,2020-05-03,IRL,Ireland,IE.DL,Donegal,453,,
+367,2020-05-03,IRL,Ireland,IE.KE,Kildare,1147,,
+368,2020-05-03,IRL,Ireland,IE.KK,Kilkenny,233,,
+369,2020-05-03,IRL,Ireland,IE.LD,Longford,135,,
+370,2020-05-03,IRL,Ireland,IE.LH,Louth,640,,
+371,2020-05-03,IRL,Ireland,IE.MO,Mayo,466,,
+372,2020-05-03,IRL,Ireland,IE.MH,Meath,638,,
+373,2020-05-03,IRL,Ireland,IE.CK,Cork,1126,,
+374,2020-05-03,IRL,Ireland,IE.RN,Roscommon,141,,
+375,2020-05-03,IRL,Ireland,IE.LK,Limerick,518,,
+376,2020-05-03,IRL,Ireland,IE.GY,Galway,332,,
+377,2020-05-03,IRL,Ireland,IE.WW,Wicklow,558,,
+378,2020-05-03,IRL,Ireland,IE.WH,Westmeath,448,,
+379,2020-05-03,IRL,Ireland,IE.OY,Offaly,236,,
+380,2020-05-03,IRL,Ireland,IE.KY,Kerry,288,,
+381,2020-05-03,IRL,Ireland,IE.WX,Wexford,162,,
+382,2020-05-03,IRL,Ireland,IE.TY,Tipperary,370,,
+383,2020-05-03,IRL,Ireland,IE.SO,Sligo,117,,
+384,2020-05-03,IRL,Ireland,IE.WD,Waterford,138,,
+385,2020-05-03,IRL,Ireland,IE.LS,Laois,212,,
+386,2020-05-03,IRL,Ireland,IE.LM,Leitrim,67,,
+387,2020-05-03,IRL,Ireland,IE.MN,Monaghan,385,,
+388,2020-05-03,ITA,Italy,IT.AB,Abruzzo,2996,330,798
+389,2020-05-03,ITA,Italy,IT.PU,Basilicata,386,25,167
+390,2020-05-03,ITA,Italy,IT.BC,Trentino-Alto Adige,6783,710,4161
+391,2020-05-03,ITA,Italy,IT.LB,Calabria,1114,88,324
+392,2020-05-03,ITA,Italy,IT.CM,Campania,4484,364,1394
+393,2020-05-03,ITA,Italy,IT.ER,Emilia Romagna,26016,3642,13329
+394,2020-05-03,ITA,Italy,IT.FV,Friuli V. G.,3072,297,1688
+395,2020-05-03,ITA,Italy,IT.LZ,Lazio,6809,508,1916
+396,2020-05-03,ITA,Italy,IT.LG,Liguria,8359,1209,3599
+397,2020-05-03,ITA,Italy,IT.LM,Lombardia,77528,14231,26371
+398,2020-05-03,ITA,Italy,IT.MH,Marche,6319,927,2194
+399,2020-05-03,ITA,Italy,IT.ML,Molise,301,22,98
+400,2020-05-03,ITA,Italy,IT.PM,Piemonte,27430,3152,8640
+401,2020-05-03,ITA,Italy,IT.SD,Puglia,4144,424,765
+402,2020-05-03,ITA,Italy,IT.SC,Sardegna,1319,119,511
+403,2020-05-03,ITA,Italy,IT.TT,Sicilia,3240,242,795
+404,2020-05-03,ITA,Italy,IT.TC,Toscana,9563,872,3363
+405,2020-05-03,ITA,Italy,IT.UM,Umbria,1394,68,1143
+406,2020-05-03,ITA,Italy,IT.VD,Valle d'Aosta,1142,138,895
+407,2020-05-03,ITA,Italy,IT.VN,Veneto,18318,1516,9503
+408,2020-05-03,JPN,Japan,JP.HK,Hokkaido,843,41,
+409,2020-05-03,JPN,Japan,JP.AO,Aomori,26,,
+411,2020-05-03,JPN,Japan,JP.MG,Miyagi,88,,
+412,2020-05-03,JPN,Japan,JP.AK,Akita,15,,
+413,2020-05-03,JPN,Japan,JP.YT,Yamagata,68,,
+414,2020-05-03,JPN,Japan,JP.FS,Fukushima,78,,
+415,2020-05-03,JPN,Japan,JP.IB,Ibaraki,165,8,
+416,2020-05-03,JPN,Japan,JP.TC,Tochigi,54,,
+417,2020-05-03,JPN,Japan,JP.GM,Gunma,146,16,
+418,2020-05-03,JPN,Japan,JP.ST,Saitama,897,38,
+419,2020-05-03,JPN,Japan,JP.CH,Chiba,853,34,
+420,2020-05-03,JPN,Japan,JP.TK,Tokyo,4568,145,
+421,2020-05-03,JPN,Japan,JP.KN,Kanagawa,1097,42,
+422,2020-05-03,JPN,Japan,JP.NI,Niigata,77,,
+423,2020-05-03,JPN,Japan,JP.TY,Toyama,212,11,
+424,2020-05-03,JPN,Japan,JP.IS,Ishikawa,264,15,
+425,2020-05-03,JPN,Japan,JP.FI,Fukui,122,8,
+426,2020-05-03,JPN,Japan,JP.YN,Yamanashi,56,,
+427,2020-05-03,JPN,Japan,JP.NN,Nagano,70,,
+428,2020-05-03,JPN,Japan,JP.GF,Gifu,150,6,
+429,2020-05-03,JPN,Japan,JP.SZ,Shizuoka,73,1,
+430,2020-05-03,JPN,Japan,JP.AI,Aichi,487,34,
+431,2020-05-03,JPN,Japan,JP.ME,Mie,44,1,
+432,2020-05-03,JPN,Japan,JP.SH,Shiga,95,1,
+433,2020-05-03,JPN,Japan,JP.KY,Kyoto,331,12,
+434,2020-05-03,JPN,Japan,JP.OS,Osaka,1666,50,
+435,2020-05-03,JPN,Japan,JP.HG,Hyogo,667,28,
+436,2020-05-03,JPN,Japan,JP.NR,Nara,83,1,
+437,2020-05-03,JPN,Japan,JP.WK,Wakayama,62,2,
+438,2020-05-03,JPN,Japan,JP.TT,Tottori,3,,
+439,2020-05-03,JPN,Japan,JP.SM,Shimane,24,,
+440,2020-05-03,JPN,Japan,JP.OY,Okayama,22,,
+441,2020-05-03,JPN,Japan,JP.HS,Hiroshima,161,2,
+442,2020-05-03,JPN,Japan,JP.YC,Yamaguchi,34,,
+443,2020-05-03,JPN,Japan,JP.TS,Tokushima,5,1,
+444,2020-05-03,JPN,Japan,JP.KG,Kagawa,28,,
+445,2020-05-03,JPN,Japan,JP.EH,Ehime,48,3,
+446,2020-05-03,JPN,Japan,JP.KC,Kōchi,74,3,
+447,2020-05-03,JPN,Japan,JP.FO,Fukuoka,646,24,
+448,2020-05-03,JPN,Japan,JP.SG,Saga,44,,
+449,2020-05-03,JPN,Japan,JP.NS,Nagasaki,17,1,
+450,2020-05-03,JPN,Japan,JP.KM,Kumamoto,46,2,
+451,2020-05-03,JPN,Japan,JP.OT,Oita,60,1,
+452,2020-05-03,JPN,Japan,JP.MZ,Miyazaki,17,,
+453,2020-05-03,JPN,Japan,JP.KS,Kagoshima,10,,
+454,2020-05-03,JPN,Japan,JP.ON,Okinawa,142,5,
+457,2020-05-03,KOR,South Korea,KR.TG,Daegu,6798,,
+458,2020-05-03,KOR,South Korea,KR.KB,Gyeongsangbuk-do,1314,,
+459,2020-05-03,KOR,South Korea,KR.KN,Gyeongsangnam-do,108,,
+460,2020-05-03,KOR,South Korea,KR.KW,Gangwon-do,44,,
+461,2020-05-03,KOR,South Korea,KR.KG,Gyeonggi-do,580,,
+462,2020-05-03,KOR,South Korea,KR.SO,Seoul,558,,
+463,2020-05-03,KOR,South Korea,KR.KJ,Gwangju,28,,
+464,2020-05-03,KOR,South Korea,KR.TJ,Daejeon,39,,
+465,2020-05-03,KOR,South Korea,KR.PU,Busan,114,,
+466,2020-05-03,KOR,South Korea,KR.UL,Ulsan,40,,
+467,2020-05-03,KOR,South Korea,KR.CN,Jeollanam-do,17,,
+468,2020-05-03,KOR,South Korea,KR.CB,Jeollabuk-do,15,,
+469,2020-05-03,KOR,South Korea,KR.GB,Chungcheongbuk-do,45,,
+470,2020-05-03,KOR,South Korea,KR.GN,Chungcheongnam-do,136,,
+471,2020-05-03,KOR,South Korea,KR.SJ,Sejong City,46,,
+472,2020-05-03,KOR,South Korea,KR.IN,Incheon,79,,
+473,2020-05-03,KOR,South Korea,KR.CJ,Jeju-do,12,,
+475,2020-05-03,MYS,Malaysia,MY.PL,Perlis,18,,
+476,2020-05-03,MYS,Malaysia,MY.KH,Kedah,95,,
+477,2020-05-03,MYS,Malaysia,MY.PG,Pulau Pinang,121,,
+478,2020-05-03,MYS,Malaysia,MY.PK,Perak,253,,
+479,2020-05-03,MYS,Malaysia,MY.SL,Selangor,1529,,
+480,2020-05-03,MYS,Malaysia,MY.NS,Negeri Sembilan,592,,
+481,2020-05-03,MYS,Malaysia,MY.ME,Melaka,204,,
+482,2020-05-03,MYS,Malaysia,MY.JH,Johor,667,,
+483,2020-05-03,MYS,Malaysia,MY.PH,Pahang,305,,
+484,2020-05-03,MYS,Malaysia,MY.TE,Terengganu,110,,
+485,2020-05-03,MYS,Malaysia,MY.KN,Kelantan,155,,
+486,2020-05-03,MYS,Malaysia,MY.SA,Sabah,316,,
+487,2020-05-03,MYS,Malaysia,MY.SK,Sarawak,523,,
+488,2020-05-03,MYS,Malaysia,MY.KL,Kuala Lumpur,1308,,
+489,2020-05-03,MYS,Malaysia,MY.PJ,Putrajaya,86,,
+490,2020-05-03,MYS,Malaysia,MY.LA,Labuan,16,,
+491,2020-05-03,MEX,Mexico,MX.AG,Aguascalientes,267,7,
+492,2020-05-03,MEX,Mexico,MX.BN,Baja California,1676,238,
+493,2020-05-03,MEX,Mexico,MX.BS,Baja California Sur,339,18,
+494,2020-05-03,MEX,Mexico,MX.CM,Campeche,161,22,
+495,2020-05-03,MEX,Mexico,MX.CP,Chiapas,222,9,
+496,2020-05-03,MEX,Mexico,MX.CH,Chihuahua,513,92,
+497,2020-05-03,MEX,Mexico,MX.DF,Ciudad de Mexico,7486,472,
+498,2020-05-03,MEX,Mexico,MX.CA,Coahuila,450,42,1
+499,2020-05-03,MEX,Mexico,MX.CL,Colima,28,4,
+500,2020-05-03,MEX,Mexico,MX.DU,Durango,74,7,
+501,2020-05-03,MEX,Mexico,MX.GJ,Guanajuato,308,31,
+502,2020-05-03,MEX,Mexico,MX.GR,Guerrero,332,48,
+503,2020-05-03,MEX,Mexico,MX.HI,Hidalgo,307,42,
+504,2020-05-03,MEX,Mexico,MX.JA,Jalisco,419,33,
+505,2020-05-03,MEX,Mexico,MX.MC,Michoacan,381,51,
+506,2020-05-03,MEX,Mexico,MX.MR,Morelos,413,49,
+507,2020-05-03,MEX,Mexico,MX.MX,México,2842,199,1
+508,2020-05-03,MEX,Mexico,MX.NA,Nayarit,107,12,
+509,2020-05-03,MEX,Mexico,MX.NL,Nuevo Leon,428,20,
+510,2020-05-03,MEX,Mexico,MX.OA,Oaxaca,164,23,
+511,2020-05-03,MEX,Mexico,MX.PU,Puebla,815,102,
+512,2020-05-03,MEX,Mexico,MX.QE,Queretaro,165,16,
+513,2020-05-03,MEX,Mexico,MX.QR,Quintana Roo,900,118,
+514,2020-05-03,MEX,Mexico,MX.SL,San Luis Potosi,145,8,
+515,2020-05-03,MEX,Mexico,MX.SI,Sinaloa,1125,170,1
+516,2020-05-03,MEX,Mexico,MX.SO,Sonora,239,23,
+517,2020-05-03,MEX,Mexico,MX.TB,Tabasco,1185,145,
+518,2020-05-03,MEX,Mexico,MX.TM,Tamaulipas,381,22,
+519,2020-05-03,MEX,Mexico,MX.TL,Tlaxcala,246,23,
+520,2020-05-03,MEX,Mexico,MX.VE,Veracruz,673,64,
+521,2020-05-03,MEX,Mexico,MX.YU,Yucatan,584,31,
+522,2020-05-03,MEX,Mexico,MX.ZA,Zacatecas,96,13,
+1173,2020-05-03,RUS,Russia,RU.SP,Saint Petersburg,4734,33,877
+1174,2020-05-03,RUS,Russia,RU.MS,Moscow Oblast,13314,109,503
+1175,2020-05-03,RUS,Russia,RU.SA,Samara Oblast,433,5,53
+1176,2020-05-03,RUS,Russia,RU.SK,Saha Republic,263,3,35
+1177,2020-05-03,RUS,Russia,RU.SV,Sverdlov Oblast,1016,1,120
+1178,2020-05-03,RUS,Russia,RU.KN,Kaliningrad Oblast,438,6,98
+1179,2020-05-03,RUS,Russia,RU.KV,Kirov Oblast,543,4,59
+1180,2020-05-03,RUS,Russia,RU.NS,Novosibirsk Oblast,569,7,105
+1181,2020-05-03,RUS,Russia,RU.KX,Krasnoyarskiy Kray,764,9,146
+1182,2020-05-03,RUS,Russia,RU.TB,Tambov Oblast,729,2,110
+1183,2020-05-03,RUS,Russia,RU.LP,Lipetsk Oblast,481,2,89
+1184,2020-05-03,RUS,Russia,RU.TV,Tver Oblast,610,3,74
+1185,2020-05-03,RUS,Russia,RU.KH,Habarovskiy Kray,595,7,99
+1186,2020-05-03,RUS,Russia,RU.TY,Tumen Oblast,458,3,140
+1187,2020-05-03,RUS,Russia,RU.TL,Tula Oblast,1135,7,138
+1188,2020-05-03,RUS,Russia,RU.PE,Perm Oblast,556,9,161
+1189,2020-05-03,RUS,Russia,RU.NZ,Nizhegorodskaya Oblast,2443,14,318
+1190,2020-05-03,RUS,Russia,RU.KD,Krasnodarskiy Kray,1162,20,319
+1191,2020-05-03,RUS,Russia,RU.VR,Voronezh Oblast,565,9,84
+1192,2020-05-03,RUS,Russia,RU.KE,Kemerovo Oblast,142,2,19
+1193,2020-05-03,RUS,Russia,RU.KK,Republic of Hakassia,266,7,22
+1194,2020-05-03,RUS,Russia,RU.MM,Murmansk Oblast,1456,4,116
+1195,2020-05-03,RUS,Russia,RU.KO,Komi Republic,656,5,91
+1196,2020-05-03,RUS,Russia,RU.KG,Kaluga Oblast,1065,12,95
+1197,2020-05-03,RUS,Russia,RU.IV,Ivanovo Oblast,434,3,85
+1198,2020-05-03,RUS,Russia,RU.ZB,Zabaykalskiy Kray,155,,49
+1199,2020-05-03,RUS,Russia,RU.TO,Tomsk Oblast,102,1,24
+1200,2020-05-03,RUS,Russia,RU.AR,Arkhangelsk Oblast,238,1,69
+1201,2020-05-03,RUS,Russia,RU.RZ,Ryazan Oblast,1021,5,64
+1202,2020-05-03,RUS,Russia,RU.CV,Republic of Chuvashia,676,8,131
+1203,2020-05-03,RUS,Russia,RU.UL,Ulianovsk Oblast,461,4,78
+1204,2020-05-03,RUS,Russia,RU.YS,Yaroslavl Oblast,634,5,64
+1205,2020-05-03,RUS,Russia,RU.PZ,Pensa Oblast,481,7,148
+1206,2020-05-03,RUS,Russia,RU.BL,Belgorod Oblast,419,5,47
+1207,2020-05-03,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,414,3,112
+1208,2020-05-03,RUS,Russia,RU.LN,Leningradskaya Oblast,975,3,170
+1209,2020-05-03,RUS,Russia,RU.OB,Orenburg Oblast,591,4,190
+1210,2020-05-03,RUS,Russia,RU.SR,Saratov Oblast,535,3,73
+1211,2020-05-03,RUS,Russia,RU.TT,Republic of Tatarstan,960,2,100
+1212,2020-05-03,RUS,Russia,RU.KU,Kurgan Oblast,49,,11
+1213,2020-05-03,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,544,2,91
+1214,2020-05-03,RUS,Russia,RU.CL,Cheliabinsk Oblast,568,2,66
+1215,2020-05-03,RUS,Russia,RU.ST,Stavropolskiy Kray,676,14,116
+1216,2020-05-03,RUS,Russia,RU.BR,Briansk Oblast,1062,9,261
+1217,2020-05-03,RUS,Russia,RU.UD,Republic of Udmurtia,244,9,45
+1218,2020-05-03,RUS,Russia,RU.NG,Novgorod Oblast,322,2,31
+1220,2020-05-03,RUS,Russia,RU.BK,Republic of Bashkortostan,935,14,176
+1221,2020-05-03,RUS,Russia,RU.CN,Chechen Republic,525,8,276
+1222,2020-05-03,RUS,Russia,RU.PR,Primorskiy Kray,455,4,61
+1223,2020-05-03,RUS,Russia,RU.VG,Volgograd Oblast,432,9,88
+1224,2020-05-03,RUS,Russia,RU.OL,Orel Oblast,594,6,88
+1225,2020-05-03,RUS,Russia,RU.PS,Pskov Oblast,177,8,19
+1226,2020-05-03,RUS,Russia,RU.RO,Rostov Oblast,1106,9,101
+1227,2020-05-03,RUS,Russia,RU.BU,Republic of Buriatia,325,4,96
+1228,2020-05-03,RUS,Russia,RU.MR,Republic of Mordovia,765,3,94
+1229,2020-05-03,RUS,Russia,RU.DA,Republic of Dagestan,1662,12,170
+1230,2020-05-03,RUS,Russia,RU.SL,Sakhalin Oblast,24,,19
+1231,2020-05-03,RUS,Russia,RU.KT,Kostroma Oblast,241,3,42
+1232,2020-05-03,RUS,Russia,RU.SM,Smolensk Oblast,499,3,69
+1233,2020-05-03,RUS,Russia,RU.AD,Republic of Adygeia,168,5,49
+1234,2020-05-03,RUS,Russia,RU.OM,Omsk Oblast,116,3,26
+1235,2020-05-03,RUS,Russia,RU.IK,Irkutsk Oblast,130,4,53
+1236,2020-05-03,RUS,Russia,RU.AM,Amursk Oblast,72,1,13
+1237,2020-05-03,RUS,Russia,RU.AL,Altayskiy Kray,451,1,69
+1238,2020-05-03,RUS,Russia,RU.VL,Vladimir Oblast,775,7,37
+1239,2020-05-03,RUS,Russia,RU.VO,Vologda Oblast,199,,65
+1240,2020-05-03,RUS,Russia,RU.KL,Republic of Kalmykia,254,4,41
+1241,2020-05-03,RUS,Russia,RU.ME,Republic of Mariy El,628,3,373
+1242,2020-05-03,RUS,Russia,RU.AS,Astrahan Oblast,411,4,83
+1243,2020-05-03,RUS,Russia,RU.MG,Magadan Oblast,114,2,34
+1245,2020-05-03,RUS,Russia,RU.KS,Kursk Oblast,861,4,103
+1246,2020-05-03,RUS,Russia,RU.NO,Republic of North Osetia-Alania,921,4,86
+1247,2020-05-03,RUS,Russia,RU.YN,Yamalo-Nenetskiy AO,557,1,118
+1248,2020-05-03,RUS,Russia,RU.YV,Jewish Autonomous Oblast,134,,13
+1249,2020-05-03,RUS,Russia,RU.IN,Ingushetia Republic,814,23,152
+1250,2020-05-03,RUS,Russia,RU.KQ,Kamchatskiy Kray,286,,22
+1251,2020-05-03,RUS,Russia,RU.KI,Republic of Karelia,81,,11
+1252,2020-05-03,RUS,Russia,RU.KC,Republic of Karachaevo-Cherkessia,412,2,15
+1253,2020-05-03,RUS,Russia,RU.TU,Republic of Tyva,40,,29
+1254,2020-05-03,RUS,Russia,RU.NN,Nenetskiy Autonomous Oblast,34,,1
+1255,2020-05-03,RUS,Russia,RU.CK,Chukotskiy Autonomous Oblast,23,,2
+1268,2020-05-03,ZAF,South Africa,ZA.EC,Eastern Cape,774,,
+1269,2020-05-03,ZAF,South Africa,ZA.FS,Free State,122,,
+1270,2020-05-03,ZAF,South Africa,ZA.GT,Gauteng,1624,,
+1271,2020-05-03,ZAF,South Africa,ZA.NL,KwaZulu-Natal,1076,,
+1272,2020-05-03,ZAF,South Africa,ZA.NP,Limpopo,37,,
+1273,2020-05-03,ZAF,South Africa,ZA.MP,Mpumalanga,46,,
+1274,2020-05-03,ZAF,South Africa,ZA.NC,Northern Cape,24,,
+1275,2020-05-03,ZAF,South Africa,ZA.NW,North West,36,,
+1276,2020-05-03,ZAF,South Africa,ZA.WC,Western Cape,3044,,
+1278,2020-05-03,ESP,Spain,ES.AN,Andalucía,14287,1256,6897
+1279,2020-05-03,ESP,Spain,ES.AR,Aragón,6208,761,2558
+1280,2020-05-03,ESP,Spain,ES.AS,Asturias,2884,280,908
+1281,2020-05-03,ESP,Spain,ES.PM,Baleares,1990,197,1284
+1282,2020-05-03,ESP,Spain,ES.CN,Canarias,2221,140,1150
+1283,2020-05-03,ESP,Spain,ES.CB,Cantabria,2589,195,1616
+1284,2020-05-03,ESP,Spain,ES.CM,Castilla-La Mancha,21290,2565,5772
+1285,2020-05-03,ESP,Spain,ES.CL,Castilla y León,21229,1800,6856
+1286,2020-05-03,ESP,Spain,ES.CT,Cataluña,51261,5185,20332
+1287,2020-05-03,ESP,Spain,ES.CE,Ceuta,152,4,141
+1288,2020-05-03,ESP,Spain,ES.VC,C. Valenciana,12686,1264,7447
+1289,2020-05-03,ESP,Spain,ES.EX,Extremadura,3712,460,2072
+1290,2020-05-03,ESP,Spain,ES.GA,Galicia,9825,563,6075
+1291,2020-05-03,ESP,Spain,ES.MD,Madrid,66814,8332,37704
+1292,2020-05-03,ESP,Spain,ES.ML,Melilla,129,2,98
+1293,2020-05-03,ESP,Spain,ES.MU,Murcia,1974,134,1260
+1294,2020-05-03,ESP,Spain,ES.NA,Navarra,6427,462,2411
+1295,2020-05-03,ESP,Spain,ES.PV,País Vasco,16197,1329,12024
+1296,2020-05-03,ESP,Spain,ES.LO,La Rioja,5247,335,2297
+1614,2020-05-03,USA,United States of America,US.AL,Alabama,7888,290,
+1615,2020-05-03,USA,United States of America,US.AK,Alaska,368,9,
+1616,2020-05-03,USA,United States of America,US.AZ,Arizona,8640,362,
+1617,2020-05-03,USA,United States of America,US.AR,Arkansas,3437,76,
+1618,2020-05-03,USA,United States of America,US.CA,California,54924,2217,
+1619,2020-05-03,USA,United States of America,US.CO,Colorado,16635,842,
+1620,2020-05-03,USA,United States of America,US.CT,Connecticut,29287,2436,
+1621,2020-05-03,USA,United States of America,US.DC,District of Columbia,5016,251,
+1622,2020-05-03,USA,United States of America,US.DE,Delaware,5208,177,
+1623,2020-05-03,USA,United States of America,US.FL,Florida,36078,1379,
+1624,2020-05-03,USA,United States of America,US.GA,Georgia,28686,1186,
+1625,2020-05-03,USA,United States of America,US.HI,Hawaii,620,17,
+1626,2020-05-03,USA,United States of America,US.ID,Idaho,2061,64,
+1627,2020-05-03,USA,United States of America,US.IL,Illinois,61499,2618,
+1628,2020-05-03,USA,United States of America,US.IN,Indiana,19933,1132,
+1629,2020-05-03,USA,United States of America,US.IA,Iowa,9175,184,
+1630,2020-05-03,USA,United States of America,US.KS,Kansas,5156,144,
+1631,2020-05-03,USA,United States of America,US.KY,Kentucky,5130,253,
+1632,2020-05-03,USA,United States of America,US.LA,Louisiana,29340,2012,
+1633,2020-05-03,USA,United States of America,US.ME,Maine,1185,57,
+1634,2020-05-03,USA,United States of America,US.MD,Maryland,25462,1324,
+1635,2020-05-03,USA,United States of America,US.MA,Massachusetts,68087,4004,
+1636,2020-05-03,USA,United States of America,US.MI,Michigan,35889,3245,
+1637,2020-05-03,USA,United States of America,US.MN,Minnesota,6663,418,
+1638,2020-05-03,USA,United States of America,US.MS,Mississippi,7550,303,
+1639,2020-05-03,USA,United States of America,US.MO,Missouri,8602,381,
+1640,2020-05-03,USA,United States of America,US.MT,Montana,455,16,
+1641,2020-05-03,USA,United States of America,US.NE,Nebraska,5661,78,
+1642,2020-05-03,USA,United States of America,US.NV,Nevada,5472,259,
+1643,2020-05-03,USA,United States of America,US.NH,New Hampshire,1989,78,
+1644,2020-05-03,USA,United States of America,US.NJ,New Jersey,126744,7871,
+1645,2020-05-03,USA,United States of America,US.NM,New Mexico,3850,151,
+1646,2020-05-03,USA,United States of America,US.NY,New York,321974,24661,
+1647,2020-05-03,USA,United States of America,US.NC,North Carolina,11770,434,
+1648,2020-05-03,USA,United States of America,US.ND,North Dakota,1191,25,
+1649,2020-05-03,USA,United States of America,US.OH,Ohio,19914,1039,
+1650,2020-05-03,USA,United States of America,US.OK,Oklahoma,3972,238,
+1651,2020-05-03,USA,United States of America,US.OR,Oregon,2680,109,
+1652,2020-05-03,USA,United States of America,US.PA,Pennsylvania,51225,2720,
+1653,2020-05-03,USA,United States of America,US.RI,Rhode Island,9477,320,
+1654,2020-05-03,USA,United States of America,US.SC,South Carolina,6626,275,
+1655,2020-05-03,USA,United States of America,US.SD,South Dakota,2631,21,
+1656,2020-05-03,USA,United States of America,US.TN,Tennessee,13177,210,
+1657,2020-05-03,USA,United States of America,US.TX,Texas,28090,809,
+1658,2020-05-03,USA,United States of America,US.UT,Utah,5175,50,
+1659,2020-05-03,USA,United States of America,US.VT,Vermont,897,53,
+1660,2020-05-03,USA,United States of America,US.VA,Virginia,18672,660,
+1661,2020-05-03,USA,United States of America,US.WA,Washington,15761,834,
+1662,2020-05-03,USA,United States of America,US.WV,West Virginia,1195,48,
+1663,2020-05-03,USA,United States of America,US.WI,Wisconsin,7964,339,
+1664,2020-05-03,USA,United States of America,US.WY,Wyoming,586,7,
