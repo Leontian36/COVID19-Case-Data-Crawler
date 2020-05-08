@@ -24,11 +24,11 @@
 25,2020-05-07,AUS,Australia,AU.AC,Australian Capital Territory,107,3,103
 26,2020-05-07,AUS,Australia,AU.NS,New South Wales,3047,44,2486
 27,2020-05-07,AUS,Australia,AU.NT,Northern Territory,29,,27
-28,2020-05-07,AUS,Australia,AU.QL,Queensland,1045,6,989
+28,2020-05-07,AUS,Australia,AU.QL,Queensland,1045,6,994
 29,2020-05-07,AUS,Australia,AU.SA,South Australia,439,4,433
-30,2020-05-07,AUS,Australia,AU.TS,Tasmania,227,13,167
-31,2020-05-07,AUS,Australia,AU.VI,Victoria,1455,18,1322
-32,2020-05-07,AUS,Australia,AU.WA,Western Australia,551,9,531
+30,2020-05-07,AUS,Australia,AU.TS,Tasmania,227,13,174
+31,2020-05-07,AUS,Australia,AU.VI,Victoria,1467,18,1327
+32,2020-05-07,AUS,Australia,AU.WA,Western Australia,552,9,534
 33,2020-05-07,AUT,Austria,AT.TR,Tirol,3515,106,3275
 34,2020-05-07,AUT,Austria,AT.SZ,Salzburg,1213,36,1140
 35,2020-05-07,AUT,Austria,AT.ST,Steiermark,1787,134,1350
@@ -66,7 +66,7 @@
 70,2020-05-07,BRA,Brazil,BR.MT,Mato Grosso,417,13,
 71,2020-05-07,BRA,Brazil,BR.MS,Mato Grosso do Sul,311,10,
 72,2020-05-07,CAN,Canada,CA.AB,Alberta,6017,114,
-73,2020-05-07,CAN,Canada,CA.BC,British Columbia,2255,124,
+73,2020-05-07,CAN,Canada,CA.BC,British Columbia,2288,126,
 75,2020-05-07,CAN,Canada,CA.MB,Manitoba,283,7,
 76,2020-05-07,CAN,Canada,CA.NB,New Brunswick,120,,
 77,2020-05-07,CAN,Canada,CA.NF,Newfoundland and Labrador,261,3,
@@ -450,42 +450,23 @@
 1274,2020-05-07,ZAF,South Africa,ZA.NC,Northern Cape,27,,
 1275,2020-05-07,ZAF,South Africa,ZA.NW,North West,40,,
 1276,2020-05-07,ZAF,South Africa,ZA.WC,Western Cape,3994,,
-1278,2020-05-07,ESP,Spain,ES.AN,Andalucía,14870,1294,8076
-1279,2020-05-07,ESP,Spain,ES.AR,Aragón,6516,800,2880
-1280,2020-05-07,ESP,Spain,ES.AS,Asturias,3099,292,971
-1281,2020-05-07,ESP,Spain,ES.PM,Baleares,2023,201,1345
-1282,2020-05-07,ESP,Spain,ES.CN,Canarias,2235,144,1258
-1283,2020-05-07,ESP,Spain,ES.CB,Cantabria,2642,200,1758
-1284,2020-05-07,ESP,Spain,ES.CM,Castilla-La Mancha,22567,2677,5895
-1285,2020-05-07,ESP,Spain,ES.CL,Castilla y León,22537,1864,7149
-1286,2020-05-07,ESP,Spain,ES.CT,Cataluña,52505,5394,23231
-1287,2020-05-07,ESP,Spain,ES.CE,Ceuta,165,4,150
-1288,2020-05-07,ESP,Spain,ES.VC,C. Valenciana,13311,1303,8010
-1289,2020-05-07,ESP,Spain,ES.EX,Extremadura,3808,467,2265
-1290,2020-05-07,ESP,Spain,ES.GA,Galicia,10292,586,6959
-1291,2020-05-07,ESP,Spain,ES.MD,Madrid,68662,8504,38670
-1292,2020-05-07,ESP,Spain,ES.ML,Melilla,132,2,108
-1293,2020-05-07,ESP,Spain,ES.MU,Murcia,2192,137,1527
-1294,2020-05-07,ESP,Spain,ES.NA,Navarra,7010,480,2732
-1295,2020-05-07,ESP,Spain,ES.PV,País Vasco,16959,1383,13070
-1296,2020-05-07,ESP,Spain,ES.LO,La Rioja,5330,338,2457
 1614,2020-05-07,USA,United States of America,US.AL,Alabama,9046,369,
 1615,2020-05-07,USA,United States of America,US.AK,Alaska,374,10,
-1616,2020-05-07,USA,United States of America,US.AZ,Arizona,9945,450,
+1616,2020-05-07,USA,United States of America,US.AZ,Arizona,9954,450,
 1617,2020-05-07,USA,United States of America,US.AR,Arkansas,3703,87,
-1618,2020-05-07,USA,United States of America,US.CA,California,61902,2525,
+1618,2020-05-07,USA,United States of America,US.CA,California,62360,2546,
 1619,2020-05-07,USA,United States of America,US.CO,Colorado,18370,944,
 1620,2020-05-07,USA,United States of America,US.CT,Connecticut,31784,2797,
 1621,2020-05-07,USA,United States of America,US.DC,District of Columbia,5654,285,
 1622,2020-05-07,USA,United States of America,US.DE,Delaware,5939,202,
 1623,2020-05-07,USA,United States of America,US.FL,Florida,38828,1600,
-1624,2020-05-07,USA,United States of America,US.GA,Georgia,31599,1352,
+1624,2020-05-07,USA,United States of America,US.GA,Georgia,31603,1352,
 1625,2020-05-07,USA,United States of America,US.HI,Hawaii,629,17,
 1626,2020-05-07,USA,United States of America,US.ID,Idaho,2158,66,
 1627,2020-05-07,USA,United States of America,US.IL,Illinois,70871,3111,
 1628,2020-05-07,USA,United States of America,US.IN,Indiana,22503,1414,
 1629,2020-05-07,USA,United States of America,US.IA,Iowa,11059,231,
-1630,2020-05-07,USA,United States of America,US.KS,Kansas,6264,165,
+1630,2020-05-07,USA,United States of America,US.KS,Kansas,6332,165,
 1631,2020-05-07,USA,United States of America,US.KY,Kentucky,6129,294,
 1632,2020-05-07,USA,United States of America,US.LA,Louisiana,30652,2208,
 1633,2020-05-07,USA,United States of America,US.ME,Maine,1330,62,
@@ -496,13 +477,13 @@
 1638,2020-05-07,USA,United States of America,US.MS,Mississippi,8686,396,
 1639,2020-05-07,USA,United States of America,US.MO,Missouri,9565,449,
 1640,2020-05-07,USA,United States of America,US.MT,Montana,456,16,
-1641,2020-05-07,USA,United States of America,US.NE,Nebraska,7334,91,
+1641,2020-05-07,USA,United States of America,US.NE,Nebraska,7066,91,
 1642,2020-05-07,USA,United States of America,US.NV,Nevada,5744,289,
 1643,2020-05-07,USA,United States of America,US.NH,New Hampshire,2213,106,
 1644,2020-05-07,USA,United States of America,US.NJ,New Jersey,131890,8549,
 1645,2020-05-07,USA,United States of America,US.NM,New Mexico,4493,172,
 1646,2020-05-07,USA,United States of America,US.NY,New York,333576,25923,
-1647,2020-05-07,USA,United States of America,US.NC,North Carolina,13517,513,
+1647,2020-05-07,USA,United States of America,US.NC,North Carolina,13540,513,
 1648,2020-05-07,USA,United States of America,US.ND,North Dakota,1371,31,
 1649,2020-05-07,USA,United States of America,US.OH,Ohio,22131,1271,
 1650,2020-05-07,USA,United States of America,US.OK,Oklahoma,4330,260,
@@ -512,11 +493,11 @@
 1654,2020-05-07,USA,United States of America,US.SC,South Carolina,7142,316,
 1655,2020-05-07,USA,United States of America,US.SD,South Dakota,2906,31,
 1656,2020-05-07,USA,United States of America,US.TN,Tennessee,13932,238,
-1657,2020-05-07,USA,United States of America,US.TX,Texas,31809,900,
+1657,2020-05-07,USA,United States of America,US.TX,Texas,31820,900,
 1658,2020-05-07,USA,United States of America,US.UT,Utah,5724,61,
 1659,2020-05-07,USA,United States of America,US.VT,Vermont,916,53,
 1660,2020-05-07,USA,United States of America,US.VA,Virginia,21570,769,
-1661,2020-05-07,USA,United States of America,US.WA,Washington,16845,899,
+1661,2020-05-07,USA,United States of America,US.WA,Washington,16847,899,
 1662,2020-05-07,USA,United States of America,US.WV,West Virginia,1287,51,
 1663,2020-05-07,USA,United States of America,US.WI,Wisconsin,9215,374,
 1664,2020-05-07,USA,United States of America,US.WY,Wyoming,635,7,
