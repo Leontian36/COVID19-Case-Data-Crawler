@@ -58,7 +58,8 @@ def print_record(keys=[]):
                     #file2.write(csv_line + '\n')
                     pass
                 else:
-                    if (export_date == date): file.write(csv_line + '\n')
+                    if (export_date == date or export_date is None):
+                        file.write(csv_line + '\n')
         print_record(new_keys)
 
 
@@ -85,9 +86,13 @@ with open('admin1_names.csv', 'r') as file:
 
 url = 'https://covid19.health/data/all.json'
 data = requests.get(url=url).json()
-export_date = sys.argv[1]
+export_date = sys.argv[1] if len(sys.argv) >= 2 else None
 
-file = codecs.open('csv/admin1_' + export_date + '.csv', 'w', 'utf-8')
+if export_date is None:
+    file = codecs.open('csv/admin1.csv', 'w', 'utf-8')
+else:
+    file = codecs.open('csv/admin1_' + export_date + '.csv', 'w', 'utf-8')
+
 #file2 = codecs.open('admin2.csv', 'w', 'utf-8')
 file.write(u'\ufeff')
 #file2.write(u'\ufeff')
