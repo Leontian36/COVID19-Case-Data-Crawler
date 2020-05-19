@@ -458,15 +458,15 @@
 1280,2020-05-16,ESP,Spain,ES.AS,Asturias,2366,315,1061
 1281,2020-05-16,ESP,Spain,ES.PM,Baleares,1991,218,1523
 1282,2020-05-16,ESP,Spain,ES.CN,Canarias,2289,151,1524
-1283,2020-05-16,ESP,Spain,ES.CB,Cantabria,2268,207,2270
+1283,2020-05-16,ESP,Spain,ES.CB,Cantabria,2268,207,2273
 1284,2020-05-16,ESP,Spain,ES.CM,Castilla-La Mancha,16618,2893,6378
 1285,2020-05-16,ESP,Spain,ES.CL,Castilla y León,18470,1946,8716
-1286,2020-05-16,ESP,Spain,ES.CT,Cataluña,55824,5944,26172
+1286,2020-05-16,ESP,Spain,ES.CT,Cataluña,55836,5944,26172
 1287,2020-05-16,ESP,Spain,ES.CE,Ceuta,116,4,163
 1288,2020-05-16,ESP,Spain,ES.VC,C. Valenciana,10893,1366,9907
 1289,2020-05-16,ESP,Spain,ES.EX,Extremadura,2947,500,2636
 1290,2020-05-16,ESP,Spain,ES.GA,Galicia,9051,606,9155
-1291,2020-05-16,ESP,Spain,ES.MD,Madrid,66338,8847,40698
+1291,2020-05-16,ESP,Spain,ES.MD,Madrid,66297,8847,40698
 1292,2020-05-16,ESP,Spain,ES.ML,Melilla,121,2,124
 1293,2020-05-16,ESP,Spain,ES.MU,Murcia,1551,144,2084
 1294,2020-05-16,ESP,Spain,ES.NA,Navarra,5148,503,3751
@@ -482,14 +482,14 @@
 1621,2020-05-16,USA,United States of America,US.DC,District of Columbia,7042,375,
 1622,2020-05-16,USA,United States of America,US.DE,Delaware,7547,286,
 1623,2020-05-16,USA,United States of America,US.FL,Florida,44811,1963,
-1624,2020-05-16,USA,United States of America,US.GA,Georgia,37190,1598,
+1624,2020-05-16,USA,United States of America,US.GA,Georgia,37164,1595,
 1625,2020-05-16,USA,United States of America,US.HI,Hawaii,639,17,
 1626,2020-05-16,USA,United States of America,US.ID,Idaho,2419,73,
-1627,2020-05-16,USA,United States of America,US.IL,Illinois,92452,4128,
-1628,2020-05-16,USA,United States of America,US.IN,Indiana,27279,1740,
-1629,2020-05-16,USA,United States of America,US.IA,Iowa,14325,346,
-1630,2020-05-16,USA,United States of America,US.KS,Kansas,7941,195,
-1631,2020-05-16,USA,United States of America,US.KY,Kentucky,7688,334,
+1627,2020-05-16,USA,United States of America,US.IL,Illinois,92451,4128,
+1628,2020-05-16,USA,United States of America,US.IN,Indiana,27278,1740,
+1629,2020-05-16,USA,United States of America,US.IA,Iowa,14324,346,
+1630,2020-05-16,USA,United States of America,US.KS,Kansas,7940,195,
+1631,2020-05-16,USA,United States of America,US.KY,Kentucky,7678,334,
 1632,2020-05-16,USA,United States of America,US.LA,Louisiana,34117,2478,
 1633,2020-05-16,USA,United States of America,US.ME,Maine,1647,70,
 1634,2020-05-16,USA,United States of America,US.MD,Maryland,37957,1956,
@@ -499,7 +499,7 @@
 1638,2020-05-16,USA,United States of America,US.MS,Mississippi,11120,510,
 1639,2020-05-16,USA,United States of America,US.MO,Missouri,10930,594,
 1640,2020-05-16,USA,United States of America,US.MT,Montana,468,16,
-1641,2020-05-16,USA,United States of America,US.NE,Nebraska,10218,123,
+1641,2020-05-16,USA,United States of America,US.NE,Nebraska,10217,123,
 1642,2020-05-16,USA,United States of America,US.NV,Nevada,6813,347,
 1643,2020-05-16,USA,United States of America,US.NH,New Hampshire,2737,162,
 1644,2020-05-16,USA,United States of America,US.NJ,New Jersey,145432,10261,
@@ -510,7 +510,7 @@
 1649,2020-05-16,USA,United States of America,US.OH,Ohio,27472,1610,
 1650,2020-05-16,USA,United States of America,US.OK,Oklahoma,5237,288,
 1651,2020-05-16,USA,United States of America,US.OR,Oregon,3611,137,
-1652,2020-05-16,USA,United States of America,US.PA,Pennsylvania,65184,4480,
+1652,2020-05-16,USA,United States of America,US.PA,Pennsylvania,65184,4291,
 1653,2020-05-16,USA,United States of America,US.RI,Rhode Island,12434,489,
 1654,2020-05-16,USA,United States of America,US.SC,South Carolina,8659,380,
 1655,2020-05-16,USA,United States of America,US.SD,South Dakota,3958,44,
@@ -518,8 +518,8 @@
 1657,2020-05-16,USA,United States of America,US.TX,Texas,42112,1204,
 1658,2020-05-16,USA,United States of America,US.UT,Utah,7068,78,
 1659,2020-05-16,USA,United States of America,US.VT,Vermont,933,53,
-1660,2020-05-16,USA,United States of America,US.VA,Virginia,29683,1003,
+1660,2020-05-16,USA,United States of America,US.VA,Virginia,29682,1003,
 1661,2020-05-16,USA,United States of America,US.WA,Washington,18905,1005,
-1662,2020-05-16,USA,United States of America,US.WV,West Virginia,1470,64,
-1663,2020-05-16,USA,United States of America,US.WI,Wisconsin,12187,453,
+1662,2020-05-16,USA,United States of America,US.WV,West Virginia,1464,64,
+1663,2020-05-16,USA,United States of America,US.WI,Wisconsin,12186,453,
 1664,2020-05-16,USA,United States of America,US.WY,Wyoming,741,7,
