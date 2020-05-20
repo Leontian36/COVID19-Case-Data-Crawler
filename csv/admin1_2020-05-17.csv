@@ -1,28 +1,28 @@
 ﻿,date,iso3,admin0_name,admin1_hasc,admin1_name,confirmed,death,recovered
-1,2020-05-17,ARG,Argentina,AR.BA,Buenos Aires,729,47,120
-2,2020-05-17,ARG,Argentina,AR.CT,Catamarca,0,0,0
-3,2020-05-17,ARG,Argentina,AR.CC,Chaco,191,9,56
-4,2020-05-17,ARG,Argentina,AR.CH,Chubut,1,0,0
-5,2020-05-17,ARG,Argentina,AR.DF,Ciudad de Buenos Aires,648,32,301
-6,2020-05-17,ARG,Argentina,AR.CB,Cordoba,228,6,38
-7,2020-05-17,ARG,Argentina,AR.CN,Corrientes,31,0,5
-8,2020-05-17,ARG,Argentina,AR.ER,Entre Rios,21,0,10
-9,2020-05-17,ARG,Argentina,AR.FM,Formosa,0,0,0
-10,2020-05-17,ARG,Argentina,AR.JY,Jujuy,5,0,3
-11,2020-05-17,ARG,Argentina,AR.LP,La Pampa,5,0,0
-12,2020-05-17,ARG,Argentina,AR.LR,La Rioja,31,2,2
-13,2020-05-17,ARG,Argentina,AR.MZ,Mendoza,63,5,5
-14,2020-05-17,ARG,Argentina,AR.MN,Misiones,3,0,0
-15,2020-05-17,ARG,Argentina,AR.NQ,Neuquen,91,4,2
-16,2020-05-17,ARG,Argentina,AR.RN,Rio Negro,106,2,7
-17,2020-05-17,ARG,Argentina,AR.SA,Salta,4,0,0
-18,2020-05-17,ARG,Argentina,AR.SJ,San Juan,2,0,0
-19,2020-05-17,ARG,Argentina,AR.SL,San Luis,11,0,6
-20,2020-05-17,ARG,Argentina,AR.SC,Santa Cruz,40,0,5
-21,2020-05-17,ARG,Argentina,AR.SF,Santa Fe,209,2,27
-22,2020-05-17,ARG,Argentina,AR.SE,Santiago del Estero,12,0,3
-23,2020-05-17,ARG,Argentina,AR.TF,Tierra del Fuego,110,0,36
-24,2020-05-17,ARG,Argentina,AR.TM,Tucuman,30,3,3
+1,2020-05-17,ARG,Argentina,AR.BA,Buenos Aires,35075,678,120
+2,2020-05-17,ARG,Argentina,AR.CT,Catamarca,214,0,0
+3,2020-05-17,ARG,Argentina,AR.CC,Chaco,4240,78,56
+4,2020-05-17,ARG,Argentina,AR.CH,Chubut,283,11,0
+5,2020-05-17,ARG,Argentina,AR.DF,Ciudad de Buenos Aires,18586,368,301
+6,2020-05-17,ARG,Argentina,AR.CB,Cordoba,10802,41,38
+7,2020-05-17,ARG,Argentina,AR.CN,Corrientes,1645,0,5
+8,2020-05-17,ARG,Argentina,AR.ER,Entre Rios,870,44,10
+9,2020-05-17,ARG,Argentina,AR.FM,Formosa,476,0,0
+10,2020-05-17,ARG,Argentina,AR.JY,Jujuy,1422,0,3
+11,2020-05-17,ARG,Argentina,AR.LP,La Pampa,178,0,0
+12,2020-05-17,ARG,Argentina,AR.LR,La Rioja,895,14,2
+13,2020-05-17,ARG,Argentina,AR.MZ,Mendoza,1504,0,5
+14,2020-05-17,ARG,Argentina,AR.MN,Misiones,775,0,0
+15,2020-05-17,ARG,Argentina,AR.NQ,Neuquen,1307,0,2
+16,2020-05-17,ARG,Argentina,AR.RN,Rio Negro,1980,0,7
+17,2020-05-17,ARG,Argentina,AR.SA,Salta,1000,0,0
+18,2020-05-17,ARG,Argentina,AR.SJ,San Juan,446,0,0
+19,2020-05-17,ARG,Argentina,AR.SL,San Luis,0,0,6
+20,2020-05-17,ARG,Argentina,AR.SC,Santa Cruz,408,0,5
+21,2020-05-17,ARG,Argentina,AR.SF,Santa Fe,6634,0,27
+22,2020-05-17,ARG,Argentina,AR.SE,Santiago del Estero,0,0,3
+23,2020-05-17,ARG,Argentina,AR.TF,Tierra del Fuego,1245,0,36
+24,2020-05-17,ARG,Argentina,AR.TM,Tucuman,2840,0,3
 25,2020-05-17,AUS,Australia,AU.AC,Australian Capital Territory,107,3,104
 26,2020-05-17,AUS,Australia,AU.NS,New South Wales,3076,46,2612
 27,2020-05-17,AUS,Australia,AU.NT,Northern Territory,29,0,27
@@ -472,54 +472,54 @@
 1294,2020-05-17,ESP,Spain,ES.NA,Navarra,5178,503,3905
 1295,2020-05-17,ESP,Spain,ES.PV,País Vasco,13422,1466,16160
 1296,2020-05-17,ESP,Spain,ES.LO,La Rioja,4024,351,3107
-1614,2020-05-17,USA,United States of America,US.AL,Alabama,11771,488,
+1614,2020-05-17,USA,United States of America,US.AL,Alabama,11768,488,
 1615,2020-05-17,USA,United States of America,US.AK,Alaska,388,10,
 1616,2020-05-17,USA,United States of America,US.AZ,Arizona,13958,680,
-1617,2020-05-17,USA,United States of America,US.AR,Arkansas,4759,98,
+1617,2020-05-17,USA,United States of America,US.AR,Arkansas,4758,98,
 1618,2020-05-17,USA,United States of America,US.CA,California,80166,3240,
 1619,2020-05-17,USA,United States of America,US.CO,Colorado,21962,1216,
 1620,2020-05-17,USA,United States of America,US.CT,Connecticut,37419,3407,
 1621,2020-05-17,USA,United States of America,US.DC,District of Columbia,7123,383,
 1622,2020-05-17,USA,United States of America,US.DE,Delaware,7670,290,
 1623,2020-05-17,USA,United States of America,US.FL,Florida,45587,1973,
-1624,2020-05-17,USA,United States of America,US.GA,Georgia,37539,1605,
+1624,2020-05-17,USA,United States of America,US.GA,Georgia,37525,1602,
 1625,2020-05-17,USA,United States of America,US.HI,Hawaii,640,17,
 1626,2020-05-17,USA,United States of America,US.ID,Idaho,2419,73,
-1627,2020-05-17,USA,United States of America,US.IL,Illinois,94189,4177,
-1628,2020-05-17,USA,United States of America,US.IN,Indiana,27773,1751,
+1627,2020-05-17,USA,United States of America,US.IL,Illinois,94188,4177,
+1628,2020-05-17,USA,United States of America,US.IN,Indiana,27766,1751,
 1629,2020-05-17,USA,United States of America,US.IA,Iowa,14645,351,
 1630,2020-05-17,USA,United States of America,US.KS,Kansas,7952,195,
-1631,2020-05-17,USA,United States of America,US.KY,Kentucky,7678,334,
-1632,2020-05-17,USA,United States of America,US.LA,Louisiana,34432,2491,
-1633,2020-05-17,USA,United States of America,US.ME,Maine,1684,70,
+1631,2020-05-17,USA,United States of America,US.KY,Kentucky,7677,334,
+1632,2020-05-17,USA,United States of America,US.LA,Louisiana,34432,2489,
+1633,2020-05-17,USA,United States of America,US.ME,Maine,1683,70,
 1634,2020-05-17,USA,United States of America,US.MD,Maryland,38804,1992,
 1635,2020-05-17,USA,United States of America,US.MA,Massachusetts,86010,5797,
-1636,2020-05-17,USA,United States of America,US.MI,Michigan,42425,3933,
-1637,2020-05-17,USA,United States of America,US.MN,Minnesota,15667,731,
+1636,2020-05-17,USA,United States of America,US.MI,Michigan,42424,3933,
+1637,2020-05-17,USA,United States of America,US.MN,Minnesota,15666,731,
 1638,2020-05-17,USA,United States of America,US.MS,Mississippi,11296,521,
-1639,2020-05-17,USA,United States of America,US.MO,Missouri,11071,602,
+1639,2020-05-17,USA,United States of America,US.MO,Missouri,11070,602,
 1640,2020-05-17,USA,United States of America,US.MT,Montana,468,16,
 1641,2020-05-17,USA,United States of America,US.NE,Nebraska,10340,123,
-1642,2020-05-17,USA,United States of America,US.NV,Nevada,6952,350,
+1642,2020-05-17,USA,United States of America,US.NV,Nevada,6950,350,
 1643,2020-05-17,USA,United States of America,US.NH,New Hampshire,2764,163,
-1644,2020-05-17,USA,United States of America,US.NJ,New Jersey,146903,10363,
+1644,2020-05-17,USA,United States of America,US.NJ,New Jersey,147084,10363,
 1645,2020-05-17,USA,United States of America,US.NM,New Mexico,5938,265,
 1646,2020-05-17,USA,United States of America,US.NY,New York,355347,27515,
 1647,2020-05-17,USA,United States of America,US.NC,North Carolina,18673,686,
-1648,2020-05-17,USA,United States of America,US.ND,North Dakota,1900,43,
-1649,2020-05-17,USA,United States of America,US.OH,Ohio,27922,1625,
+1648,2020-05-17,USA,United States of America,US.ND,North Dakota,1897,43,
+1649,2020-05-17,USA,United States of America,US.OH,Ohio,27921,1625,
 1650,2020-05-17,USA,United States of America,US.OK,Oklahoma,5310,288,
 1651,2020-05-17,USA,United States of America,US.OR,Oregon,3623,137,
-1652,2020-05-17,USA,United States of America,US.PA,Pennsylvania,65700,4294,
+1652,2020-05-17,USA,United States of America,US.PA,Pennsylvania,65699,4294,
 1653,2020-05-17,USA,United States of America,US.RI,Rhode Island,12674,499,
-1654,2020-05-17,USA,United States of America,US.SC,South Carolina,8815,385,
+1654,2020-05-17,USA,United States of America,US.SC,South Carolina,8811,385,
 1655,2020-05-17,USA,United States of America,US.SD,South Dakota,3987,44,
-1656,2020-05-17,USA,United States of America,US.TN,Tennessee,17359,298,
-1657,2020-05-17,USA,United States of America,US.TX,Texas,42740,1229,
+1656,2020-05-17,USA,United States of America,US.TN,Tennessee,17355,298,
+1657,2020-05-17,USA,United States of America,US.TX,Texas,42739,1229,
 1658,2020-05-17,USA,United States of America,US.UT,Utah,7238,80,
 1659,2020-05-17,USA,United States of America,US.VT,Vermont,940,54,
-1660,2020-05-17,USA,United States of America,US.VA,Virginia,30386,1010,
-1661,2020-05-17,USA,United States of America,US.WA,Washington,19024,1007,
+1660,2020-05-17,USA,United States of America,US.VA,Virginia,30385,1010,
+1661,2020-05-17,USA,United States of America,US.WA,Washington,19023,1007,
 1662,2020-05-17,USA,United States of America,US.WV,West Virginia,1483,65,
-1663,2020-05-17,USA,United States of America,US.WI,Wisconsin,12542,453,
+1663,2020-05-17,USA,United States of America,US.WI,Wisconsin,12542,452,
 1664,2020-05-17,USA,United States of America,US.WY,Wyoming,754,8,
