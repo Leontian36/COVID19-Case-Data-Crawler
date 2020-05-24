@@ -362,87 +362,87 @@
 520,2020-05-22,MEX,Mexico,MX.VE,Veracruz,2529,331,0
 521,2020-05-22,MEX,Mexico,MX.YU,Yucatan,1360,109,0
 522,2020-05-22,MEX,Mexico,MX.ZA,Zacatecas,215,27,0
-1172,2020-05-22,RUS,Russia,RU.MC,Moscow,155219,1794,40682
-1173,2020-05-22,RUS,Russia,RU.SP,Saint Petersburg,12203,104,2661
-1174,2020-05-22,RUS,Russia,RU.MS,Moscow Oblast,30983,299,4281
-1175,2020-05-22,RUS,Russia,RU.SA,Samara Oblast,1740,13,485
-1176,2020-05-22,RUS,Russia,RU.SK,Saha Republic,997,6,449
-1177,2020-05-22,RUS,Russia,RU.SV,Sverdlov Oblast,3308,10,976
-1178,2020-05-22,RUS,Russia,RU.KN,Kaliningrad Oblast,1076,14,465
-1179,2020-05-22,RUS,Russia,RU.KV,Kirov Oblast,1091,6,687
-1180,2020-05-22,RUS,Russia,RU.NS,Novosibirsk Oblast,1881,23,773
-1181,2020-05-22,RUS,Russia,RU.KX,Krasnoyarskiy Kray,2821,22,634
-1182,2020-05-22,RUS,Russia,RU.TB,Tambov Oblast,2238,5,682
-1183,2020-05-22,RUS,Russia,RU.LP,Lipetsk Oblast,1439,4,382
-1184,2020-05-22,RUS,Russia,RU.TV,Tver Oblast,1203,11,733
-1185,2020-05-22,RUS,Russia,RU.KH,Habarovskiy Kray,1444,9,641
-1186,2020-05-22,RUS,Russia,RU.TY,Tumen Oblast,1278,7,551
-1187,2020-05-22,RUS,Russia,RU.TL,Tula Oblast,2824,20,1026
-1188,2020-05-22,RUS,Russia,RU.PE,Perm Oblast,1226,13,619
-1189,2020-05-22,RUS,Russia,RU.NZ,Nizhegorodskaya Oblast,7413,53,1756
-1190,2020-05-22,RUS,Russia,RU.KD,Krasnodarskiy Kray,2974,26,1644
-1191,2020-05-22,RUS,Russia,RU.VR,Voronezh Oblast,1307,13,837
-1192,2020-05-22,RUS,Russia,RU.KE,Kemerovo Oblast,365,7,127
-1193,2020-05-22,RUS,Russia,RU.KK,Republic of Hakassia,724,10,366
-1194,2020-05-22,RUS,Russia,RU.MM,Murmansk Oblast,2781,7,1496
-1195,2020-05-22,RUS,Russia,RU.KO,Komi Republic,1032,19,484
-1196,2020-05-22,RUS,Russia,RU.KG,Kaluga Oblast,2871,21,722
-1197,2020-05-22,RUS,Russia,RU.IV,Ivanovo Oblast,1415,16,444
-1198,2020-05-22,RUS,Russia,RU.ZB,Zabaykalskiy Kray,646,7,301
-1199,2020-05-22,RUS,Russia,RU.TO,Tomsk Oblast,429,4,109
-1200,2020-05-22,RUS,Russia,RU.AR,Arkhangelsk Oblast,858,4,349
-1201,2020-05-22,RUS,Russia,RU.RZ,Ryazan Oblast,2673,7,481
-1202,2020-05-22,RUS,Russia,RU.CV,Republic of Chuvashia,2014,9,629
-1203,2020-05-22,RUS,Russia,RU.UL,Ulianovsk Oblast,1596,6,403
-1204,2020-05-22,RUS,Russia,RU.YS,Yaroslavl Oblast,2206,13,420
-1205,2020-05-22,RUS,Russia,RU.PZ,Pensa Oblast,1400,13,1002
-1206,2020-05-22,RUS,Russia,RU.BL,Belgorod Oblast,1499,12,464
-1207,2020-05-22,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,1430,12,502
-1208,2020-05-22,RUS,Russia,RU.LN,Leningradskaya Oblast,2269,8,845
-1209,2020-05-22,RUS,Russia,RU.OB,Orenburg Oblast,1437,5,787
-1210,2020-05-22,RUS,Russia,RU.SR,Saratov Oblast,2139,15,568
-1211,2020-05-22,RUS,Russia,RU.TT,Republic of Tatarstan,2546,8,1452
-1212,2020-05-22,RUS,Russia,RU.KU,Kurgan Oblast,150,0,58
-1213,2020-05-22,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,2020,8,524
-1214,2020-05-22,RUS,Russia,RU.CL,Cheliabinsk Oblast,1913,11,694
-1215,2020-05-22,RUS,Russia,RU.ST,Stavropolskiy Kray,1728,34,638
-1216,2020-05-22,RUS,Russia,RU.BR,Briansk Oblast,2632,31,1211
-1217,2020-05-22,RUS,Russia,RU.UD,Republic of Udmurtia,463,12,296
-1218,2020-05-22,RUS,Russia,RU.NG,Novgorod Oblast,727,5,238
-1220,2020-05-22,RUS,Russia,RU.BK,Republic of Bashkortostan,2424,18,763
-1221,2020-05-22,RUS,Russia,RU.CN,Chechen Republic,1026,11,635
-1222,2020-05-22,RUS,Russia,RU.PR,Primorskiy Kray,1495,14,514
-1223,2020-05-22,RUS,Russia,RU.VG,Volgograd Oblast,1913,13,626
-1224,2020-05-22,RUS,Russia,RU.OL,Orel Oblast,1647,10,654
-1225,2020-05-22,RUS,Russia,RU.PS,Pskov Oblast,494,9,172
-1226,2020-05-22,RUS,Russia,RU.RO,Rostov Oblast,2926,33,1071
-1227,2020-05-22,RUS,Russia,RU.BU,Republic of Buriatia,1042,6,436
-1228,2020-05-22,RUS,Russia,RU.MR,Republic of Mordovia,1512,9,478
-1229,2020-05-22,RUS,Russia,RU.DA,Republic of Dagestan,3746,41,2489
-1230,2020-05-22,RUS,Russia,RU.SL,Sakhalin Oblast,59,0,33
-1231,2020-05-22,RUS,Russia,RU.KT,Kostroma Oblast,527,7,255
-1232,2020-05-22,RUS,Russia,RU.SM,Smolensk Oblast,1418,13,464
-1233,2020-05-22,RUS,Russia,RU.AD,Republic of Adygeia,561,8,274
-1234,2020-05-22,RUS,Russia,RU.OM,Omsk Oblast,764,7,120
-1235,2020-05-22,RUS,Russia,RU.IK,Irkutsk Oblast,780,6,178
-1236,2020-05-22,RUS,Russia,RU.AM,Amursk Oblast,294,1,75
-1237,2020-05-22,RUS,Russia,RU.AL,Altayskiy Kray,1111,7,581
-1238,2020-05-22,RUS,Russia,RU.VL,Vladimir Oblast,2043,15,277
-1239,2020-05-22,RUS,Russia,RU.VO,Vologda Oblast,528,3,222
-1240,2020-05-22,RUS,Russia,RU.KL,Republic of Kalmykia,776,10,283
-1241,2020-05-22,RUS,Russia,RU.ME,Republic of Mariy El,1360,8,989
-1242,2020-05-22,RUS,Russia,RU.AS,Astrahan Oblast,1202,7,565
-1243,2020-05-22,RUS,Russia,RU.MG,Magadan Oblast,206,3,131
-1245,2020-05-22,RUS,Russia,RU.KS,Kursk Oblast,2258,7,738
-1246,2020-05-22,RUS,Russia,RU.NO,Republic of North Osetia-Alania,2387,22,1205
-1247,2020-05-22,RUS,Russia,RU.YN,Yamalo-Nenetskiy AO,1902,5,324
-1248,2020-05-22,RUS,Russia,RU.YV,Jewish Autonomous Oblast,261,2,90
-1249,2020-05-22,RUS,Russia,RU.IN,Ingushetia Republic,1648,36,675
-1250,2020-05-22,RUS,Russia,RU.KQ,Kamchatskiy Kray,554,2,153
-1251,2020-05-22,RUS,Russia,RU.KI,Republic of Karelia,260,1,66
-1252,2020-05-22,RUS,Russia,RU.KC,Republic of Karachaevo-Cherkessia,701,4,222
-1253,2020-05-22,RUS,Russia,RU.TU,Republic of Tyva,451,1,50
-1254,2020-05-22,RUS,Russia,RU.NN,Nenetskiy Autonomous Oblast,59,0,7
+1172,2020-05-22,RUS,Russia,RU.MC,Moscow,158207,1867,43582
+1173,2020-05-22,RUS,Russia,RU.SP,Saint Petersburg,12592,107,2859
+1174,2020-05-22,RUS,Russia,RU.MS,Moscow Oblast,31807,312,4699
+1175,2020-05-22,RUS,Russia,RU.SA,Samara Oblast,1814,14,539
+1176,2020-05-22,RUS,Russia,RU.SK,Saha Republic,1077,6,496
+1177,2020-05-22,RUS,Russia,RU.SV,Sverdlov Oblast,3443,12,1063
+1178,2020-05-22,RUS,Russia,RU.KN,Kaliningrad Oblast,1117,17,471
+1179,2020-05-22,RUS,Russia,RU.KV,Kirov Oblast,1161,6,712
+1180,2020-05-22,RUS,Russia,RU.NS,Novosibirsk Oblast,1960,25,826
+1181,2020-05-22,RUS,Russia,RU.KX,Krasnoyarskiy Kray,2971,25,659
+1182,2020-05-22,RUS,Russia,RU.TB,Tambov Oblast,2321,5,761
+1183,2020-05-22,RUS,Russia,RU.LP,Lipetsk Oblast,1503,4,443
+1184,2020-05-22,RUS,Russia,RU.TV,Tver Oblast,1242,14,756
+1185,2020-05-22,RUS,Russia,RU.KH,Habarovskiy Kray,1509,9,655
+1186,2020-05-22,RUS,Russia,RU.TY,Tumen Oblast,1331,7,570
+1187,2020-05-22,RUS,Russia,RU.TL,Tula Oblast,2915,20,1104
+1188,2020-05-22,RUS,Russia,RU.PE,Perm Oblast,1277,13,677
+1189,2020-05-22,RUS,Russia,RU.NZ,Nizhegorodskaya Oblast,7615,57,2006
+1190,2020-05-22,RUS,Russia,RU.KD,Krasnodarskiy Kray,3066,26,1764
+1191,2020-05-22,RUS,Russia,RU.VR,Voronezh Oblast,1362,13,918
+1192,2020-05-22,RUS,Russia,RU.KE,Kemerovo Oblast,377,7,128
+1193,2020-05-22,RUS,Russia,RU.KK,Republic of Hakassia,747,10,394
+1194,2020-05-22,RUS,Russia,RU.MM,Murmansk Oblast,2834,7,1595
+1195,2020-05-22,RUS,Russia,RU.KO,Komi Republic,1067,19,513
+1196,2020-05-22,RUS,Russia,RU.KG,Kaluga Oblast,2998,21,775
+1197,2020-05-22,RUS,Russia,RU.IV,Ivanovo Oblast,1463,16,478
+1198,2020-05-22,RUS,Russia,RU.ZB,Zabaykalskiy Kray,684,10,341
+1199,2020-05-22,RUS,Russia,RU.TO,Tomsk Oblast,450,4,119
+1200,2020-05-22,RUS,Russia,RU.AR,Arkhangelsk Oblast,888,4,383
+1201,2020-05-22,RUS,Russia,RU.RZ,Ryazan Oblast,2767,7,504
+1202,2020-05-22,RUS,Russia,RU.CV,Republic of Chuvashia,2104,9,659
+1203,2020-05-22,RUS,Russia,RU.UL,Ulianovsk Oblast,1666,6,436
+1204,2020-05-22,RUS,Russia,RU.YS,Yaroslavl Oblast,2309,13,444
+1205,2020-05-22,RUS,Russia,RU.PZ,Pensa Oblast,1510,13,1076
+1206,2020-05-22,RUS,Russia,RU.BL,Belgorod Oblast,1581,12,520
+1207,2020-05-22,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,1510,13,520
+1208,2020-05-22,RUS,Russia,RU.LN,Leningradskaya Oblast,2323,8,898
+1209,2020-05-22,RUS,Russia,RU.OB,Orenburg Oblast,1482,5,849
+1210,2020-05-22,RUS,Russia,RU.SR,Saratov Oblast,2223,16,639
+1211,2020-05-22,RUS,Russia,RU.TT,Republic of Tatarstan,2621,8,1698
+1212,2020-05-22,RUS,Russia,RU.KU,Kurgan Oblast,169,0,60
+1213,2020-05-22,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,2091,8,536
+1214,2020-05-22,RUS,Russia,RU.CL,Cheliabinsk Oblast,1993,11,725
+1215,2020-05-22,RUS,Russia,RU.ST,Stavropolskiy Kray,1781,36,690
+1216,2020-05-22,RUS,Russia,RU.BR,Briansk Oblast,2737,31,1289
+1217,2020-05-22,RUS,Russia,RU.UD,Republic of Udmurtia,477,12,307
+1218,2020-05-22,RUS,Russia,RU.NG,Novgorod Oblast,749,5,250
+1220,2020-05-22,RUS,Russia,RU.BK,Republic of Bashkortostan,2514,18,792
+1221,2020-05-22,RUS,Russia,RU.CN,Chechen Republic,1046,11,643
+1222,2020-05-22,RUS,Russia,RU.PR,Primorskiy Kray,1542,14,551
+1223,2020-05-22,RUS,Russia,RU.VG,Volgograd Oblast,2002,13,640
+1224,2020-05-22,RUS,Russia,RU.OL,Orel Oblast,1679,10,717
+1225,2020-05-22,RUS,Russia,RU.PS,Pskov Oblast,513,9,183
+1226,2020-05-22,RUS,Russia,RU.RO,Rostov Oblast,3064,34,1111
+1227,2020-05-22,RUS,Russia,RU.BU,Republic of Buriatia,1090,6,474
+1228,2020-05-22,RUS,Russia,RU.MR,Republic of Mordovia,1548,11,493
+1229,2020-05-22,RUS,Russia,RU.DA,Republic of Dagestan,3855,65,2882
+1230,2020-05-22,RUS,Russia,RU.SL,Sakhalin Oblast,63,0,35
+1231,2020-05-22,RUS,Russia,RU.KT,Kostroma Oblast,540,8,265
+1232,2020-05-22,RUS,Russia,RU.SM,Smolensk Oblast,1471,13,519
+1233,2020-05-22,RUS,Russia,RU.AD,Republic of Adygeia,591,8,290
+1234,2020-05-22,RUS,Russia,RU.OM,Omsk Oblast,838,7,131
+1235,2020-05-22,RUS,Russia,RU.IK,Irkutsk Oblast,863,8,189
+1236,2020-05-22,RUS,Russia,RU.AM,Amursk Oblast,317,1,84
+1237,2020-05-22,RUS,Russia,RU.AL,Altayskiy Kray,1185,7,599
+1238,2020-05-22,RUS,Russia,RU.VL,Vladimir Oblast,2120,15,284
+1239,2020-05-22,RUS,Russia,RU.VO,Vologda Oblast,562,3,231
+1240,2020-05-22,RUS,Russia,RU.KL,Republic of Kalmykia,810,11,322
+1241,2020-05-22,RUS,Russia,RU.ME,Republic of Mariy El,1397,8,1023
+1242,2020-05-22,RUS,Russia,RU.AS,Astrahan Oblast,1247,8,622
+1243,2020-05-22,RUS,Russia,RU.MG,Magadan Oblast,209,3,134
+1245,2020-05-22,RUS,Russia,RU.KS,Kursk Oblast,2339,8,804
+1246,2020-05-22,RUS,Russia,RU.NO,Republic of North Osetia-Alania,2456,22,1371
+1247,2020-05-22,RUS,Russia,RU.YN,Yamalo-Nenetskiy AO,1989,5,398
+1248,2020-05-22,RUS,Russia,RU.YV,Jewish Autonomous Oblast,262,2,97
+1249,2020-05-22,RUS,Russia,RU.IN,Ingushetia Republic,1692,38,728
+1250,2020-05-22,RUS,Russia,RU.KQ,Kamchatskiy Kray,572,2,159
+1251,2020-05-22,RUS,Russia,RU.KI,Republic of Karelia,268,1,71
+1252,2020-05-22,RUS,Russia,RU.KC,Republic of Karachaevo-Cherkessia,712,4,234
+1253,2020-05-22,RUS,Russia,RU.TU,Republic of Tyva,530,1,56
+1254,2020-05-22,RUS,Russia,RU.NN,Nenetskiy Autonomous Oblast,60,0,7
 1255,2020-05-22,RUS,Russia,RU.CK,Chukotskiy Autonomous Oblast,56,0,24
 1268,2020-05-22,ZAF,South Africa,ZA.EC,Eastern Cape,2459,,
 1269,2020-05-22,ZAF,South Africa,ZA.FS,Free State,185,,
@@ -472,54 +472,54 @@
 1294,2020-05-22,ESP,Spain,ES.NA,Navarra,5195,506,
 1295,2020-05-22,ESP,Spain,ES.PV,País Vasco,13421,1483,
 1296,2020-05-22,ESP,Spain,ES.LO,La Rioja,4033,354,
-1614,2020-05-22,USA,United States of America,US.AL,Alabama,13670,541,
+1614,2020-05-22,USA,United States of America,US.AL,Alabama,13668,541,
 1615,2020-05-22,USA,United States of America,US.AK,Alaska,404,10,
-1616,2020-05-22,USA,United States of America,US.AZ,Arizona,15720,778,
+1616,2020-05-22,USA,United States of America,US.AZ,Arizona,15719,777,
 1617,2020-05-22,USA,United States of America,US.AR,Arkansas,5612,113,
-1618,2020-05-22,USA,United States of America,US.CA,California,90628,3672,
+1618,2020-05-22,USA,United States of America,US.CA,California,90696,3670,
 1619,2020-05-22,USA,United States of America,US.CO,Colorado,23524,1325,
 1620,2020-05-22,USA,United States of America,US.CT,Connecticut,39640,3637,
 1621,2020-05-22,USA,United States of America,US.DC,District of Columbia,7893,418,
 1622,2020-05-22,USA,United States of America,US.DE,Delaware,8529,322,
-1623,2020-05-22,USA,United States of America,US.FL,Florida,49451,2190,
-1624,2020-05-22,USA,United States of America,US.GA,Georgia,41482,1808,
+1623,2020-05-22,USA,United States of America,US.FL,Florida,49447,2190,
+1624,2020-05-22,USA,United States of America,US.GA,Georgia,41474,1802,
 1625,2020-05-22,USA,United States of America,US.HI,Hawaii,642,17,
-1626,2020-05-22,USA,United States of America,US.ID,Idaho,2534,77,
+1626,2020-05-22,USA,United States of America,US.ID,Idaho,2595,79,
 1627,2020-05-22,USA,United States of America,US.IL,Illinois,105444,4715,
-1628,2020-05-22,USA,United States of America,US.IN,Indiana,30409,1941,
-1629,2020-05-22,USA,United States of America,US.IA,Iowa,16508,441,
+1628,2020-05-22,USA,United States of America,US.IN,Indiana,30408,1941,
+1629,2020-05-22,USA,United States of America,US.IA,Iowa,16506,441,
 1630,2020-05-22,USA,United States of America,US.KS,Kansas,8909,205,
-1631,2020-05-22,USA,United States of America,US.KY,Kentucky,8426,391,
+1631,2020-05-22,USA,United States of America,US.KY,Kentucky,8424,391,
 1632,2020-05-22,USA,United States of America,US.LA,Louisiana,36925,2668,
 1633,2020-05-22,USA,United States of America,US.ME,Maine,1948,75,
 1634,2020-05-22,USA,United States of America,US.MD,Maryland,44424,2207,
 1635,2020-05-22,USA,United States of America,US.MA,Massachusetts,90889,6228,
-1636,2020-05-22,USA,United States of America,US.MI,Michigan,44898,4134,
-1637,2020-05-22,USA,United States of America,US.MN,Minnesota,19005,851,
-1638,2020-05-22,USA,United States of America,US.MS,Mississippi,12625,596,
+1636,2020-05-22,USA,United States of America,US.MI,Michigan,44868,4133,
+1637,2020-05-22,USA,United States of America,US.MN,Minnesota,19004,850,
+1638,2020-05-22,USA,United States of America,US.MS,Mississippi,12619,596,
 1639,2020-05-22,USA,United States of America,US.MO,Missouri,11824,677,
 1640,2020-05-22,USA,United States of America,US.MT,Montana,479,16,
 1641,2020-05-22,USA,United States of America,US.NE,Nebraska,11662,147,
-1642,2020-05-22,USA,United States of America,US.NV,Nevada,7400,383,
+1642,2020-05-22,USA,United States of America,US.NV,Nevada,7526,387,
 1643,2020-05-22,USA,United States of America,US.NH,New Hampshire,3039,196,
-1644,2020-05-22,USA,United States of America,US.NJ,New Jersey,151584,10846,
+1644,2020-05-22,USA,United States of America,US.NJ,New Jersey,152684,10985,
 1645,2020-05-22,USA,United States of America,US.NM,New Mexico,6625,302,
-1646,2020-05-22,USA,United States of America,US.NY,New York,361699,27945,
+1646,2020-05-22,USA,United States of America,US.NY,New York,363272,27999,
 1647,2020-05-22,USA,United States of America,US.NC,North Carolina,22111,775,
-1648,2020-05-22,USA,United States of America,US.ND,North Dakota,2317,52,
+1648,2020-05-22,USA,United States of America,US.ND,North Dakota,2316,52,
 1649,2020-05-22,USA,United States of America,US.OH,Ohio,30794,1872,
 1650,2020-05-22,USA,United States of America,US.OK,Oklahoma,5849,307,
 1651,2020-05-22,USA,United States of America,US.OR,Oregon,3864,147,
-1652,2020-05-22,USA,United States of America,US.PA,Pennsylvania,70211,5010,
+1652,2020-05-22,USA,United States of America,US.PA,Pennsylvania,70201,5010,
 1653,2020-05-22,USA,United States of America,US.RI,Rhode Island,13736,579,
-1654,2020-05-22,USA,United States of America,US.SC,South Carolina,9638,419,
+1654,2020-05-22,USA,United States of America,US.SC,South Carolina,9636,419,
 1655,2020-05-22,USA,United States of America,US.SD,South Dakota,4356,50,
-1656,2020-05-22,USA,United States of America,US.TN,Tennessee,18960,313,
-1657,2020-05-22,USA,United States of America,US.TX,Texas,47197,1346,
-1658,2020-05-22,USA,United States of America,US.UT,Utah,8057,93,
+1656,2020-05-22,USA,United States of America,US.TN,Tennessee,19394,315,
+1657,2020-05-22,USA,United States of America,US.TX,Texas,47225,1346,
+1658,2020-05-22,USA,United States of America,US.UT,Utah,8055,93,
 1659,2020-05-22,USA,United States of America,US.VT,Vermont,952,54,
-1660,2020-05-22,USA,United States of America,US.VA,Virginia,34950,1136,
+1660,2020-05-22,USA,United States of America,US.VA,Virginia,34949,1134,
 1661,2020-05-22,USA,United States of America,US.WA,Washington,19996,1055,
 1662,2020-05-22,USA,United States of America,US.WV,West Virginia,1705,72,
 1663,2020-05-22,USA,United States of America,US.WI,Wisconsin,14396,496,
-1664,2020-05-22,USA,United States of America,US.WY,Wyoming,803,12,
+1664,2020-05-22,USA,United States of America,US.WY,Wyoming,802,12,
