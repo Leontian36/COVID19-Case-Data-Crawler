@@ -423,7 +423,7 @@
 444,JPN,Japan,日本,Kagawa,香川县,Prefecture,,JP.KG
 453,JPN,Japan,日本,Kagoshima,鹿儿岛县,Prefecture,,JP.KS
 421,JPN,Japan,日本,Kanagawa,神奈川县,Prefecture,,JP.KN
-446,JPN,Japan,日本,Kōchi,高知县,Prefecture,,JP.KC
+446,JPN,Japan,日本,Kochi,高知县,Prefecture,,JP.KC
 450,JPN,Japan,日本,Kumamoto,熊本县,Prefecture,,JP.KM
 433,JPN,Japan,日本,Kyoto,京都府,Urban Prefecture,,JP.KY
 431,JPN,Japan,日本,Mie,三重县,Prefecture,,JP.ME
@@ -1251,6 +1251,7 @@
 1253,RUS,Russia,俄罗斯,Republic of Tyva,图瓦共和国,Republic,,RU.TU
 1254,RUS,Russia,俄罗斯,Nenetskiy Autonomous Oblast,涅涅茨自治区,Autonomous Province,,RU.NN
 1255,RUS,Russia,俄罗斯,Chukotskiy Autonomous Oblast,楚科奇自治区,Autonomous Province,7001,RU.CK
+,RUS,Russia,俄罗斯,Altai Republic,阿尔泰共和国,Republic,,RU.GA
 1256,,Saudi Arabia,沙特阿拉伯,Tabuk,塔布克省,,,
 1257,,Saudi Arabia,沙特阿拉伯,Eastern Province,东部省,,,
 1258,,Saudi Arabia,沙特阿拉伯,Makkah,麦加省,,,
