@@ -250,53 +250,53 @@
 405,2020-05-26,ITA,Italy,IT.UM,Umbria,1431,75,1314
 406,2020-05-26,ITA,Italy,IT.VD,Valle d'Aosta,1181,143,1007
 407,2020-05-26,ITA,Italy,IT.VN,Veneto,19105,1886,14788
-408,2020-05-26,JPN,Japan,JP.HK,Hokkaido,1054,81,734
+408,2020-05-26,JPN,Japan,JP.HK,Hokkaido,1057,83,736
 409,2020-05-26,JPN,Japan,JP.AO,Aomori,27,1,24
 410,2020-05-26,JPN,Japan,JP.IW,Iwate,0,0,0
 411,2020-05-26,JPN,Japan,JP.MG,Miyagi,88,1,86
 412,2020-05-26,JPN,Japan,JP.AK,Akita,16,0,16
-413,2020-05-26,JPN,Japan,JP.YT,Yamagata,69,0,65
-414,2020-05-26,JPN,Japan,JP.FS,Fukushima,81,0,71
-415,2020-05-26,JPN,Japan,JP.IB,Ibaraki,168,9,145
+413,2020-05-26,JPN,Japan,JP.YT,Yamagata,69,0,66
+414,2020-05-26,JPN,Japan,JP.FS,Fukushima,81,0,72
+415,2020-05-26,JPN,Japan,JP.IB,Ibaraki,168,10,145
 416,2020-05-26,JPN,Japan,JP.TC,Tochigi,65,0,47
-417,2020-05-26,JPN,Japan,JP.GM,Gunma,149,19,112
-418,2020-05-26,JPN,Japan,JP.ST,Saitama,999,47,865
-419,2020-05-26,JPN,Japan,JP.CH,Chiba,904,44,774
-420,2020-05-26,JPN,Japan,JP.TK,Tokyo,5160,288,4311
-421,2020-05-26,JPN,Japan,JP.KN,Kanagawa,1333,73,991
+417,2020-05-26,JPN,Japan,JP.GM,Gunma,149,19,115
+418,2020-05-26,JPN,Japan,JP.ST,Saitama,1000,47,870
+419,2020-05-26,JPN,Japan,JP.CH,Chiba,904,44,780
+420,2020-05-26,JPN,Japan,JP.TK,Tokyo,5170,292,4379
+421,2020-05-26,JPN,Japan,JP.KN,Kanagawa,1336,76,1012
 422,2020-05-26,JPN,Japan,JP.NI,Niigata,83,0,74
-423,2020-05-26,JPN,Japan,JP.TY,Toyama,227,21,180
-424,2020-05-26,JPN,Japan,JP.IS,Ishikawa,295,24,211
+423,2020-05-26,JPN,Japan,JP.TY,Toyama,227,21,182
+424,2020-05-26,JPN,Japan,JP.IS,Ishikawa,296,24,211
 425,2020-05-26,JPN,Japan,JP.FI,Fukui,122,8,109
 426,2020-05-26,JPN,Japan,JP.YN,Yamanashi,60,1,57
-427,2020-05-26,JPN,Japan,JP.NN,Nagano,76,0,64
-428,2020-05-26,JPN,Japan,JP.GF,Gifu,150,7,139
-429,2020-05-26,JPN,Japan,JP.SZ,Shizuoka,75,1,70
-430,2020-05-26,JPN,Japan,JP.AI,Aichi,507,34,442
-431,2020-05-26,JPN,Japan,JP.ME,Mie,45,1,40
+427,2020-05-26,JPN,Japan,JP.NN,Nagano,76,0,65
+428,2020-05-26,JPN,Japan,JP.GF,Gifu,150,7,140
+429,2020-05-26,JPN,Japan,JP.SZ,Shizuoka,75,1,71
+430,2020-05-26,JPN,Japan,JP.AI,Aichi,507,34,444
+431,2020-05-26,JPN,Japan,JP.ME,Mie,45,1,41
 432,2020-05-26,JPN,Japan,JP.SH,Shiga,100,1,89
-433,2020-05-26,JPN,Japan,JP.KY,Kyoto,358,15,312
-434,2020-05-26,JPN,Japan,JP.OS,Osaka,1781,78,1480
-435,2020-05-26,JPN,Japan,JP.HG,Hyogo,699,40,613
-436,2020-05-26,JPN,Japan,JP.NR,Nara,91,2,82
-437,2020-05-26,JPN,Japan,JP.WK,Wakayama,63,3,54
+433,2020-05-26,JPN,Japan,JP.KY,Kyoto,358,15,318
+434,2020-05-26,JPN,Japan,JP.OS,Osaka,1781,80,1502
+435,2020-05-26,JPN,Japan,JP.HG,Hyogo,699,40,615
+436,2020-05-26,JPN,Japan,JP.NR,Nara,91,2,84
+437,2020-05-26,JPN,Japan,JP.WK,Wakayama,63,3,55
 438,2020-05-26,JPN,Japan,JP.TT,Tottori,3,0,3
 439,2020-05-26,JPN,Japan,JP.SM,Shimane,24,0,20
 440,2020-05-26,JPN,Japan,JP.OY,Okayama,25,0,25
-441,2020-05-26,JPN,Japan,JP.HS,Hiroshima,167,3,145
+441,2020-05-26,JPN,Japan,JP.HS,Hiroshima,167,3,146
 442,2020-05-26,JPN,Japan,JP.YC,Yamaguchi,37,0,35
 443,2020-05-26,JPN,Japan,JP.TS,Tokushima,5,1,4
 444,2020-05-26,JPN,Japan,JP.KG,Kagawa,28,0,28
 445,2020-05-26,JPN,Japan,JP.EH,Ehime,81,4,45
-446,2020-05-26,JPN,Japan,JP.KC,Kochi,74,3,69
-447,2020-05-26,JPN,Japan,JP.FO,Fukuoka,666,25,596
-448,2020-05-26,JPN,Japan,JP.SG,Saga,47,0,34
+446,2020-05-26,JPN,Japan,JP.KC,Kochi,74,3,70
+447,2020-05-26,JPN,Japan,JP.FO,Fukuoka,672,25,596
+448,2020-05-26,JPN,Japan,JP.SG,Saga,47,0,35
 449,2020-05-26,JPN,Japan,JP.NS,Nagasaki,17,1,16
-450,2020-05-26,JPN,Japan,JP.KM,Kumamoto,48,3,37
+450,2020-05-26,JPN,Japan,JP.KM,Kumamoto,48,3,38
 451,2020-05-26,JPN,Japan,JP.OT,Oita,60,1,57
-452,2020-05-26,JPN,Japan,JP.MZ,Miyazaki,17,0,16
-453,2020-05-26,JPN,Japan,JP.KS,Kagoshima,10,0,9
-454,2020-05-26,JPN,Japan,JP.ON,Okinawa,142,6,134
+452,2020-05-26,JPN,Japan,JP.MZ,Miyazaki,17,0,17
+453,2020-05-26,JPN,Japan,JP.KS,Kagoshima,10,0,10
+454,2020-05-26,JPN,Japan,JP.ON,Okinawa,142,6,135
 462,2020-05-26,KOR,South Korea,KR.SO,Seoul,730,,
 465,2020-05-26,KOR,South Korea,KR.PU,Busan,136,,
 457,2020-05-26,KOR,South Korea,KR.TG,Daegu,6887,,
@@ -475,52 +475,52 @@
 1296,2020-05-26,ESP,Spain,ES.LO,La Rioja,4033,354,
 1614,2020-05-26,USA,United States of America,US.AL,Alabama,15650,580,
 1615,2020-05-26,USA,United States of America,US.AK,Alaska,411,10,
-1616,2020-05-26,USA,United States of America,US.AZ,Arizona,16864,810,
-1617,2020-05-26,USA,United States of America,US.AR,Arkansas,6180,119,
+1616,2020-05-26,USA,United States of America,US.AZ,Arizona,16863,810,
+1617,2020-05-26,USA,United States of America,US.AR,Arkansas,6177,119,
 1618,2020-05-26,USA,United States of America,US.CA,California,99810,3826,
 1619,2020-05-26,USA,United States of America,US.CO,Colorado,24574,1352,
-1620,2020-05-26,USA,United States of America,US.CT,Connecticut,41303,3769,
+1620,2020-05-26,USA,United States of America,US.CT,Connecticut,41234,3769,
 1621,2020-05-26,USA,United States of America,US.DC,District of Columbia,8334,440,
 1622,2020-05-26,USA,United States of America,US.DE,Delaware,9066,335,
-1623,2020-05-26,USA,United States of America,US.FL,Florida,52255,2259,
-1624,2020-05-26,USA,United States of America,US.GA,Georgia,43983,1895,
+1623,2020-05-26,USA,United States of America,US.FL,Florida,52254,2258,
+1624,2020-05-26,USA,United States of America,US.GA,Georgia,43969,1895,
 1625,2020-05-26,USA,United States of America,US.HI,Hawaii,643,17,
-1626,2020-05-26,USA,United States of America,US.ID,Idaho,2626,79,
-1627,2020-05-26,USA,United States of America,US.IL,Illinois,113195,4923,
-1628,2020-05-26,USA,United States of America,US.IN,Indiana,32078,2004,
-1629,2020-05-26,USA,United States of America,US.IA,Iowa,17703,477,
+1626,2020-05-26,USA,United States of America,US.ID,Idaho,2699,81,
+1627,2020-05-26,USA,United States of America,US.IL,Illinois,113186,4923,
+1628,2020-05-26,USA,United States of America,US.IN,Indiana,32075,2003,
+1629,2020-05-26,USA,United States of America,US.IA,Iowa,17700,477,
 1630,2020-05-26,USA,United States of America,US.KS,Kansas,9199,210,
 1631,2020-05-26,USA,United States of America,US.KY,Kentucky,8951,394,
 1632,2020-05-26,USA,United States of America,US.LA,Louisiana,38054,2702,
 1633,2020-05-26,USA,United States of America,US.ME,Maine,2109,79,
-1634,2020-05-26,USA,United States of America,US.MD,Maryland,47687,2333,
+1634,2020-05-26,USA,United States of America,US.MD,Maryland,47684,2333,
 1635,2020-05-26,USA,United States of America,US.MA,Massachusetts,93693,6473,
-1636,2020-05-26,USA,United States of America,US.MI,Michigan,45996,4224,
+1636,2020-05-26,USA,United States of America,US.MI,Michigan,45993,4224,
 1637,2020-05-26,USA,United States of America,US.MN,Minnesota,21960,908,
 1638,2020-05-26,USA,United States of America,US.MS,Mississippi,13731,652,
-1639,2020-05-26,USA,United States of America,US.MO,Missouri,12559,693,
+1639,2020-05-26,USA,United States of America,US.MO,Missouri,12546,686,
 1640,2020-05-26,USA,United States of America,US.MT,Montana,479,17,
 1641,2020-05-26,USA,United States of America,US.NE,Nebraska,12619,153,
-1642,2020-05-26,USA,United States of America,US.NV,Nevada,7956,394,
+1642,2020-05-26,USA,United States of America,US.NV,Nevada,8050,396,
 1643,2020-05-26,USA,United States of America,US.NH,New Hampshire,3180,206,
-1644,2020-05-26,USA,United States of America,US.NJ,New Jersey,155138,11146,
-1645,2020-05-26,USA,United States of America,US.NM,New Mexico,7130,325,
-1646,2020-05-26,USA,United States of America,US.NY,New York,367923,29229,
+1644,2020-05-26,USA,United States of America,US.NJ,New Jersey,155443,11194,
+1645,2020-05-26,USA,United States of America,US.NM,New Mexico,7129,325,
+1646,2020-05-26,USA,United States of America,US.NY,New York,368948,29302,
 1647,2020-05-26,USA,United States of America,US.NC,North Carolina,24456,801,
 1648,2020-05-26,USA,United States of America,US.ND,North Dakota,2422,54,
-1649,2020-05-26,USA,United States of America,US.OH,Ohio,33006,2002,
-1650,2020-05-26,USA,United States of America,US.OK,Oklahoma,6138,318,
+1649,2020-05-26,USA,United States of America,US.OH,Ohio,33003,2001,
+1650,2020-05-26,USA,United States of America,US.OK,Oklahoma,6136,318,
 1651,2020-05-26,USA,United States of America,US.OR,Oregon,3967,148,
-1652,2020-05-26,USA,United States of America,US.PA,Pennsylvania,72778,5163,
+1652,2020-05-26,USA,United States of America,US.PA,Pennsylvania,72774,5163,
 1653,2020-05-26,USA,United States of America,US.RI,Rhode Island,14210,634,
-1654,2020-05-26,USA,United States of America,US.SC,South Carolina,10416,446,
+1654,2020-05-26,USA,United States of America,US.SC,South Carolina,10415,446,
 1655,2020-05-26,USA,United States of America,US.SD,South Dakota,4653,50,
-1656,2020-05-26,USA,United States of America,US.TN,Tennessee,20535,338,
-1657,2020-05-26,USA,United States of America,US.TX,Texas,50329,1420,
+1656,2020-05-26,USA,United States of America,US.TN,Tennessee,20892,343,
+1657,2020-05-26,USA,United States of America,US.TX,Texas,50328,1420,
 1658,2020-05-26,USA,United States of America,US.UT,Utah,8620,101,
 1659,2020-05-26,USA,United States of America,US.VT,Vermont,967,54,
-1660,2020-05-26,USA,United States of America,US.VA,Virginia,39342,1236,
-1661,2020-05-26,USA,United States of America,US.WA,Washington,21030,1084,
-1662,2020-05-26,USA,United States of America,US.WV,West Virginia,1854,74,
-1663,2020-05-26,USA,United States of America,US.WI,Wisconsin,15863,517,
+1660,2020-05-26,USA,United States of America,US.VA,Virginia,39336,1234,
+1661,2020-05-26,USA,United States of America,US.WA,Washington,21029,1084,
+1662,2020-05-26,USA,United States of America,US.WV,West Virginia,1862,74,
+1663,2020-05-26,USA,United States of America,US.WI,Wisconsin,15861,516,
 1664,2020-05-26,USA,United States of America,US.WY,Wyoming,850,13,
