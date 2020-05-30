@@ -1293,53 +1293,53 @@
 1294,ESP,Spain,西班牙,Navarra,纳瓦拉,Autonomous Community,ES22,ES.NA
 1295,ESP,Spain,西班牙,País Vasco,巴斯克,Autonomous Community,ES21,ES.PV
 1296,ESP,Spain,西班牙,La Rioja,拉里奥哈省,Autonomous Community,ES23,ES.LO
-1297,,Sweden,瑞典,Gotland,哥特兰省,,,SE.GT
-1298,,Sweden,瑞典,Dalarna,达拉纳省,,,SE.KO
-1299,,Sweden,瑞典,Västmanland,西曼兰省,,,SE.VR
-1300,,Sweden,瑞典,Norrbotten,北博滕省,,,SE.NB
-1301,,Sweden,瑞典,Kalmar,卡尔马省,,,SE.KA
-1302,,Sweden,瑞典,Gävleborg,耶夫勒堡省,,,SE.GV
-1303,,Sweden,瑞典,Örebro,厄勒布鲁省,,,SE.OR
-1304,,Sweden,瑞典,Blekinge,布莱金厄省,,,SE.BL
-1305,,Sweden,瑞典,Västernorrland,西诺尔兰省,,,SE.VN
-1306,,Sweden,瑞典,Västerbotten,西博滕省,,,SE.VB
-1307,,Sweden,瑞典,Kronoberg,克鲁努贝里省,,,SE.KR
-1308,,Sweden,瑞典,Södermanland,南曼兰省,,,SE.SD
-1309,,Sweden,瑞典,Jämtland,耶姆特兰省,,,SE.JA
-1310,,Sweden,瑞典,Östergötland,东约特兰省,,,SE.OG
-1311,,Sweden,瑞典,Värmland,韦姆兰省,,,SE.VR
-1312,,Sweden,瑞典,Uppsala,乌普萨拉省,,,SE.UP
-1313,,Sweden,瑞典,Halland,哈兰省,,,SE.HA
-1314,,Sweden,瑞典,Jönköping,延雪平省,,,SE.JO
-1315,,Sweden,瑞典,Västra Götaland,西约塔兰省,,,SE.VG
-1316,,Sweden,瑞典,Skåne,斯科讷省,,,SE.SN
-1317,,Sweden,瑞典,Stockholm,斯德哥尔摩省,,,SE.ST
-1318,,Switzerland,瑞士,Aargau,阿尔高州,,,CH.AG
-1319,,Switzerland,瑞士,Appenzell Innerrhoden,内阿彭策尔州,,,CH.AI
-1320,,Switzerland,瑞士,Appenzell Ausserrhoden,外阿彭策尔州,,,CH.AR
-1321,,Switzerland,瑞士,Bern,伯尔尼州,,,CH.BE
-1322,,Switzerland,瑞士,Basel-Landschaft,巴塞尔乡村州,,,CH.BL
-1323,,Switzerland,瑞士,Basel-Stadt,巴塞尔城市州,,,CH.BS
-1324,,Switzerland,瑞士,Fribourg,弗里堡州,,,CH.FR
-1325,,Switzerland,瑞士,Genève,日内瓦州,,,CH.GE
-1326,,Switzerland,瑞士,Glarus,格拉鲁斯州,,,CH.GL
-1327,,Switzerland,瑞士,Graubünden,格劳宾登州,,,CH.GR
-1328,,Switzerland,瑞士,Jura,汝拉州,,,CH.JU
-1329,,Switzerland,瑞士,Luzern,卢塞恩州,,,CH.LU
-1330,,Switzerland,瑞士,Neuchâtel,纳沙泰尔州,,,CH.NE
-1331,,Switzerland,瑞士,Nidwalden,下瓦尔登州,,,CH.NW
-1332,,Switzerland,瑞士,Obwalden,上瓦尔登州,,,CH.OW
-1333,,Switzerland,瑞士,St. Gallen,圣加仑州,,,CH.SG
-1334,,Switzerland,瑞士,Schaffhausen,沙夫豪森州,,,CH.SH
-1335,,Switzerland,瑞士,Solothurn,索洛图恩州,,,CH.SO
-1336,,Switzerland,瑞士,Schwyz,施维茨州,,,CH.SZ
-1337,,Switzerland,瑞士,Thurgau,图尔高州,,,CH.TG
-1338,,Switzerland,瑞士,Ticino,提契诺州,,,CH.TI
-1339,,Switzerland,瑞士,Uri,乌里州,,,CH.UR
-1340,,Switzerland,瑞士,Vaud,沃州,,,CH.VD
-1341,,Switzerland,瑞士,Valais,瓦莱州,,,CH.VS
-1342,,Switzerland,瑞士,Zug,楚格州,,,CH.ZG
-1343,,Switzerland,瑞士,Zürich,苏黎世州,,,CH.ZH
+1297,SWE,Sweden,瑞典,Gotland,哥特兰省,,,SE.GT
+1298,SWE,Sweden,瑞典,Dalarna,达拉纳省,,,SE.KO
+1299,SWE,Sweden,瑞典,Västmanland,西曼兰省,,,SE.VR
+1300,SWE,Sweden,瑞典,Norrbotten,北博滕省,,,SE.NB
+1301,SWE,Sweden,瑞典,Kalmar,卡尔马省,,,SE.KA
+1302,SWE,Sweden,瑞典,Gävleborg,耶夫勒堡省,,,SE.GV
+1303,SWE,Sweden,瑞典,Örebro,厄勒布鲁省,,,SE.OR
+1304,SWE,Sweden,瑞典,Blekinge,布莱金厄省,,,SE.BL
+1305,SWE,Sweden,瑞典,Västernorrland,西诺尔兰省,,,SE.VN
+1306,SWE,Sweden,瑞典,Västerbotten,西博滕省,,,SE.VB
+1307,SWE,Sweden,瑞典,Kronoberg,克鲁努贝里省,,,SE.KR
+1308,SWE,Sweden,瑞典,Södermanland,南曼兰省,,,SE.SD
+1309,SWE,Sweden,瑞典,Jämtland,耶姆特兰省,,,SE.JA
+1310,SWE,Sweden,瑞典,Östergötland,东约特兰省,,,SE.OG
+1311,SWE,Sweden,瑞典,Värmland,韦姆兰省,,,SE.VR
+1312,SWE,Sweden,瑞典,Uppsala,乌普萨拉省,,,SE.UP
+1313,SWE,Sweden,瑞典,Halland,哈兰省,,,SE.HA
+1314,SWE,Sweden,瑞典,Jönköping,延雪平省,,,SE.JO
+1315,SWE,Sweden,瑞典,Västra Götaland,西约塔兰省,,,SE.VG
+1316,SWE,Sweden,瑞典,Skåne,斯科讷省,,,SE.SN
+1317,SWE,Sweden,瑞典,Stockholm,斯德哥尔摩省,,,SE.ST
+1318,CHE,Switzerland,瑞士,Aargau,阿尔高州,,,CH.AG
+1319,CHE,Switzerland,瑞士,Appenzell Innerrhoden,内阿彭策尔州,,,CH.AI
+1320,CHE,Switzerland,瑞士,Appenzell Ausserrhoden,外阿彭策尔州,,,CH.AR
+1321,CHE,Switzerland,瑞士,Bern,伯尔尼州,,,CH.BE
+1322,CHE,Switzerland,瑞士,Basel-Landschaft,巴塞尔乡村州,,,CH.BL
+1323,CHE,Switzerland,瑞士,Basel-Stadt,巴塞尔城市州,,,CH.BS
+1324,CHE,Switzerland,瑞士,Fribourg,弗里堡州,,,CH.FR
+1325,CHE,Switzerland,瑞士,Genève,日内瓦州,,,CH.GE
+1326,CHE,Switzerland,瑞士,Glarus,格拉鲁斯州,,,CH.GL
+1327,CHE,Switzerland,瑞士,Graubünden,格劳宾登州,,,CH.GR
+1328,CHE,Switzerland,瑞士,Jura,汝拉州,,,CH.JU
+1329,CHE,Switzerland,瑞士,Luzern,卢塞恩州,,,CH.LU
+1330,CHE,Switzerland,瑞士,Neuchâtel,纳沙泰尔州,,,CH.NE
+1331,CHE,Switzerland,瑞士,Nidwalden,下瓦尔登州,,,CH.NW
+1332,CHE,Switzerland,瑞士,Obwalden,上瓦尔登州,,,CH.OW
+1333,CHE,Switzerland,瑞士,St. Gallen,圣加仑州,,,CH.SG
+1334,CHE,Switzerland,瑞士,Schaffhausen,沙夫豪森州,,,CH.SH
+1335,CHE,Switzerland,瑞士,Solothurn,索洛图恩州,,,CH.SO
+1336,CHE,Switzerland,瑞士,Schwyz,施维茨州,,,CH.SZ
+1337,CHE,Switzerland,瑞士,Thurgau,图尔高州,,,CH.TG
+1338,CHE,Switzerland,瑞士,Ticino,提契诺州,,,CH.TI
+1339,CHE,Switzerland,瑞士,Uri,乌里州,,,CH.UR
+1340,CHE,Switzerland,瑞士,Vaud,沃州,,,CH.VD
+1341,CHE,Switzerland,瑞士,Valais,瓦莱州,,,CH.VS
+1342,CHE,Switzerland,瑞士,Zug,楚格州,,,CH.ZG
+1343,CHE,Switzerland,瑞士,Zürich,苏黎世州,,,CH.ZH
 1344,,Thailand,泰国,Bangkok,曼谷,,,
 1345,,Thailand,泰国,Narathiwat,那拉提瓦府,,,
 1346,,Thailand,泰国,Khon Kaen,孔敬府,,,
