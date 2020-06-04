@@ -1,1 +1,1 @@
-requests
+requests,bs4,urllib

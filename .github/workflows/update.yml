@@ -34,5 +34,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          repository: stevenliuyi/covid19-csv
+          repository: leontian36/covid19-csv
           github_token: ${{ secrets.GITHUB_TOKEN }}
