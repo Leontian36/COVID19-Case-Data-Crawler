@@ -3336,7 +3336,7 @@
 31,2020-05-31,AUS,Australia,AU.VI,Victoria,1653,19,1560
 31,2020-06-01,AUS,Australia,AU.VI,Victoria,1663,19,1563
 31,2020-06-02,AUS,Australia,AU.VI,Victoria,1670,19,1569
-31,2020-06-03,AUS,Australia,AU.VI,Victoria,1670,19,1569
+31,2020-06-03,AUS,Australia,AU.VI,Victoria,1678,19,1569
 32,2020-01-22,AUS,Australia,AU.WA,Western Australia,0,0,0
 32,2020-01-23,AUS,Australia,AU.WA,Western Australia,0,0,0
 32,2020-01-24,AUS,Australia,AU.WA,Western Australia,0,0,0
@@ -3562,7 +3562,7 @@
 33,2020-05-31,AUT,Austria,AT.TR,Tirol,3537,108,3420
 33,2020-06-01,AUT,Austria,AT.TR,Tirol,3537,108,3420
 33,2020-06-02,AUT,Austria,AT.TR,Tirol,3535,108,3421
-33,2020-06-03,AUT,Austria,AT.TR,Tirol,3535,108,3425
+33,2020-06-03,AUT,Austria,AT.TR,Tirol,3536,108,3425
 34,2020-03-04,AUT,Austria,AT.SZ,Salzburg,3,,
 34,2020-03-05,AUT,Austria,AT.SZ,Salzburg,4,,
 34,2020-03-06,AUT,Austria,AT.SZ,Salzburg,5,,
@@ -3746,7 +3746,7 @@
 35,2020-05-31,AUT,Austria,AT.ST,Steiermark,1836,147,1645
 35,2020-06-01,AUT,Austria,AT.ST,Steiermark,1837,147,1646
 35,2020-06-02,AUT,Austria,AT.ST,Steiermark,1837,147,1647
-35,2020-06-03,AUT,Austria,AT.ST,Steiermark,1837,148,1655
+35,2020-06-03,AUT,Austria,AT.ST,Steiermark,1840,148,1655
 36,2020-03-04,AUT,Austria,AT.NO,Niederösterreich,5,,
 36,2020-03-05,AUT,Austria,AT.NO,Niederösterreich,13,,
 36,2020-03-06,AUT,Austria,AT.NO,Niederösterreich,15,,
@@ -3838,7 +3838,7 @@
 36,2020-05-31,AUT,Austria,AT.NO,Niederösterreich,2866,100,2673
 36,2020-06-01,AUT,Austria,AT.NO,Niederösterreich,2866,100,2673
 36,2020-06-02,AUT,Austria,AT.NO,Niederösterreich,2866,100,2678
-36,2020-06-03,AUT,Austria,AT.NO,Niederösterreich,2867,100,2687
+36,2020-06-03,AUT,Austria,AT.NO,Niederösterreich,2868,100,2687
 37,2020-03-04,AUT,Austria,AT.WI,Wien,15,,
 37,2020-03-05,AUT,Austria,AT.WI,Wien,16,,
 37,2020-03-06,AUT,Austria,AT.WI,Wien,23,,
@@ -3930,7 +3930,7 @@
 37,2020-05-31,AUT,Austria,AT.WI,Wien,3229,172,2855
 37,2020-06-01,AUT,Austria,AT.WI,Wien,3233,172,2855
 37,2020-06-02,AUT,Austria,AT.WI,Wien,3253,172,2879
-37,2020-06-03,AUT,Austria,AT.WI,Wien,3260,172,2894
+37,2020-06-03,AUT,Austria,AT.WI,Wien,3277,172,2894
 38,2020-03-05,AUT,Austria,AT.KA,Kärnten,1,,
 38,2020-03-06,AUT,Austria,AT.KA,Kärnten,1,,
 38,2020-03-07,AUT,Austria,AT.KA,Kärnten,1,,
@@ -4111,7 +4111,7 @@
 39,2020-05-31,AUT,Austria,AT.VO,Vorarlberg,898,19,866
 39,2020-06-01,AUT,Austria,AT.VO,Vorarlberg,898,19,866
 39,2020-06-02,AUT,Austria,AT.VO,Vorarlberg,899,19,867
-39,2020-06-03,AUT,Austria,AT.VO,Vorarlberg,900,19,867
+39,2020-06-03,AUT,Austria,AT.VO,Vorarlberg,901,19,867
 40,2020-03-06,AUT,Austria,AT.OO,Oberösterreich,1,,
 40,2020-03-07,AUT,Austria,AT.OO,Oberösterreich,4,,
 40,2020-03-08,AUT,Austria,AT.OO,Oberösterreich,7,,
@@ -4201,7 +4201,7 @@
 40,2020-05-31,AUT,Austria,AT.OO,Oberösterreich,2296,60,2215
 40,2020-06-01,AUT,Austria,AT.OO,Oberösterreich,2296,60,2215
 40,2020-06-02,AUT,Austria,AT.OO,Oberösterreich,2297,61,2215
-40,2020-06-03,AUT,Austria,AT.OO,Oberösterreich,2297,61,2221
+40,2020-06-03,AUT,Austria,AT.OO,Oberösterreich,2300,61,2221
 41,2020-03-07,AUT,Austria,AT.BU,Burgenland,4,,
 41,2020-03-08,AUT,Austria,AT.BU,Burgenland,4,,
 41,2020-03-09,AUT,Austria,AT.BU,Burgenland,4,,
@@ -7097,7 +7097,7 @@
 72,2020-05-31,CAN,Canada,CA.AB,Alberta,7010,143,
 72,2020-06-01,CAN,Canada,CA.AB,Alberta,7044,143,
 72,2020-06-02,CAN,Canada,CA.AB,Alberta,7057,143,
-72,2020-06-03,CAN,Canada,CA.AB,Alberta,7057,143,
+72,2020-06-03,CAN,Canada,CA.AB,Alberta,7076,145,
 73,2020-01-22,CAN,Canada,CA.BC,British Columbia,0,0,
 73,2020-01-23,CAN,Canada,CA.BC,British Columbia,0,0,
 73,2020-01-24,CAN,Canada,CA.BC,British Columbia,0,0,
@@ -7365,7 +7365,7 @@
 75,2020-05-31,CAN,Canada,CA.MB,Manitoba,295,7,
 75,2020-06-01,CAN,Canada,CA.MB,Manitoba,295,7,
 75,2020-06-02,CAN,Canada,CA.MB,Manitoba,297,7,
-75,2020-06-03,CAN,Canada,CA.MB,Manitoba,297,7,
+75,2020-06-03,CAN,Canada,CA.MB,Manitoba,298,7,
 76,2020-01-22,CAN,Canada,CA.NB,New Brunswick,0,0,
 76,2020-01-23,CAN,Canada,CA.NB,New Brunswick,0,0,
 76,2020-01-24,CAN,Canada,CA.NB,New Brunswick,0,0,
@@ -7499,7 +7499,7 @@
 76,2020-05-31,CAN,Canada,CA.NB,New Brunswick,132,0,
 76,2020-06-01,CAN,Canada,CA.NB,New Brunswick,132,0,
 76,2020-06-02,CAN,Canada,CA.NB,New Brunswick,133,0,
-76,2020-06-03,CAN,Canada,CA.NB,New Brunswick,133,0,
+76,2020-06-03,CAN,Canada,CA.NB,New Brunswick,135,0,
 77,2020-01-22,CAN,Canada,CA.NF,Newfoundland and Labrador,0,0,
 77,2020-01-23,CAN,Canada,CA.NF,Newfoundland and Labrador,0,0,
 77,2020-01-24,CAN,Canada,CA.NF,Newfoundland and Labrador,0,0,
@@ -7767,7 +7767,7 @@
 78,2020-05-31,CAN,Canada,CA.NS,Nova Scotia,1056,60,
 78,2020-06-01,CAN,Canada,CA.NS,Nova Scotia,1057,60,
 78,2020-06-02,CAN,Canada,CA.NS,Nova Scotia,1057,60,
-78,2020-06-03,CAN,Canada,CA.NS,Nova Scotia,1057,60,
+78,2020-06-03,CAN,Canada,CA.NS,Nova Scotia,1058,60,
 79,2020-01-22,CAN,Canada,CA.ON,Ontario,0,0,
 79,2020-01-23,CAN,Canada,CA.ON,Ontario,0,0,
 79,2020-01-24,CAN,Canada,CA.ON,Ontario,0,0,
@@ -7901,7 +7901,7 @@
 79,2020-05-31,CAN,Canada,CA.ON,Ontario,29390,2344,
 79,2020-06-01,CAN,Canada,CA.ON,Ontario,29845,2353,
 79,2020-06-02,CAN,Canada,CA.ON,Ontario,30259,2375,
-79,2020-06-03,CAN,Canada,CA.ON,Ontario,30259,2375,
+79,2020-06-03,CAN,Canada,CA.ON,Ontario,30603,2392,
 80,2020-01-22,CAN,Canada,CA.PE,Prince Edward Island,0,0,
 80,2020-01-23,CAN,Canada,CA.PE,Prince Edward Island,0,0,
 80,2020-01-24,CAN,Canada,CA.PE,Prince Edward Island,0,0,
@@ -8169,7 +8169,7 @@
 81,2020-05-31,CAN,Canada,CA.QC,Quebec,51059,4641,
 81,2020-06-01,CAN,Canada,CA.QC,Quebec,51354,4661,
 81,2020-06-02,CAN,Canada,CA.QC,Quebec,51593,4713,
-81,2020-06-03,CAN,Canada,CA.QC,Quebec,51593,4713,
+81,2020-06-03,CAN,Canada,CA.QC,Quebec,51884,4794,
 82,2020-01-22,CAN,Canada,CA.SK,Saskatchewan,0,0,
 82,2020-01-23,CAN,Canada,CA.SK,Saskatchewan,0,0,
 82,2020-01-24,CAN,Canada,CA.SK,Saskatchewan,0,0,
@@ -8303,7 +8303,7 @@
 82,2020-05-31,CAN,Canada,CA.SK,Saskatchewan,646,11,
 82,2020-06-01,CAN,Canada,CA.SK,Saskatchewan,646,11,
 82,2020-06-02,CAN,Canada,CA.SK,Saskatchewan,646,11,
-82,2020-06-03,CAN,Canada,CA.SK,Saskatchewan,646,11,
+82,2020-06-03,CAN,Canada,CA.SK,Saskatchewan,647,11,
 84,2020-01-22,CAN,Canada,CA.NT,Northwest Territories,0,0,
 84,2020-01-23,CAN,Canada,CA.NT,Northwest Territories,0,0,
 84,2020-01-24,CAN,Canada,CA.NT,Northwest Territories,0,0,
@@ -23408,7 +23408,7 @@
 388,2020-05-31,ITA,Italy,IT.AB,Abruzzo,3244,405,2064
 388,2020-06-01,ITA,Italy,IT.AB,Abruzzo,3245,408,2093
 388,2020-06-02,ITA,Italy,IT.AB,Abruzzo,3249,413,2093
-388,2020-06-03,ITA,Italy,IT.AB,Abruzzo,3249,413,2093
+388,2020-06-03,ITA,Italy,IT.AB,Abruzzo,3252,414,2102
 389,2020-02-24,ITA,Italy,IT.PU,Basilicata,0,0,0
 389,2020-02-25,ITA,Italy,IT.PU,Basilicata,0,0,0
 389,2020-02-26,ITA,Italy,IT.PU,Basilicata,0,0,0
@@ -23509,7 +23509,7 @@
 389,2020-05-31,ITA,Italy,IT.PU,Basilicata,399,27,343
 389,2020-06-01,ITA,Italy,IT.PU,Basilicata,399,27,344
 389,2020-06-02,ITA,Italy,IT.PU,Basilicata,399,27,348
-389,2020-06-03,ITA,Italy,IT.PU,Basilicata,399,27,348
+389,2020-06-03,ITA,Italy,IT.PU,Basilicata,399,27,349
 390,2020-02-24,ITA,Italy,IT.BC,Trentino-Alto Adige,0,0,0
 390,2020-02-25,ITA,Italy,IT.BC,Trentino-Alto Adige,1,0,0
 390,2020-02-26,ITA,Italy,IT.BC,Trentino-Alto Adige,1,0,0
@@ -23610,7 +23610,7 @@
 390,2020-05-31,ITA,Italy,IT.BC,Trentino-Alto Adige,7027,753,5843
 390,2020-06-01,ITA,Italy,IT.BC,Trentino-Alto Adige,7030,753,5861
 390,2020-06-02,ITA,Italy,IT.BC,Trentino-Alto Adige,7030,754,5873
-390,2020-06-03,ITA,Italy,IT.BC,Trentino-Alto Adige,7030,754,5873
+390,2020-06-03,ITA,Italy,IT.BC,Trentino-Alto Adige,7031,754,5935
 391,2020-02-24,ITA,Italy,IT.LB,Calabria,0,0,0
 391,2020-02-25,ITA,Italy,IT.LB,Calabria,0,0,0
 391,2020-02-26,ITA,Italy,IT.LB,Calabria,0,0,0
@@ -23711,7 +23711,7 @@
 391,2020-05-31,ITA,Italy,IT.LB,Calabria,1158,97,917
 391,2020-06-01,ITA,Italy,IT.LB,Calabria,1158,97,926
 391,2020-06-02,ITA,Italy,IT.LB,Calabria,1158,97,949
-391,2020-06-03,ITA,Italy,IT.LB,Calabria,1158,97,949
+391,2020-06-03,ITA,Italy,IT.LB,Calabria,1158,97,951
 392,2020-02-24,ITA,Italy,IT.CM,Campania,0,0,0
 392,2020-02-25,ITA,Italy,IT.CM,Campania,0,0,0
 392,2020-02-26,ITA,Italy,IT.CM,Campania,0,0,0
@@ -23812,7 +23812,7 @@
 392,2020-05-31,ITA,Italy,IT.CM,Campania,4802,412,3410
 392,2020-06-01,ITA,Italy,IT.CM,Campania,4806,413,3454
 392,2020-06-02,ITA,Italy,IT.CM,Campania,4809,415,3504
-392,2020-06-03,ITA,Italy,IT.CM,Campania,4809,415,3504
+392,2020-06-03,ITA,Italy,IT.CM,Campania,4821,415,3537
 393,2020-02-24,ITA,Italy,IT.ER,Emilia Romagna,18,0,0
 393,2020-02-25,ITA,Italy,IT.ER,Emilia Romagna,26,0,0
 393,2020-02-26,ITA,Italy,IT.ER,Emilia Romagna,47,1,0
@@ -23913,7 +23913,7 @@
 393,2020-05-31,ITA,Italy,IT.ER,Emilia Romagna,27790,4114,20513
 393,2020-06-01,ITA,Italy,IT.ER,Emilia Romagna,27809,4124,20617
 393,2020-06-02,ITA,Italy,IT.ER,Emilia Romagna,27828,4136,20780
-393,2020-06-03,ITA,Italy,IT.ER,Emilia Romagna,27828,4136,20780
+393,2020-06-03,ITA,Italy,IT.ER,Emilia Romagna,27842,4147,20856
 394,2020-02-24,ITA,Italy,IT.FV,Friuli V. G.,0,0,0
 394,2020-02-25,ITA,Italy,IT.FV,Friuli V. G.,0,0,0
 394,2020-02-26,ITA,Italy,IT.FV,Friuli V. G.,0,0,0
@@ -24014,7 +24014,7 @@
 394,2020-05-31,ITA,Italy,IT.FV,Friuli V. G.,3273,333,2662
 394,2020-06-01,ITA,Italy,IT.FV,Friuli V. G.,3274,335,2673
 394,2020-06-02,ITA,Italy,IT.FV,Friuli V. G.,3276,336,2696
-394,2020-06-03,ITA,Italy,IT.FV,Friuli V. G.,3276,336,2696
+394,2020-06-03,ITA,Italy,IT.FV,Friuli V. G.,3276,336,2707
 395,2020-02-24,ITA,Italy,IT.LZ,Lazio,3,0,1
 395,2020-02-25,ITA,Italy,IT.LZ,Lazio,3,0,1
 395,2020-02-26,ITA,Italy,IT.LZ,Lazio,3,0,3
@@ -24115,7 +24115,7 @@
 395,2020-05-31,ITA,Italy,IT.LZ,Lazio,7728,735,4010
 395,2020-06-01,ITA,Italy,IT.LZ,Lazio,7738,739,4105
 395,2020-06-02,ITA,Italy,IT.LZ,Lazio,7743,741,4155
-395,2020-06-03,ITA,Italy,IT.LZ,Lazio,7743,741,4155
+395,2020-06-03,ITA,Italy,IT.LZ,Lazio,7753,747,4188
 396,2020-02-24,ITA,Italy,IT.LG,Liguria,0,0,0
 396,2020-02-25,ITA,Italy,IT.LG,Liguria,1,0,0
 396,2020-02-26,ITA,Italy,IT.LG,Liguria,11,0,0
@@ -24216,7 +24216,7 @@
 396,2020-05-31,ITA,Italy,IT.LG,Liguria,9663,1465,7529
 396,2020-06-01,ITA,Italy,IT.LG,Liguria,9719,1467,7641
 396,2020-06-02,ITA,Italy,IT.LG,Liguria,9734,1468,7720
-396,2020-06-03,ITA,Italy,IT.LG,Liguria,9734,1468,7720
+396,2020-06-03,ITA,Italy,IT.LG,Liguria,9751,1473,7764
 397,2020-02-24,ITA,Italy,IT.LM,Lombardia,172,6,0
 397,2020-02-25,ITA,Italy,IT.LM,Lombardia,240,9,0
 397,2020-02-26,ITA,Italy,IT.LM,Lombardia,258,9,0
@@ -24317,7 +24317,7 @@
 397,2020-05-31,ITA,Italy,IT.LM,Lombardia,88968,16112,51860
 397,2020-06-01,ITA,Italy,IT.LM,Lombardia,89018,16131,52026
 397,2020-06-02,ITA,Italy,IT.LM,Lombardia,89205,16143,52807
-397,2020-06-03,ITA,Italy,IT.LM,Lombardia,89205,16143,52807
+397,2020-06-03,ITA,Italy,IT.LM,Lombardia,89442,16172,53046
 398,2020-02-24,ITA,Italy,IT.MH,Marche,0,0,0
 398,2020-02-25,ITA,Italy,IT.MH,Marche,0,0,0
 398,2020-02-26,ITA,Italy,IT.MH,Marche,1,0,0
@@ -24418,7 +24418,7 @@
 398,2020-05-31,ITA,Italy,IT.MH,Marche,6730,987,4405
 398,2020-06-01,ITA,Italy,IT.MH,Marche,6730,987,4416
 398,2020-06-02,ITA,Italy,IT.MH,Marche,6734,987,4421
-398,2020-06-03,ITA,Italy,IT.MH,Marche,6734,987,4421
+398,2020-06-03,ITA,Italy,IT.MH,Marche,6735,987,4438
 399,2020-02-24,ITA,Italy,IT.ML,Molise,0,0,0
 399,2020-02-25,ITA,Italy,IT.ML,Molise,0,0,0
 399,2020-02-26,ITA,Italy,IT.ML,Molise,0,0,0
@@ -24519,7 +24519,7 @@
 399,2020-05-31,ITA,Italy,IT.ML,Molise,436,22,269
 399,2020-06-01,ITA,Italy,IT.ML,Molise,436,22,279
 399,2020-06-02,ITA,Italy,IT.ML,Molise,436,22,281
-399,2020-06-03,ITA,Italy,IT.ML,Molise,436,22,281
+399,2020-06-03,ITA,Italy,IT.ML,Molise,436,22,287
 400,2020-02-24,ITA,Italy,IT.PM,Piemonte,3,0,0
 400,2020-02-25,ITA,Italy,IT.PM,Piemonte,3,0,0
 400,2020-02-26,ITA,Italy,IT.PM,Piemonte,3,0,0
@@ -24620,7 +24620,7 @@
 400,2020-05-31,ITA,Italy,IT.PM,Piemonte,30637,3867,21609
 400,2020-06-01,ITA,Italy,IT.PM,Piemonte,30658,3876,21720
 400,2020-06-02,ITA,Italy,IT.PM,Piemonte,30715,3884,22003
-400,2020-06-03,ITA,Italy,IT.PM,Piemonte,30715,3884,22003
+400,2020-06-03,ITA,Italy,IT.PM,Piemonte,30734,3898,22150
 401,2020-02-24,ITA,Italy,IT.SD,Puglia,0,0,0
 401,2020-02-25,ITA,Italy,IT.SD,Puglia,0,0,0
 401,2020-02-26,ITA,Italy,IT.SD,Puglia,0,0,0
@@ -24721,7 +24721,7 @@
 401,2020-05-31,ITA,Italy,IT.SD,Puglia,4494,504,2813
 401,2020-06-01,ITA,Italy,IT.SD,Puglia,4498,506,2837
 401,2020-06-02,ITA,Italy,IT.SD,Puglia,4498,508,2939
-401,2020-06-03,ITA,Italy,IT.SD,Puglia,4498,508,2939
+401,2020-06-03,ITA,Italy,IT.SD,Puglia,4499,511,2952
 402,2020-02-24,ITA,Italy,IT.SC,Sardegna,0,0,0
 402,2020-02-25,ITA,Italy,IT.SC,Sardegna,0,0,0
 402,2020-02-26,ITA,Italy,IT.SC,Sardegna,0,0,0
@@ -24822,7 +24822,7 @@
 402,2020-05-31,ITA,Italy,IT.SC,Sardegna,1356,130,1041
 402,2020-06-01,ITA,Italy,IT.SC,Sardegna,1357,131,1065
 402,2020-06-02,ITA,Italy,IT.SC,Sardegna,1357,131,1071
-402,2020-06-03,ITA,Italy,IT.SC,Sardegna,1357,131,1071
+402,2020-06-03,ITA,Italy,IT.SC,Sardegna,1357,131,1080
 403,2020-02-24,ITA,Italy,IT.TT,Sicilia,0,0,0
 403,2020-02-25,ITA,Italy,IT.TT,Sicilia,3,0,0
 403,2020-02-26,ITA,Italy,IT.TT,Sicilia,3,0,0
@@ -24923,7 +24923,7 @@
 403,2020-05-31,ITA,Italy,IT.TT,Sicilia,3443,274,2183
 403,2020-06-01,ITA,Italy,IT.TT,Sicilia,3443,274,2202
 403,2020-06-02,ITA,Italy,IT.TT,Sicilia,3447,275,2206
-403,2020-06-03,ITA,Italy,IT.TT,Sicilia,3447,275,2206
+403,2020-06-03,ITA,Italy,IT.TT,Sicilia,3447,275,2292
 404,2020-02-24,ITA,Italy,IT.TC,Toscana,0,0,0
 404,2020-02-25,ITA,Italy,IT.TC,Toscana,2,0,0
 404,2020-02-26,ITA,Italy,IT.TC,Toscana,2,0,0
@@ -25024,7 +25024,7 @@
 404,2020-05-31,ITA,Italy,IT.TC,Toscana,10104,1041,7952
 404,2020-06-01,ITA,Italy,IT.TC,Toscana,10107,1048,7977
 404,2020-06-02,ITA,Italy,IT.TC,Toscana,10117,1053,8053
-404,2020-06-03,ITA,Italy,IT.TC,Toscana,10117,1053,8053
+404,2020-06-03,ITA,Italy,IT.TC,Toscana,10121,1055,8093
 405,2020-02-24,ITA,Italy,IT.UM,Umbria,0,0,0
 405,2020-02-25,ITA,Italy,IT.UM,Umbria,0,0,0
 405,2020-02-26,ITA,Italy,IT.UM,Umbria,0,0,0
@@ -25327,7 +25327,7 @@
 407,2020-05-31,ITA,Italy,IT.VN,Veneto,19152,1918,15734
 407,2020-06-01,ITA,Italy,IT.VN,Veneto,19154,1918,15768
 407,2020-06-02,ITA,Italy,IT.VN,Veneto,19162,1921,15838
-407,2020-06-03,ITA,Italy,IT.VN,Veneto,19162,1921,15838
+407,2020-06-03,ITA,Italy,IT.VN,Veneto,19164,1921,15856
 408,2020-03-18,JPN,Japan,JP.HK,Hokkaido,153,7,69
 408,2020-03-19,JPN,Japan,JP.HK,Hokkaido,156,7,69
 408,2020-03-20,JPN,Japan,JP.HK,Hokkaido,157,6,69
@@ -35906,8 +35906,8 @@
 1172,2020-05-30,RUS,Russia,RU.MC,Moscow,178196,2408,78324
 1172,2020-05-31,RUS,Russia,RU.MC,Moscow,180791,2477,80179
 1172,2020-06-01,RUS,Russia,RU.MC,Moscow,183088,2553,82239
-1172,2020-06-02,RUS,Russia,RU.MC,Moscow,183088,2553,82239
-1172,2020-06-03,RUS,Russia,RU.MC,Moscow,183088,2553,82239
+1172,2020-06-02,RUS,Russia,RU.MC,Moscow,185374,2624,88269
+1172,2020-06-03,RUS,Russia,RU.MC,Moscow,185374,2624,88269
 1173,2020-03-22,RUS,Russia,RU.SP,Saint Petersburg,16,0,0
 1173,2020-03-23,RUS,Russia,RU.SP,Saint Petersburg,16,0,2
 1173,2020-03-24,RUS,Russia,RU.SP,Saint Petersburg,21,0,2
@@ -35980,8 +35980,8 @@
 1173,2020-05-30,RUS,Russia,RU.SP,Saint Petersburg,15580,191,5373
 1173,2020-05-31,RUS,Russia,RU.SP,Saint Petersburg,15949,204,5680
 1173,2020-06-01,RUS,Russia,RU.SP,Saint Petersburg,16313,213,5748
-1173,2020-06-02,RUS,Russia,RU.SP,Saint Petersburg,16313,213,5748
-1173,2020-06-03,RUS,Russia,RU.SP,Saint Petersburg,16313,213,5748
+1173,2020-06-02,RUS,Russia,RU.SP,Saint Petersburg,16689,223,6008
+1173,2020-06-03,RUS,Russia,RU.SP,Saint Petersburg,16689,223,6008
 1174,2020-03-25,RUS,Russia,RU.MS,Moscow Oblast,41,0,2
 1174,2020-03-26,RUS,Russia,RU.MS,Moscow Oblast,41,0,7
 1174,2020-03-27,RUS,Russia,RU.MS,Moscow Oblast,49,0,8
@@ -36051,8 +36051,8 @@
 1174,2020-05-30,RUS,Russia,RU.MS,Moscow Oblast,38238,424,7720
 1174,2020-05-31,RUS,Russia,RU.MS,Moscow Oblast,38995,449,8091
 1174,2020-06-01,RUS,Russia,RU.MS,Moscow Oblast,39723,473,8422
-1174,2020-06-02,RUS,Russia,RU.MS,Moscow Oblast,39723,473,8422
-1174,2020-06-03,RUS,Russia,RU.MS,Moscow Oblast,39723,473,8422
+1174,2020-06-02,RUS,Russia,RU.MS,Moscow Oblast,40455,495,8809
+1174,2020-06-03,RUS,Russia,RU.MS,Moscow Oblast,40455,495,8809
 1175,2020-03-25,RUS,Russia,RU.SA,Samara Oblast,10,0,0
 1175,2020-03-26,RUS,Russia,RU.SA,Samara Oblast,12,0,0
 1175,2020-03-27,RUS,Russia,RU.SA,Samara Oblast,14,0,0
@@ -36122,8 +36122,8 @@
 1175,2020-05-30,RUS,Russia,RU.SA,Samara Oblast,2527,20,948
 1175,2020-05-31,RUS,Russia,RU.SA,Samara Oblast,2612,20,1025
 1175,2020-06-01,RUS,Russia,RU.SA,Samara Oblast,2648,20,1060
-1175,2020-06-02,RUS,Russia,RU.SA,Samara Oblast,2648,20,1060
-1175,2020-06-03,RUS,Russia,RU.SA,Samara Oblast,2648,20,1060
+1175,2020-06-02,RUS,Russia,RU.SA,Samara Oblast,2724,22,1072
+1175,2020-06-03,RUS,Russia,RU.SA,Samara Oblast,2724,22,1072
 1176,2020-03-25,RUS,Russia,RU.SK,Saha Republic,10,0,0
 1176,2020-03-26,RUS,Russia,RU.SK,Saha Republic,14,0,0
 1176,2020-03-27,RUS,Russia,RU.SK,Saha Republic,14,0,0
@@ -36335,8 +36335,8 @@
 1178,2020-05-30,RUS,Russia,RU.KN,Kaliningrad Oblast,1460,24,629
 1178,2020-05-31,RUS,Russia,RU.KN,Kaliningrad Oblast,1508,24,630
 1178,2020-06-01,RUS,Russia,RU.KN,Kaliningrad Oblast,1553,24,630
-1178,2020-06-02,RUS,Russia,RU.KN,Kaliningrad Oblast,1553,24,630
-1178,2020-06-03,RUS,Russia,RU.KN,Kaliningrad Oblast,1553,24,630
+1178,2020-06-02,RUS,Russia,RU.KN,Kaliningrad Oblast,1607,24,670
+1178,2020-06-03,RUS,Russia,RU.KN,Kaliningrad Oblast,1607,24,670
 1179,2020-03-25,RUS,Russia,RU.KV,Kirov Oblast,7,0,0
 1179,2020-03-26,RUS,Russia,RU.KV,Kirov Oblast,7,0,0
 1179,2020-03-27,RUS,Russia,RU.KV,Kirov Oblast,8,0,0
@@ -36406,8 +36406,8 @@
 1179,2020-05-30,RUS,Russia,RU.KV,Kirov Oblast,1629,15,950
 1179,2020-05-31,RUS,Russia,RU.KV,Kirov Oblast,1683,17,978
 1179,2020-06-01,RUS,Russia,RU.KV,Kirov Oblast,1751,17,981
-1179,2020-06-02,RUS,Russia,RU.KV,Kirov Oblast,1751,17,981
-1179,2020-06-03,RUS,Russia,RU.KV,Kirov Oblast,1751,17,981
+1179,2020-06-02,RUS,Russia,RU.KV,Kirov Oblast,1828,17,981
+1179,2020-06-03,RUS,Russia,RU.KV,Kirov Oblast,1828,17,981
 1180,2020-03-25,RUS,Russia,RU.NS,Novosibirsk Oblast,4,0,0
 1180,2020-03-26,RUS,Russia,RU.NS,Novosibirsk Oblast,5,0,0
 1180,2020-03-27,RUS,Russia,RU.NS,Novosibirsk Oblast,5,0,0
@@ -36477,8 +36477,8 @@
 1180,2020-05-30,RUS,Russia,RU.NS,Novosibirsk Oblast,2705,32,1089
 1180,2020-05-31,RUS,Russia,RU.NS,Novosibirsk Oblast,2809,32,1119
 1180,2020-06-01,RUS,Russia,RU.NS,Novosibirsk Oblast,2914,33,1129
-1180,2020-06-02,RUS,Russia,RU.NS,Novosibirsk Oblast,2914,33,1129
-1180,2020-06-03,RUS,Russia,RU.NS,Novosibirsk Oblast,2914,33,1129
+1180,2020-06-02,RUS,Russia,RU.NS,Novosibirsk Oblast,3020,34,1214
+1180,2020-06-03,RUS,Russia,RU.NS,Novosibirsk Oblast,3020,34,1214
 1181,2020-03-25,RUS,Russia,RU.KX,Krasnoyarskiy Kray,5,0,3
 1181,2020-03-26,RUS,Russia,RU.KX,Krasnoyarskiy Kray,8,0,3
 1181,2020-03-27,RUS,Russia,RU.KX,Krasnoyarskiy Kray,8,0,3
@@ -36619,8 +36619,8 @@
 1182,2020-05-30,RUS,Russia,RU.TB,Tambov Oblast,2916,7,1088
 1182,2020-05-31,RUS,Russia,RU.TB,Tambov Oblast,2983,7,1133
 1182,2020-06-01,RUS,Russia,RU.TB,Tambov Oblast,3047,7,1176
-1182,2020-06-02,RUS,Russia,RU.TB,Tambov Oblast,3047,7,1176
-1182,2020-06-03,RUS,Russia,RU.TB,Tambov Oblast,3047,7,1176
+1182,2020-06-02,RUS,Russia,RU.TB,Tambov Oblast,3110,8,1221
+1182,2020-06-03,RUS,Russia,RU.TB,Tambov Oblast,3110,8,1221
 1183,2020-03-25,RUS,Russia,RU.LP,Lipetsk Oblast,5,0,3
 1183,2020-03-26,RUS,Russia,RU.LP,Lipetsk Oblast,5,0,3
 1183,2020-03-27,RUS,Russia,RU.LP,Lipetsk Oblast,5,0,3
@@ -36690,8 +36690,8 @@
 1183,2020-05-30,RUS,Russia,RU.LP,Lipetsk Oblast,2048,5,715
 1183,2020-05-31,RUS,Russia,RU.LP,Lipetsk Oblast,2123,6,718
 1183,2020-06-01,RUS,Russia,RU.LP,Lipetsk Oblast,2194,6,724
-1183,2020-06-02,RUS,Russia,RU.LP,Lipetsk Oblast,2194,6,724
-1183,2020-06-03,RUS,Russia,RU.LP,Lipetsk Oblast,2194,6,724
+1183,2020-06-02,RUS,Russia,RU.LP,Lipetsk Oblast,2261,6,742
+1183,2020-06-03,RUS,Russia,RU.LP,Lipetsk Oblast,2261,6,742
 1184,2020-03-25,RUS,Russia,RU.TV,Tver Oblast,3,0,0
 1184,2020-03-26,RUS,Russia,RU.TV,Tver Oblast,3,0,0
 1184,2020-03-27,RUS,Russia,RU.TV,Tver Oblast,3,0,0
@@ -36761,8 +36761,8 @@
 1184,2020-05-30,RUS,Russia,RU.TV,Tver Oblast,1560,22,1079
 1184,2020-05-31,RUS,Russia,RU.TV,Tver Oblast,1604,22,1083
 1184,2020-06-01,RUS,Russia,RU.TV,Tver Oblast,1650,22,1087
-1184,2020-06-02,RUS,Russia,RU.TV,Tver Oblast,1650,22,1087
-1184,2020-06-03,RUS,Russia,RU.TV,Tver Oblast,1650,22,1087
+1184,2020-06-02,RUS,Russia,RU.TV,Tver Oblast,1695,28,1147
+1184,2020-06-03,RUS,Russia,RU.TV,Tver Oblast,1695,28,1147
 1185,2020-03-25,RUS,Russia,RU.KH,Habarovskiy Kray,4,0,0
 1185,2020-03-26,RUS,Russia,RU.KH,Habarovskiy Kray,5,0,0
 1185,2020-03-27,RUS,Russia,RU.KH,Habarovskiy Kray,5,0,0
@@ -36974,8 +36974,8 @@
 1187,2020-05-30,RUS,Russia,RU.TL,Tula Oblast,3751,36,1779
 1187,2020-05-31,RUS,Russia,RU.TL,Tula Oblast,3855,36,1803
 1187,2020-06-01,RUS,Russia,RU.TL,Tula Oblast,3968,36,1815
-1187,2020-06-02,RUS,Russia,RU.TL,Tula Oblast,3968,36,1815
-1187,2020-06-03,RUS,Russia,RU.TL,Tula Oblast,3968,36,1815
+1187,2020-06-02,RUS,Russia,RU.TL,Tula Oblast,4074,39,1921
+1187,2020-06-03,RUS,Russia,RU.TL,Tula Oblast,4074,39,1921
 1188,2020-03-25,RUS,Russia,RU.PE,Perm Oblast,5,0,0
 1188,2020-03-26,RUS,Russia,RU.PE,Perm Oblast,10,0,0
 1188,2020-03-27,RUS,Russia,RU.PE,Perm Oblast,10,0,0
@@ -37258,8 +37258,8 @@
 1191,2020-05-30,RUS,Russia,RU.VR,Voronezh Oblast,1946,15,1413
 1191,2020-05-31,RUS,Russia,RU.VR,Voronezh Oblast,2028,15,1419
 1191,2020-06-01,RUS,Russia,RU.VR,Voronezh Oblast,2139,15,1433
-1191,2020-06-02,RUS,Russia,RU.VR,Voronezh Oblast,2139,15,1433
-1191,2020-06-03,RUS,Russia,RU.VR,Voronezh Oblast,2139,15,1433
+1191,2020-06-02,RUS,Russia,RU.VR,Voronezh Oblast,2234,16,1499
+1191,2020-06-03,RUS,Russia,RU.VR,Voronezh Oblast,2234,16,1499
 1192,2020-03-25,RUS,Russia,RU.KE,Kemerovo Oblast,2,0,1
 1192,2020-03-26,RUS,Russia,RU.KE,Kemerovo Oblast,3,0,1
 1192,2020-03-27,RUS,Russia,RU.KE,Kemerovo Oblast,3,0,1
@@ -37329,8 +37329,8 @@
 1192,2020-05-30,RUS,Russia,RU.KE,Kemerovo Oblast,495,7,228
 1192,2020-05-31,RUS,Russia,RU.KE,Kemerovo Oblast,520,7,240
 1192,2020-06-01,RUS,Russia,RU.KE,Kemerovo Oblast,545,7,240
-1192,2020-06-02,RUS,Russia,RU.KE,Kemerovo Oblast,545,7,240
-1192,2020-06-03,RUS,Russia,RU.KE,Kemerovo Oblast,545,7,240
+1192,2020-06-02,RUS,Russia,RU.KE,Kemerovo Oblast,589,7,259
+1192,2020-06-03,RUS,Russia,RU.KE,Kemerovo Oblast,589,7,259
 1193,2020-03-25,RUS,Russia,RU.KK,Republic of Hakassia,1,0,0
 1193,2020-03-26,RUS,Russia,RU.KK,Republic of Hakassia,2,0,0
 1193,2020-03-27,RUS,Russia,RU.KK,Republic of Hakassia,2,0,0
@@ -37471,8 +37471,8 @@
 1194,2020-05-30,RUS,Russia,RU.MM,Murmansk Oblast,3181,7,2034
 1194,2020-05-31,RUS,Russia,RU.MM,Murmansk Oblast,3222,7,2072
 1194,2020-06-01,RUS,Russia,RU.MM,Murmansk Oblast,3264,7,2081
-1194,2020-06-02,RUS,Russia,RU.MM,Murmansk Oblast,3264,7,2081
-1194,2020-06-03,RUS,Russia,RU.MM,Murmansk Oblast,3264,7,2081
+1194,2020-06-02,RUS,Russia,RU.MM,Murmansk Oblast,3296,7,2192
+1194,2020-06-03,RUS,Russia,RU.MM,Murmansk Oblast,3296,7,2192
 1195,2020-03-25,RUS,Russia,RU.KO,Komi Republic,3,0,0
 1195,2020-03-26,RUS,Russia,RU.KO,Komi Republic,3,0,0
 1195,2020-03-27,RUS,Russia,RU.KO,Komi Republic,3,0,0
@@ -37542,8 +37542,8 @@
 1195,2020-05-30,RUS,Russia,RU.KO,Komi Republic,1293,23,685
 1195,2020-05-31,RUS,Russia,RU.KO,Komi Republic,1322,24,704
 1195,2020-06-01,RUS,Russia,RU.KO,Komi Republic,1352,24,704
-1195,2020-06-02,RUS,Russia,RU.KO,Komi Republic,1352,24,704
-1195,2020-06-03,RUS,Russia,RU.KO,Komi Republic,1352,24,704
+1195,2020-06-02,RUS,Russia,RU.KO,Komi Republic,1393,24,748
+1195,2020-06-03,RUS,Russia,RU.KO,Komi Republic,1393,24,748
 1196,2020-03-25,RUS,Russia,RU.KG,Kaluga Oblast,2,0,0
 1196,2020-03-26,RUS,Russia,RU.KG,Kaluga Oblast,2,0,0
 1196,2020-03-27,RUS,Russia,RU.KG,Kaluga Oblast,2,0,0
@@ -37613,8 +37613,8 @@
 1196,2020-05-30,RUS,Russia,RU.KG,Kaluga Oblast,3834,31,1469
 1196,2020-05-31,RUS,Russia,RU.KG,Kaluga Oblast,3923,31,1494
 1196,2020-06-01,RUS,Russia,RU.KG,Kaluga Oblast,4009,31,1506
-1196,2020-06-02,RUS,Russia,RU.KG,Kaluga Oblast,4009,31,1506
-1196,2020-06-03,RUS,Russia,RU.KG,Kaluga Oblast,4009,31,1506
+1196,2020-06-02,RUS,Russia,RU.KG,Kaluga Oblast,4092,32,1614
+1196,2020-06-03,RUS,Russia,RU.KG,Kaluga Oblast,4092,32,1614
 1197,2020-03-25,RUS,Russia,RU.IV,Ivanovo Oblast,1,0,0
 1197,2020-03-26,RUS,Russia,RU.IV,Ivanovo Oblast,1,0,0
 1197,2020-03-27,RUS,Russia,RU.IV,Ivanovo Oblast,2,0,0
@@ -37684,8 +37684,8 @@
 1197,2020-05-30,RUS,Russia,RU.IV,Ivanovo Oblast,1900,18,783
 1197,2020-05-31,RUS,Russia,RU.IV,Ivanovo Oblast,1977,18,783
 1197,2020-06-01,RUS,Russia,RU.IV,Ivanovo Oblast,2057,18,786
-1197,2020-06-02,RUS,Russia,RU.IV,Ivanovo Oblast,2057,18,786
-1197,2020-06-03,RUS,Russia,RU.IV,Ivanovo Oblast,2057,18,786
+1197,2020-06-02,RUS,Russia,RU.IV,Ivanovo Oblast,2140,18,864
+1197,2020-06-03,RUS,Russia,RU.IV,Ivanovo Oblast,2140,18,864
 1198,2020-03-25,RUS,Russia,RU.ZB,Zabaykalskiy Kray,1,0,1
 1198,2020-03-26,RUS,Russia,RU.ZB,Zabaykalskiy Kray,1,0,1
 1198,2020-03-27,RUS,Russia,RU.ZB,Zabaykalskiy Kray,1,0,1
@@ -37826,8 +37826,8 @@
 1199,2020-05-30,RUS,Russia,RU.TO,Tomsk Oblast,667,11,307
 1199,2020-05-31,RUS,Russia,RU.TO,Tomsk Oblast,688,11,323
 1199,2020-06-01,RUS,Russia,RU.TO,Tomsk Oblast,716,11,326
-1199,2020-06-02,RUS,Russia,RU.TO,Tomsk Oblast,716,11,326
-1199,2020-06-03,RUS,Russia,RU.TO,Tomsk Oblast,716,11,326
+1199,2020-06-02,RUS,Russia,RU.TO,Tomsk Oblast,739,11,340
+1199,2020-06-03,RUS,Russia,RU.TO,Tomsk Oblast,739,11,340
 1200,2020-03-25,RUS,Russia,RU.AR,Arkhangelsk Oblast,3,0,0
 1200,2020-03-26,RUS,Russia,RU.AR,Arkhangelsk Oblast,3,0,0
 1200,2020-03-27,RUS,Russia,RU.AR,Arkhangelsk Oblast,3,0,0
@@ -37897,8 +37897,8 @@
 1200,2020-05-30,RUS,Russia,RU.AR,Arkhangelsk Oblast,1796,5,587
 1200,2020-05-31,RUS,Russia,RU.AR,Arkhangelsk Oblast,1933,5,587
 1200,2020-06-01,RUS,Russia,RU.AR,Arkhangelsk Oblast,2068,5,606
-1200,2020-06-02,RUS,Russia,RU.AR,Arkhangelsk Oblast,2068,5,606
-1200,2020-06-03,RUS,Russia,RU.AR,Arkhangelsk Oblast,2068,5,606
+1200,2020-06-02,RUS,Russia,RU.AR,Arkhangelsk Oblast,2124,7,659
+1200,2020-06-03,RUS,Russia,RU.AR,Arkhangelsk Oblast,2124,7,659
 1201,2020-03-25,RUS,Russia,RU.RZ,Ryazan Oblast,2,0,0
 1201,2020-03-26,RUS,Russia,RU.RZ,Ryazan Oblast,2,0,0
 1201,2020-03-27,RUS,Russia,RU.RZ,Ryazan Oblast,2,0,0
@@ -37968,8 +37968,8 @@
 1201,2020-05-30,RUS,Russia,RU.RZ,Ryazan Oblast,3432,7,945
 1201,2020-05-31,RUS,Russia,RU.RZ,Ryazan Oblast,3508,7,956
 1201,2020-06-01,RUS,Russia,RU.RZ,Ryazan Oblast,3581,7,973
-1201,2020-06-02,RUS,Russia,RU.RZ,Ryazan Oblast,3581,7,973
-1201,2020-06-03,RUS,Russia,RU.RZ,Ryazan Oblast,3581,7,973
+1201,2020-06-02,RUS,Russia,RU.RZ,Ryazan Oblast,3653,9,1075
+1201,2020-06-03,RUS,Russia,RU.RZ,Ryazan Oblast,3653,9,1075
 1202,2020-03-25,RUS,Russia,RU.CV,Republic of Chuvashia,1,0,0
 1202,2020-03-26,RUS,Russia,RU.CV,Republic of Chuvashia,1,0,0
 1202,2020-03-27,RUS,Russia,RU.CV,Republic of Chuvashia,1,0,0
@@ -38181,8 +38181,8 @@
 1204,2020-05-30,RUS,Russia,RU.YS,Yaroslavl Oblast,3055,14,751
 1204,2020-05-31,RUS,Russia,RU.YS,Yaroslavl Oblast,3132,14,756
 1204,2020-06-01,RUS,Russia,RU.YS,Yaroslavl Oblast,3210,14,756
-1204,2020-06-02,RUS,Russia,RU.YS,Yaroslavl Oblast,3210,14,756
-1204,2020-06-03,RUS,Russia,RU.YS,Yaroslavl Oblast,3210,14,756
+1204,2020-06-02,RUS,Russia,RU.YS,Yaroslavl Oblast,3284,14,826
+1204,2020-06-03,RUS,Russia,RU.YS,Yaroslavl Oblast,3284,14,826
 1205,2020-03-25,RUS,Russia,RU.PZ,Pensa Oblast,2,0,0
 1205,2020-03-26,RUS,Russia,RU.PZ,Pensa Oblast,2,0,0
 1205,2020-03-27,RUS,Russia,RU.PZ,Pensa Oblast,2,0,0
@@ -38323,8 +38323,8 @@
 1206,2020-05-30,RUS,Russia,RU.BL,Belgorod Oblast,2223,18,876
 1206,2020-05-31,RUS,Russia,RU.BL,Belgorod Oblast,2310,19,910
 1206,2020-06-01,RUS,Russia,RU.BL,Belgorod Oblast,2392,19,915
-1206,2020-06-02,RUS,Russia,RU.BL,Belgorod Oblast,2392,19,915
-1206,2020-06-03,RUS,Russia,RU.BL,Belgorod Oblast,2392,19,915
+1206,2020-06-02,RUS,Russia,RU.BL,Belgorod Oblast,2471,20,999
+1206,2020-06-03,RUS,Russia,RU.BL,Belgorod Oblast,2471,20,999
 1207,2020-03-25,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,2,0,0
 1207,2020-03-26,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,4,0,0
 1207,2020-03-27,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,4,0,0
@@ -38536,8 +38536,8 @@
 1209,2020-05-30,RUS,Russia,RU.OB,Orenburg Oblast,1871,6,1196
 1209,2020-05-31,RUS,Russia,RU.OB,Orenburg Oblast,1925,6,1196
 1209,2020-06-01,RUS,Russia,RU.OB,Orenburg Oblast,1979,6,1196
-1209,2020-06-02,RUS,Russia,RU.OB,Orenburg Oblast,1979,6,1196
-1209,2020-06-03,RUS,Russia,RU.OB,Orenburg Oblast,1979,6,1196
+1209,2020-06-02,RUS,Russia,RU.OB,Orenburg Oblast,2032,7,1196
+1209,2020-06-03,RUS,Russia,RU.OB,Orenburg Oblast,2032,7,1196
 1210,2020-03-25,RUS,Russia,RU.SR,Saratov Oblast,1,0,0
 1210,2020-03-26,RUS,Russia,RU.SR,Saratov Oblast,1,0,0
 1210,2020-03-27,RUS,Russia,RU.SR,Saratov Oblast,1,0,0
@@ -38607,8 +38607,8 @@
 1210,2020-05-30,RUS,Russia,RU.SR,Saratov Oblast,2936,34,1118
 1210,2020-05-31,RUS,Russia,RU.SR,Saratov Oblast,3078,34,1153
 1210,2020-06-01,RUS,Russia,RU.SR,Saratov Oblast,3174,34,1158
-1210,2020-06-02,RUS,Russia,RU.SR,Saratov Oblast,3174,34,1158
-1210,2020-06-03,RUS,Russia,RU.SR,Saratov Oblast,3174,34,1158
+1210,2020-06-02,RUS,Russia,RU.SR,Saratov Oblast,3269,34,1206
+1210,2020-06-03,RUS,Russia,RU.SR,Saratov Oblast,3269,34,1206
 1211,2020-03-25,RUS,Russia,RU.TT,Republic of Tatarstan,7,0,0
 1211,2020-03-26,RUS,Russia,RU.TT,Republic of Tatarstan,10,0,0
 1211,2020-03-27,RUS,Russia,RU.TT,Republic of Tatarstan,11,0,0
@@ -38749,8 +38749,8 @@
 1212,2020-05-30,RUS,Russia,RU.KU,Kurgan Oblast,218,0,105
 1212,2020-05-31,RUS,Russia,RU.KU,Kurgan Oblast,231,0,115
 1212,2020-06-01,RUS,Russia,RU.KU,Kurgan Oblast,245,0,118
-1212,2020-06-02,RUS,Russia,RU.KU,Kurgan Oblast,245,0,118
-1212,2020-06-03,RUS,Russia,RU.KU,Kurgan Oblast,245,0,118
+1212,2020-06-02,RUS,Russia,RU.KU,Kurgan Oblast,252,0,134
+1212,2020-06-03,RUS,Russia,RU.KU,Kurgan Oblast,252,0,134
 1213,2020-03-25,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,4,0,0
 1213,2020-03-26,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,4,0,0
 1213,2020-03-27,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,4,0,0
@@ -39175,8 +39175,8 @@
 1218,2020-05-30,RUS,Russia,RU.NG,Novgorod Oblast,1230,8,388
 1218,2020-05-31,RUS,Russia,RU.NG,Novgorod Oblast,1281,8,388
 1218,2020-06-01,RUS,Russia,RU.NG,Novgorod Oblast,1353,8,388
-1218,2020-06-02,RUS,Russia,RU.NG,Novgorod Oblast,1353,8,388
-1218,2020-06-03,RUS,Russia,RU.NG,Novgorod Oblast,1353,8,388
+1218,2020-06-02,RUS,Russia,RU.NG,Novgorod Oblast,1430,8,391
+1218,2020-06-03,RUS,Russia,RU.NG,Novgorod Oblast,1430,8,391
 1220,2020-03-25,RUS,Russia,RU.BK,Republic of Bashkortostan,4,0,0
 1220,2020-03-26,RUS,Russia,RU.BK,Republic of Bashkortostan,4,0,0
 1220,2020-03-27,RUS,Russia,RU.BK,Republic of Bashkortostan,4,0,0
@@ -39317,8 +39317,8 @@
 1221,2020-05-30,RUS,Russia,RU.CN,Chechen Republic,1209,13,825
 1221,2020-05-31,RUS,Russia,RU.CN,Chechen Republic,1227,13,828
 1221,2020-06-01,RUS,Russia,RU.CN,Chechen Republic,1247,13,836
-1221,2020-06-02,RUS,Russia,RU.CN,Chechen Republic,1247,13,836
-1221,2020-06-03,RUS,Russia,RU.CN,Chechen Republic,1247,13,836
+1221,2020-06-02,RUS,Russia,RU.CN,Chechen Republic,1264,13,847
+1221,2020-06-03,RUS,Russia,RU.CN,Chechen Republic,1264,13,847
 1222,2020-03-25,RUS,Russia,RU.PR,Primorskiy Kray,2,0,0
 1222,2020-03-26,RUS,Russia,RU.PR,Primorskiy Kray,2,0,0
 1222,2020-03-27,RUS,Russia,RU.PR,Primorskiy Kray,2,0,0
@@ -39459,8 +39459,8 @@
 1223,2020-05-30,RUS,Russia,RU.VG,Volgograd Oblast,2868,18,981
 1223,2020-05-31,RUS,Russia,RU.VG,Volgograd Oblast,3026,19,1023
 1223,2020-06-01,RUS,Russia,RU.VG,Volgograd Oblast,3215,20,1031
-1223,2020-06-02,RUS,Russia,RU.VG,Volgograd Oblast,3215,20,1031
-1223,2020-06-03,RUS,Russia,RU.VG,Volgograd Oblast,3215,20,1031
+1223,2020-06-02,RUS,Russia,RU.VG,Volgograd Oblast,3334,20,1097
+1223,2020-06-03,RUS,Russia,RU.VG,Volgograd Oblast,3334,20,1097
 1224,2020-03-25,RUS,Russia,RU.OL,Orel Oblast,2,0,0
 1224,2020-03-26,RUS,Russia,RU.OL,Orel Oblast,2,0,0
 1224,2020-03-27,RUS,Russia,RU.OL,Orel Oblast,3,0,0
@@ -39530,8 +39530,8 @@
 1224,2020-05-30,RUS,Russia,RU.OL,Orel Oblast,2225,24,1137
 1224,2020-05-31,RUS,Russia,RU.OL,Orel Oblast,2300,25,1152
 1224,2020-06-01,RUS,Russia,RU.OL,Orel Oblast,2341,25,1156
-1224,2020-06-02,RUS,Russia,RU.OL,Orel Oblast,2341,25,1156
-1224,2020-06-03,RUS,Russia,RU.OL,Orel Oblast,2341,25,1156
+1224,2020-06-02,RUS,Russia,RU.OL,Orel Oblast,2372,26,1231
+1224,2020-06-03,RUS,Russia,RU.OL,Orel Oblast,2372,26,1231
 1225,2020-03-25,RUS,Russia,RU.PS,Pskov Oblast,4,0,0
 1225,2020-03-26,RUS,Russia,RU.PS,Pskov Oblast,6,0,0
 1225,2020-03-27,RUS,Russia,RU.PS,Pskov Oblast,6,0,0
@@ -39601,8 +39601,8 @@
 1225,2020-05-30,RUS,Russia,RU.PS,Pskov Oblast,765,10,332
 1225,2020-05-31,RUS,Russia,RU.PS,Pskov Oblast,824,10,340
 1225,2020-06-01,RUS,Russia,RU.PS,Pskov Oblast,887,10,340
-1225,2020-06-02,RUS,Russia,RU.PS,Pskov Oblast,887,10,340
-1225,2020-06-03,RUS,Russia,RU.PS,Pskov Oblast,887,10,340
+1225,2020-06-02,RUS,Russia,RU.PS,Pskov Oblast,910,10,359
+1225,2020-06-03,RUS,Russia,RU.PS,Pskov Oblast,910,10,359
 1226,2020-03-25,RUS,Russia,RU.RO,Rostov Oblast,1,0,0
 1226,2020-03-26,RUS,Russia,RU.RO,Rostov Oblast,1,0,0
 1226,2020-03-27,RUS,Russia,RU.RO,Rostov Oblast,2,0,0
@@ -39672,8 +39672,8 @@
 1226,2020-05-30,RUS,Russia,RU.RO,Rostov Oblast,4580,38,1672
 1226,2020-05-31,RUS,Russia,RU.RO,Rostov Oblast,4758,38,1717
 1226,2020-06-01,RUS,Russia,RU.RO,Rostov Oblast,4942,38,1742
-1226,2020-06-02,RUS,Russia,RU.RO,Rostov Oblast,4942,38,1742
-1226,2020-06-03,RUS,Russia,RU.RO,Rostov Oblast,4942,38,1742
+1226,2020-06-02,RUS,Russia,RU.RO,Rostov Oblast,5195,40,1834
+1226,2020-06-03,RUS,Russia,RU.RO,Rostov Oblast,5195,40,1834
 1227,2020-03-27,RUS,Russia,RU.BU,Republic of Buriatia,2,0,0
 1227,2020-03-28,RUS,Russia,RU.BU,Republic of Buriatia,8,0,0
 1227,2020-03-29,RUS,Russia,RU.BU,Republic of Buriatia,8,0,0
@@ -39947,8 +39947,8 @@
 1230,2020-05-30,RUS,Russia,RU.SL,Sakhalin Oblast,101,0,53
 1230,2020-05-31,RUS,Russia,RU.SL,Sakhalin Oblast,115,0,53
 1230,2020-06-01,RUS,Russia,RU.SL,Sakhalin Oblast,118,0,53
-1230,2020-06-02,RUS,Russia,RU.SL,Sakhalin Oblast,118,0,53
-1230,2020-06-03,RUS,Russia,RU.SL,Sakhalin Oblast,118,0,53
+1230,2020-06-02,RUS,Russia,RU.SL,Sakhalin Oblast,133,0,54
+1230,2020-06-03,RUS,Russia,RU.SL,Sakhalin Oblast,133,0,54
 1231,2020-03-28,RUS,Russia,RU.KT,Kostroma Oblast,1,0,0
 1231,2020-03-29,RUS,Russia,RU.KT,Kostroma Oblast,1,0,0
 1231,2020-03-30,RUS,Russia,RU.KT,Kostroma Oblast,1,0,0
@@ -40015,8 +40015,8 @@
 1231,2020-05-30,RUS,Russia,RU.KT,Kostroma Oblast,719,10,388
 1231,2020-05-31,RUS,Russia,RU.KT,Kostroma Oblast,758,10,395
 1231,2020-06-01,RUS,Russia,RU.KT,Kostroma Oblast,772,11,399
-1231,2020-06-02,RUS,Russia,RU.KT,Kostroma Oblast,772,11,399
-1231,2020-06-03,RUS,Russia,RU.KT,Kostroma Oblast,772,11,399
+1231,2020-06-02,RUS,Russia,RU.KT,Kostroma Oblast,804,11,420
+1231,2020-06-03,RUS,Russia,RU.KT,Kostroma Oblast,804,11,420
 1232,2020-03-28,RUS,Russia,RU.SM,Smolensk Oblast,1,0,0
 1232,2020-03-29,RUS,Russia,RU.SM,Smolensk Oblast,1,0,0
 1232,2020-03-30,RUS,Russia,RU.SM,Smolensk Oblast,1,0,0
@@ -40083,8 +40083,8 @@
 1232,2020-05-30,RUS,Russia,RU.SM,Smolensk Oblast,2119,34,733
 1232,2020-05-31,RUS,Russia,RU.SM,Smolensk Oblast,2207,36,772
 1232,2020-06-01,RUS,Russia,RU.SM,Smolensk Oblast,2299,39,773
-1232,2020-06-02,RUS,Russia,RU.SM,Smolensk Oblast,2299,39,773
-1232,2020-06-03,RUS,Russia,RU.SM,Smolensk Oblast,2299,39,773
+1232,2020-06-02,RUS,Russia,RU.SM,Smolensk Oblast,2409,41,821
+1232,2020-06-03,RUS,Russia,RU.SM,Smolensk Oblast,2409,41,821
 1233,2020-03-28,RUS,Russia,RU.AD,Republic of Adygeia,1,0,0
 1233,2020-03-29,RUS,Russia,RU.AD,Republic of Adygeia,1,0,0
 1233,2020-03-30,RUS,Russia,RU.AD,Republic of Adygeia,4,0,0
@@ -40218,8 +40218,8 @@
 1234,2020-05-30,RUS,Russia,RU.OM,Omsk Oblast,1318,18,340
 1234,2020-05-31,RUS,Russia,RU.OM,Omsk Oblast,1387,18,349
 1234,2020-06-01,RUS,Russia,RU.OM,Omsk Oblast,1411,18,359
-1234,2020-06-02,RUS,Russia,RU.OM,Omsk Oblast,1411,18,359
-1234,2020-06-03,RUS,Russia,RU.OM,Omsk Oblast,1411,18,359
+1234,2020-06-02,RUS,Russia,RU.OM,Omsk Oblast,1437,18,386
+1234,2020-06-03,RUS,Russia,RU.OM,Omsk Oblast,1437,18,386
 1235,2020-03-29,RUS,Russia,RU.IK,Irkutsk Oblast,1,0,0
 1235,2020-03-30,RUS,Russia,RU.IK,Irkutsk Oblast,2,0,0
 1235,2020-03-31,RUS,Russia,RU.IK,Irkutsk Oblast,3,0,0
@@ -40285,8 +40285,8 @@
 1235,2020-05-30,RUS,Russia,RU.IK,Irkutsk Oblast,1660,11,316
 1235,2020-05-31,RUS,Russia,RU.IK,Irkutsk Oblast,1750,11,331
 1235,2020-06-01,RUS,Russia,RU.IK,Irkutsk Oblast,1979,11,347
-1235,2020-06-02,RUS,Russia,RU.IK,Irkutsk Oblast,1979,11,347
-1235,2020-06-03,RUS,Russia,RU.IK,Irkutsk Oblast,1979,11,347
+1235,2020-06-02,RUS,Russia,RU.IK,Irkutsk Oblast,2189,13,405
+1235,2020-06-03,RUS,Russia,RU.IK,Irkutsk Oblast,2189,13,405
 1236,2020-03-29,RUS,Russia,RU.AM,Amursk Oblast,1,0,0
 1236,2020-03-30,RUS,Russia,RU.AM,Amursk Oblast,1,0,0
 1236,2020-03-31,RUS,Russia,RU.AM,Amursk Oblast,1,0,0
@@ -40484,8 +40484,8 @@
 1238,2020-05-30,RUS,Russia,RU.VL,Vladimir Oblast,2617,21,685
 1238,2020-05-31,RUS,Russia,RU.VL,Vladimir Oblast,2676,21,732
 1238,2020-06-01,RUS,Russia,RU.VL,Vladimir Oblast,2735,21,756
-1238,2020-06-02,RUS,Russia,RU.VL,Vladimir Oblast,2735,21,756
-1238,2020-06-03,RUS,Russia,RU.VL,Vladimir Oblast,2735,21,756
+1238,2020-06-02,RUS,Russia,RU.VL,Vladimir Oblast,2797,24,839
+1238,2020-06-03,RUS,Russia,RU.VL,Vladimir Oblast,2797,24,839
 1239,2020-03-30,RUS,Russia,RU.VO,Vologda Oblast,2,0,0
 1239,2020-03-31,RUS,Russia,RU.VO,Vologda Oblast,2,0,0
 1239,2020-04-01,RUS,Russia,RU.VO,Vologda Oblast,9,0,0
@@ -40550,8 +40550,8 @@
 1239,2020-05-30,RUS,Russia,RU.VO,Vologda Oblast,882,7,332
 1239,2020-05-31,RUS,Russia,RU.VO,Vologda Oblast,929,7,348
 1239,2020-06-01,RUS,Russia,RU.VO,Vologda Oblast,952,7,357
-1239,2020-06-02,RUS,Russia,RU.VO,Vologda Oblast,952,7,357
-1239,2020-06-03,RUS,Russia,RU.VO,Vologda Oblast,952,7,357
+1239,2020-06-02,RUS,Russia,RU.VO,Vologda Oblast,979,7,380
+1239,2020-06-03,RUS,Russia,RU.VO,Vologda Oblast,979,7,380
 1240,2020-03-30,RUS,Russia,RU.KL,Republic of Kalmykia,1,0,0
 1240,2020-03-31,RUS,Russia,RU.KL,Republic of Kalmykia,2,0,0
 1240,2020-04-01,RUS,Russia,RU.KL,Republic of Kalmykia,2,0,0
@@ -40812,8 +40812,8 @@
 1243,2020-05-30,RUS,Russia,RU.MG,Magadan Oblast,238,3,183
 1243,2020-05-31,RUS,Russia,RU.MG,Magadan Oblast,243,3,186
 1243,2020-06-01,RUS,Russia,RU.MG,Magadan Oblast,246,3,187
-1243,2020-06-02,RUS,Russia,RU.MG,Magadan Oblast,246,3,187
-1243,2020-06-03,RUS,Russia,RU.MG,Magadan Oblast,246,3,187
+1243,2020-06-02,RUS,Russia,RU.MG,Magadan Oblast,248,3,199
+1243,2020-06-03,RUS,Russia,RU.MG,Magadan Oblast,248,3,199
 1245,2020-04-01,RUS,Russia,RU.KS,Kursk Oblast,3,0,0
 1245,2020-04-02,RUS,Russia,RU.KS,Kursk Oblast,3,0,0
 1245,2020-04-03,RUS,Russia,RU.KS,Kursk Oblast,4,0,0
@@ -40876,8 +40876,8 @@
 1245,2020-05-30,RUS,Russia,RU.KS,Kursk Oblast,2922,10,1339
 1245,2020-05-31,RUS,Russia,RU.KS,Kursk Oblast,3000,13,1388
 1245,2020-06-01,RUS,Russia,RU.KS,Kursk Oblast,3063,13,1400
-1245,2020-06-02,RUS,Russia,RU.KS,Kursk Oblast,3063,13,1400
-1245,2020-06-03,RUS,Russia,RU.KS,Kursk Oblast,3063,13,1400
+1245,2020-06-02,RUS,Russia,RU.KS,Kursk Oblast,3123,13,1452
+1245,2020-06-03,RUS,Russia,RU.KS,Kursk Oblast,3123,13,1452
 1246,2020-04-01,RUS,Russia,RU.NO,Republic of North Osetia-Alania,2,0,0
 1246,2020-04-02,RUS,Russia,RU.NO,Republic of North Osetia-Alania,4,0,0
 1246,2020-04-03,RUS,Russia,RU.NO,Republic of North Osetia-Alania,4,0,0
@@ -41125,8 +41125,8 @@
 1249,2020-05-30,RUS,Russia,RU.IN,Ingushetia Republic,2044,50,843
 1249,2020-05-31,RUS,Russia,RU.IN,Ingushetia Republic,2083,50,845
 1249,2020-06-01,RUS,Russia,RU.IN,Ingushetia Republic,2127,50,859
-1249,2020-06-02,RUS,Russia,RU.IN,Ingushetia Republic,2127,50,859
-1249,2020-06-03,RUS,Russia,RU.IN,Ingushetia Republic,2127,50,859
+1249,2020-06-02,RUS,Russia,RU.IN,Ingushetia Republic,2164,52,906
+1249,2020-06-03,RUS,Russia,RU.IN,Ingushetia Republic,2164,52,906
 1250,2020-04-06,RUS,Russia,RU.KQ,Kamchatskiy Kray,2,0,0
 1250,2020-04-07,RUS,Russia,RU.KQ,Kamchatskiy Kray,2,0,0
 1250,2020-04-08,RUS,Russia,RU.KQ,Kamchatskiy Kray,2,0,0
@@ -41503,8 +41503,8 @@
 ,2020-05-30,RUS,Russia,RU.GA,Altai Republic,116,0,71
 ,2020-05-31,RUS,Russia,RU.GA,Altai Republic,122,0,71
 ,2020-06-01,RUS,Russia,RU.GA,Altai Republic,132,0,74
-,2020-06-02,RUS,Russia,RU.GA,Altai Republic,132,0,74
-,2020-06-03,RUS,Russia,RU.GA,Altai Republic,132,0,74
+,2020-06-02,RUS,Russia,RU.GA,Altai Republic,133,0,80
+,2020-06-03,RUS,Russia,RU.GA,Altai Republic,133,0,80
 1268,2020-03-05,ZAF,South Africa,ZA.EC,Eastern Cape,0,,
 1268,2020-03-06,ZAF,South Africa,ZA.EC,Eastern Cape,0,,
 1268,2020-03-07,ZAF,South Africa,ZA.EC,Eastern Cape,0,,
@@ -41595,7 +41595,7 @@
 1268,2020-05-31,ZAF,South Africa,ZA.EC,Eastern Cape,3927,,
 1268,2020-06-01,ZAF,South Africa,ZA.EC,Eastern Cape,4111,,
 1268,2020-06-02,ZAF,South Africa,ZA.EC,Eastern Cape,4324,,
-1268,2020-06-03,ZAF,South Africa,ZA.EC,Eastern Cape,4324,,
+1268,2020-06-03,ZAF,South Africa,ZA.EC,Eastern Cape,4526,,
 1269,2020-03-05,ZAF,South Africa,ZA.FS,Free State,0,,
 1269,2020-03-06,ZAF,South Africa,ZA.FS,Free State,0,,
 1269,2020-03-07,ZAF,South Africa,ZA.FS,Free State,0,,
@@ -41686,7 +41686,7 @@
 1269,2020-05-31,ZAF,South Africa,ZA.FS,Free State,278,,
 1269,2020-06-01,ZAF,South Africa,ZA.FS,Free State,285,,
 1269,2020-06-02,ZAF,South Africa,ZA.FS,Free State,299,,
-1269,2020-06-03,ZAF,South Africa,ZA.FS,Free State,299,,
+1269,2020-06-03,ZAF,South Africa,ZA.FS,Free State,319,,
 1270,2020-03-05,ZAF,South Africa,ZA.GT,Gauteng,0,,
 1270,2020-03-06,ZAF,South Africa,ZA.GT,Gauteng,0,,
 1270,2020-03-07,ZAF,South Africa,ZA.GT,Gauteng,1,,
@@ -41777,7 +41777,7 @@
 1270,2020-05-31,ZAF,South Africa,ZA.GT,Gauteng,4003,,
 1270,2020-06-01,ZAF,South Africa,ZA.GT,Gauteng,4231,,
 1270,2020-06-02,ZAF,South Africa,ZA.GT,Gauteng,4276,,
-1270,2020-06-03,ZAF,South Africa,ZA.GT,Gauteng,4276,,
+1270,2020-06-03,ZAF,South Africa,ZA.GT,Gauteng,4567,,
 1271,2020-03-05,ZAF,South Africa,ZA.NL,KwaZulu-Natal,1,,
 1271,2020-03-06,ZAF,South Africa,ZA.NL,KwaZulu-Natal,1,,
 1271,2020-03-07,ZAF,South Africa,ZA.NL,KwaZulu-Natal,1,,
@@ -41868,7 +41868,7 @@
 1271,2020-05-31,ZAF,South Africa,ZA.NL,KwaZulu-Natal,2545,,
 1271,2020-06-01,ZAF,South Africa,ZA.NL,KwaZulu-Natal,2565,,
 1271,2020-06-02,ZAF,South Africa,ZA.NL,KwaZulu-Natal,2637,,
-1271,2020-06-03,ZAF,South Africa,ZA.NL,KwaZulu-Natal,2637,,
+1271,2020-06-03,ZAF,South Africa,ZA.NL,KwaZulu-Natal,2707,,
 1272,2020-03-05,ZAF,South Africa,ZA.NP,Limpopo,0,,
 1272,2020-03-06,ZAF,South Africa,ZA.NP,Limpopo,0,,
 1272,2020-03-07,ZAF,South Africa,ZA.NP,Limpopo,0,,
@@ -41959,7 +41959,7 @@
 1272,2020-05-31,ZAF,South Africa,ZA.NP,Limpopo,177,,
 1272,2020-06-01,ZAF,South Africa,ZA.NP,Limpopo,192,,
 1272,2020-06-02,ZAF,South Africa,ZA.NP,Limpopo,193,,
-1272,2020-06-03,ZAF,South Africa,ZA.NP,Limpopo,193,,
+1272,2020-06-03,ZAF,South Africa,ZA.NP,Limpopo,200,,
 1273,2020-03-05,ZAF,South Africa,ZA.MP,Mpumalanga,0,,
 1273,2020-03-06,ZAF,South Africa,ZA.MP,Mpumalanga,0,,
 1273,2020-03-07,ZAF,South Africa,ZA.MP,Mpumalanga,0,,
@@ -42050,7 +42050,7 @@
 1273,2020-05-31,ZAF,South Africa,ZA.MP,Mpumalanga,121,,
 1273,2020-06-01,ZAF,South Africa,ZA.MP,Mpumalanga,131,,
 1273,2020-06-02,ZAF,South Africa,ZA.MP,Mpumalanga,132,,
-1273,2020-06-03,ZAF,South Africa,ZA.MP,Mpumalanga,132,,
+1273,2020-06-03,ZAF,South Africa,ZA.MP,Mpumalanga,137,,
 1274,2020-03-05,ZAF,South Africa,ZA.NC,Northern Cape,0,,
 1274,2020-03-06,ZAF,South Africa,ZA.NC,Northern Cape,0,,
 1274,2020-03-07,ZAF,South Africa,ZA.NC,Northern Cape,0,,
@@ -42141,7 +42141,7 @@
 1274,2020-05-31,ZAF,South Africa,ZA.NC,Northern Cape,69,,
 1274,2020-06-01,ZAF,South Africa,ZA.NC,Northern Cape,82,,
 1274,2020-06-02,ZAF,South Africa,ZA.NC,Northern Cape,91,,
-1274,2020-06-03,ZAF,South Africa,ZA.NC,Northern Cape,91,,
+1274,2020-06-03,ZAF,South Africa,ZA.NC,Northern Cape,93,,
 1275,2020-03-05,ZAF,South Africa,ZA.NW,North West,0,,
 1275,2020-03-06,ZAF,South Africa,ZA.NW,North West,0,,
 1275,2020-03-07,ZAF,South Africa,ZA.NW,North West,0,,
@@ -42232,7 +42232,7 @@
 1275,2020-05-31,ZAF,South Africa,ZA.NW,North West,175,,
 1275,2020-06-01,ZAF,South Africa,ZA.NW,North West,187,,
 1275,2020-06-02,ZAF,South Africa,ZA.NW,North West,271,,
-1275,2020-06-03,ZAF,South Africa,ZA.NW,North West,271,,
+1275,2020-06-03,ZAF,South Africa,ZA.NW,North West,314,,
 1276,2020-03-05,ZAF,South Africa,ZA.WC,Western Cape,0,,
 1276,2020-03-06,ZAF,South Africa,ZA.WC,Western Cape,0,,
 1276,2020-03-07,ZAF,South Africa,ZA.WC,Western Cape,0,,
@@ -42323,7 +42323,7 @@
 1276,2020-05-31,ZAF,South Africa,ZA.WC,Western Cape,21382,,
 1276,2020-06-01,ZAF,South Africa,ZA.WC,Western Cape,22567,,
 1276,2020-06-02,ZAF,South Africa,ZA.WC,Western Cape,23583,,
-1276,2020-06-03,ZAF,South Africa,ZA.WC,Western Cape,23583,,
+1276,2020-06-03,ZAF,South Africa,ZA.WC,Western Cape,24657,,
 1278,2020-02-20,ESP,Spain,ES.AN,Andalucía,0,,
 1278,2020-02-21,ESP,Spain,ES.AN,Andalucía,0,,
 1278,2020-02-22,ESP,Spain,ES.AN,Andalucía,0,,
@@ -46749,13 +46749,13 @@
 1325,2020-05-25,CHE,Switzerland,CH.GE,Genève,5136,,
 1325,2020-05-26,CHE,Switzerland,CH.GE,Genève,5139,,
 1325,2020-05-27,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-05-28,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-05-29,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-05-30,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-05-31,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-06-01,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-06-02,CHE,Switzerland,CH.GE,Genève,5142,,
-1325,2020-06-03,CHE,Switzerland,CH.GE,Genève,5142,,
+1325,2020-05-28,CHE,Switzerland,CH.GE,Genève,5144,,
+1325,2020-05-29,CHE,Switzerland,CH.GE,Genève,5148,,
+1325,2020-05-30,CHE,Switzerland,CH.GE,Genève,5153,,
+1325,2020-05-31,CHE,Switzerland,CH.GE,Genève,5153,,
+1325,2020-06-01,CHE,Switzerland,CH.GE,Genève,5154,,
+1325,2020-06-02,CHE,Switzerland,CH.GE,Genève,5154,,
+1325,2020-06-03,CHE,Switzerland,CH.GE,Genève,5154,,
 1326,2020-03-10,CHE,Switzerland,CH.GL,Glarus,1,,
 1326,2020-03-11,CHE,Switzerland,CH.GL,Glarus,1,,
 1326,2020-03-12,CHE,Switzerland,CH.GL,Glarus,3,,
@@ -47204,8 +47204,8 @@
 1330,2020-05-30,CHE,Switzerland,CH.NE,Neuchâtel,726,,
 1330,2020-05-31,CHE,Switzerland,CH.NE,Neuchâtel,726,,
 1330,2020-06-01,CHE,Switzerland,CH.NE,Neuchâtel,726,,
-1330,2020-06-02,CHE,Switzerland,CH.NE,Neuchâtel,726,,
-1330,2020-06-03,CHE,Switzerland,CH.NE,Neuchâtel,726,,
+1330,2020-06-02,CHE,Switzerland,CH.NE,Neuchâtel,727,,
+1330,2020-06-03,CHE,Switzerland,CH.NE,Neuchâtel,727,,
 1331,2020-03-11,CHE,Switzerland,CH.NW,Nidwalden,4,,
 1331,2020-03-12,CHE,Switzerland,CH.NW,Nidwalden,5,,
 1331,2020-03-13,CHE,Switzerland,CH.NW,Nidwalden,5,,
@@ -48185,8 +48185,8 @@
 1341,2020-05-30,CHE,Switzerland,CH.VS,Valais,1943,,
 1341,2020-05-31,CHE,Switzerland,CH.VS,Valais,1945,,
 1341,2020-06-01,CHE,Switzerland,CH.VS,Valais,1946,,
-1341,2020-06-02,CHE,Switzerland,CH.VS,Valais,1946,,
-1341,2020-06-03,CHE,Switzerland,CH.VS,Valais,1946,,
+1341,2020-06-02,CHE,Switzerland,CH.VS,Valais,1947,,
+1341,2020-06-03,CHE,Switzerland,CH.VS,Valais,1947,,
 1342,2020-02-29,CHE,Switzerland,CH.ZG,Zug,0,,
 1342,2020-03-01,CHE,Switzerland,CH.ZG,Zug,0,,
 1342,2020-03-02,CHE,Switzerland,CH.ZG,Zug,0,,
@@ -48440,8 +48440,8 @@
 1614,2020-05-30,USA,United States of America,US.AL,Alabama,17357,618,
 1614,2020-05-31,USA,United States of America,US.AL,Alabama,17952,630,
 1614,2020-06-01,USA,United States of America,US.AL,Alabama,18534,646,
-1614,2020-06-02,USA,United States of America,US.AL,Alabama,18766,653,
-1614,2020-06-03,USA,United States of America,US.AL,Alabama,18766,653,
+1614,2020-06-02,USA,United States of America,US.AL,Alabama,18765,653,
+1614,2020-06-03,USA,United States of America,US.AL,Alabama,18851,653,
 1615,2020-04-04,USA,United States of America,US.AK,Alaska,171,5,
 1615,2020-04-05,USA,United States of America,US.AK,Alaska,185,6,
 1615,2020-04-06,USA,United States of America,US.AK,Alaska,191,6,
@@ -48502,7 +48502,7 @@
 1615,2020-05-31,USA,United States of America,US.AK,Alaska,460,10,
 1615,2020-06-01,USA,United States of America,US.AK,Alaska,467,10,
 1615,2020-06-02,USA,United States of America,US.AK,Alaska,487,10,
-1615,2020-06-03,USA,United States of America,US.AK,Alaska,487,10,
+1615,2020-06-03,USA,United States of America,US.AK,Alaska,505,10,
 1616,2020-04-04,USA,United States of America,US.AZ,Arizona,2019,53,
 1616,2020-04-05,USA,United States of America,US.AZ,Arizona,2269,65,
 1616,2020-04-06,USA,United States of America,US.AZ,Arizona,2456,65,
@@ -48562,8 +48562,8 @@
 1616,2020-05-30,USA,United States of America,US.AZ,Arizona,19354,904,
 1616,2020-05-31,USA,United States of America,US.AZ,Arizona,19968,907,
 1616,2020-06-01,USA,United States of America,US.AZ,Arizona,20281,918,
-1616,2020-06-02,USA,United States of America,US.AZ,Arizona,21264,943,
-1616,2020-06-03,USA,United States of America,US.AZ,Arizona,21264,943,
+1616,2020-06-02,USA,United States of America,US.AZ,Arizona,21383,945,
+1616,2020-06-03,USA,United States of America,US.AZ,Arizona,22356,983,
 1617,2020-04-04,USA,United States of America,US.AR,Arkansas,740,14,
 1617,2020-04-05,USA,United States of America,US.AR,Arkansas,849,16,
 1617,2020-04-06,USA,United States of America,US.AR,Arkansas,926,16,
@@ -48624,7 +48624,7 @@
 1617,2020-05-31,USA,United States of America,US.AR,Arkansas,7252,133,
 1617,2020-06-01,USA,United States of America,US.AR,Arkansas,7442,133,
 1617,2020-06-02,USA,United States of America,US.AR,Arkansas,7818,136,
-1617,2020-06-03,USA,United States of America,US.AR,Arkansas,7818,136,
+1617,2020-06-03,USA,United States of America,US.AR,Arkansas,8067,142,
 1618,2020-04-04,USA,United States of America,US.CA,California,13914,323,
 1618,2020-04-05,USA,United States of America,US.CA,California,15201,350,
 1618,2020-04-06,USA,United States of America,US.CA,California,16363,396,
@@ -48685,7 +48685,7 @@
 1618,2020-05-31,USA,United States of America,US.CA,California,112288,4174,
 1618,2020-06-01,USA,United States of America,US.CA,California,115108,4221,
 1618,2020-06-02,USA,United States of America,US.CA,California,117493,4321,
-1618,2020-06-03,USA,United States of America,US.CA,California,117493,4321,
+1618,2020-06-03,USA,United States of America,US.CA,California,118291,4334,
 1619,2020-04-04,USA,United States of America,US.CO,Colorado,4565,126,
 1619,2020-04-05,USA,United States of America,US.CO,Colorado,4950,139,
 1619,2020-04-06,USA,United States of America,US.CO,Colorado,5178,150,
@@ -48746,7 +48746,7 @@
 1619,2020-05-31,USA,United States of America,US.CO,Colorado,26379,1445,
 1619,2020-06-01,USA,United States of America,US.CO,Colorado,26577,1458,
 1619,2020-06-02,USA,United States of America,US.CO,Colorado,26814,1475,
-1619,2020-06-03,USA,United States of America,US.CO,Colorado,26814,1475,
+1619,2020-06-03,USA,United States of America,US.CO,Colorado,27083,1494,
 1620,2020-04-04,USA,United States of America,US.CT,Connecticut,5276,164,
 1620,2020-04-05,USA,United States of America,US.CT,Connecticut,5675,188,
 1620,2020-04-06,USA,United States of America,US.CT,Connecticut,6906,206,
@@ -48806,8 +48806,8 @@
 1620,2020-05-30,USA,United States of America,US.CT,Connecticut,42022,3911,
 1620,2020-05-31,USA,United States of America,US.CT,Connecticut,42201,3941,
 1620,2020-06-01,USA,United States of America,US.CT,Connecticut,42740,3957,
-1620,2020-06-02,USA,United States of America,US.CT,Connecticut,42979,3972,
-1620,2020-06-03,USA,United States of America,US.CT,Connecticut,42979,3972,
+1620,2020-06-02,USA,United States of America,US.CT,Connecticut,42978,3972,
+1620,2020-06-03,USA,United States of America,US.CT,Connecticut,43091,3989,
 1621,2020-04-04,USA,United States of America,US.DC,District of Columbia,998,22,
 1621,2020-04-05,USA,United States of America,US.DC,District of Columbia,1002,22,
 1621,2020-04-06,USA,United States of America,US.DC,District of Columbia,1097,24,
@@ -48868,7 +48868,7 @@
 1621,2020-05-31,USA,United States of America,US.DC,District of Columbia,8801,466,
 1621,2020-06-01,USA,United States of America,US.DC,District of Columbia,8857,468,
 1621,2020-06-02,USA,United States of America,US.DC,District of Columbia,8886,470,
-1621,2020-06-03,USA,United States of America,US.DC,District of Columbia,8886,470,
+1621,2020-06-03,USA,United States of America,US.DC,District of Columbia,9016,473,
 1622,2020-04-04,USA,United States of America,US.DE,Delaware,593,14,
 1622,2020-04-05,USA,United States of America,US.DE,Delaware,673,14,
 1622,2020-04-06,USA,United States of America,US.DE,Delaware,783,15,
@@ -48929,7 +48929,7 @@
 1622,2020-05-31,USA,United States of America,US.DE,Delaware,9498,366,
 1622,2020-06-01,USA,United States of America,US.DE,Delaware,9605,368,
 1622,2020-06-02,USA,United States of America,US.DE,Delaware,9685,373,
-1622,2020-06-03,USA,United States of America,US.DE,Delaware,9685,373,
+1622,2020-06-03,USA,United States of America,US.DE,Delaware,9712,375,
 1623,2020-04-04,USA,United States of America,US.FL,Florida,11539,195,
 1623,2020-04-05,USA,United States of America,US.FL,Florida,12350,221,
 1623,2020-04-06,USA,United States of America,US.FL,Florida,13629,253,
@@ -48990,7 +48990,7 @@
 1623,2020-05-31,USA,United States of America,US.FL,Florida,56161,2451,
 1623,2020-06-01,USA,United States of America,US.FL,Florida,56828,2460,
 1623,2020-06-02,USA,United States of America,US.FL,Florida,57447,2530,
-1623,2020-06-03,USA,United States of America,US.FL,Florida,57447,2530,
+1623,2020-06-03,USA,United States of America,US.FL,Florida,58764,2566,
 1624,2020-04-04,USA,United States of America,US.GA,Georgia,6373,206,
 1624,2020-04-05,USA,United States of America,US.GA,Georgia,6729,217,
 1624,2020-04-06,USA,United States of America,US.GA,Georgia,7549,285,
@@ -49051,7 +49051,7 @@
 1624,2020-05-31,USA,United States of America,US.GA,Georgia,47060,2048,
 1624,2020-06-01,USA,United States of America,US.GA,Georgia,47882,2088,
 1624,2020-06-02,USA,United States of America,US.GA,Georgia,48207,2102,
-1624,2020-06-03,USA,United States of America,US.GA,Georgia,48207,2102,
+1624,2020-06-03,USA,United States of America,US.GA,Georgia,48907,2124,
 1625,2020-04-04,USA,United States of America,US.HI,Hawaii,350,3,
 1625,2020-04-05,USA,United States of America,US.HI,Hawaii,371,4,
 1625,2020-04-06,USA,United States of America,US.HI,Hawaii,387,5,
@@ -49111,7 +49111,7 @@
 1625,2020-05-30,USA,United States of America,US.HI,Hawaii,651,17,
 1625,2020-05-31,USA,United States of America,US.HI,Hawaii,652,17,
 1625,2020-06-01,USA,United States of America,US.HI,Hawaii,652,17,
-1625,2020-06-02,USA,United States of America,US.HI,Hawaii,653,17,
+1625,2020-06-02,USA,United States of America,US.HI,Hawaii,652,17,
 1625,2020-06-03,USA,United States of America,US.HI,Hawaii,653,17,
 1626,2020-04-04,USA,United States of America,US.ID,Idaho,1075,10,
 1626,2020-04-05,USA,United States of America,US.ID,Idaho,1100,10,
@@ -49233,8 +49233,8 @@
 1627,2020-05-30,USA,United States of America,US.IL,Illinois,118912,5330,
 1627,2020-05-31,USA,United States of America,US.IL,Illinois,120257,5390,
 1627,2020-06-01,USA,United States of America,US.IL,Illinois,121233,5412,
-1627,2020-06-02,USA,United States of America,US.IL,Illinois,122848,5525,
-1627,2020-06-03,USA,United States of America,US.IL,Illinois,122848,5525,
+1627,2020-06-02,USA,United States of America,US.IL,Illinois,122847,5525,
+1627,2020-06-03,USA,United States of America,US.IL,Illinois,123830,5621,
 1628,2020-04-04,USA,United States of America,US.IN,Indiana,3954,117,
 1628,2020-04-05,USA,United States of America,US.IN,Indiana,4424,129,
 1628,2020-04-06,USA,United States of America,US.IN,Indiana,4954,132,
@@ -49295,7 +49295,7 @@
 1628,2020-05-31,USA,United States of America,US.IN,Indiana,34570,2133,
 1628,2020-06-01,USA,United States of America,US.IN,Indiana,34821,2142,
 1628,2020-06-02,USA,United States of America,US.IN,Indiana,35237,2197,
-1628,2020-06-03,USA,United States of America,US.IN,Indiana,35237,2197,
+1628,2020-06-03,USA,United States of America,US.IN,Indiana,35712,2207,
 1629,2020-04-04,USA,United States of America,US.IA,Iowa,785,15,
 1629,2020-04-05,USA,United States of America,US.IA,Iowa,869,21,
 1629,2020-04-06,USA,United States of America,US.IA,Iowa,945,25,
@@ -49354,9 +49354,9 @@
 1629,2020-05-29,USA,United States of America,US.IA,Iowa,18953,524,
 1629,2020-05-30,USA,United States of America,US.IA,Iowa,19238,531,
 1629,2020-05-31,USA,United States of America,US.IA,Iowa,19544,535,
-1629,2020-06-01,USA,United States of America,US.IA,Iowa,19698,555,
-1629,2020-06-02,USA,United States of America,US.IA,Iowa,20019,561,
-1629,2020-06-03,USA,United States of America,US.IA,Iowa,20019,561,
+1629,2020-06-01,USA,United States of America,US.IA,Iowa,19697,555,
+1629,2020-06-02,USA,United States of America,US.IA,Iowa,19999,561,
+1629,2020-06-03,USA,United States of America,US.IA,Iowa,20146,574,
 1630,2020-04-02,USA,United States of America,US.KS,Kansas,0,,
 1630,2020-04-03,USA,United States of America,US.KS,Kansas,0,,
 1630,2020-04-04,USA,United States of America,US.KS,Kansas,698,21,
@@ -49417,9 +49417,9 @@
 1630,2020-05-29,USA,United States of America,US.KS,Kansas,9657,215,
 1630,2020-05-30,USA,United States of America,US.KS,Kansas,9695,215,
 1630,2020-05-31,USA,United States of America,US.KS,Kansas,9744,217,
-1630,2020-06-01,USA,United States of America,US.KS,Kansas,9914,217,
-1630,2020-06-02,USA,United States of America,US.KS,Kansas,9965,223,
-1630,2020-06-03,USA,United States of America,US.KS,Kansas,9972,223,
+1630,2020-06-01,USA,United States of America,US.KS,Kansas,9913,217,
+1630,2020-06-02,USA,United States of America,US.KS,Kansas,9963,223,
+1630,2020-06-03,USA,United States of America,US.KS,Kansas,10087,226,
 1631,2020-04-04,USA,United States of America,US.KY,Kentucky,898,40,
 1631,2020-04-05,USA,United States of America,US.KY,Kentucky,937,44,
 1631,2020-04-06,USA,United States of America,US.KY,Kentucky,1028,58,
@@ -49460,27 +49460,27 @@
 1631,2020-05-11,USA,United States of America,US.KY,Kentucky,6672,311,
 1631,2020-05-12,USA,United States of America,US.KY,Kentucky,6849,321,
 1631,2020-05-13,USA,United States of America,US.KY,Kentucky,6849,321,
-1631,2020-05-14,USA,United States of America,US.KY,Kentucky,7213,328,
-1631,2020-05-15,USA,United States of America,US.KY,Kentucky,7434,332,
-1631,2020-05-16,USA,United States of America,US.KY,Kentucky,7673,334,
-1631,2020-05-17,USA,United States of America,US.KY,Kentucky,7673,334,
-1631,2020-05-18,USA,United States of America,US.KY,Kentucky,7916,346,
-1631,2020-05-19,USA,United States of America,US.KY,Kentucky,8048,366,
-1631,2020-05-20,USA,United States of America,US.KY,Kentucky,8163,376,
-1631,2020-05-21,USA,United States of America,US.KY,Kentucky,8285,386,
-1631,2020-05-22,USA,United States of America,US.KY,Kentucky,8423,391,
-1631,2020-05-23,USA,United States of America,US.KY,Kentucky,8569,391,
-1631,2020-05-24,USA,United States of America,US.KY,Kentucky,8569,391,
-1631,2020-05-25,USA,United States of America,US.KY,Kentucky,8569,391,
-1631,2020-05-26,USA,United States of America,US.KY,Kentucky,8951,394,
-1631,2020-05-27,USA,United States of America,US.KY,Kentucky,9077,400,
-1631,2020-05-28,USA,United States of America,US.KY,Kentucky,9185,409,
-1631,2020-05-29,USA,United States of America,US.KY,Kentucky,9464,418,
-1631,2020-05-30,USA,United States of America,US.KY,Kentucky,9704,431,
-1631,2020-05-31,USA,United States of America,US.KY,Kentucky,9704,431,
-1631,2020-06-01,USA,United States of America,US.KY,Kentucky,10043,439,
-1631,2020-06-02,USA,United States of America,US.KY,Kentucky,10185,442,
-1631,2020-06-03,USA,United States of America,US.KY,Kentucky,10185,442,
+1631,2020-05-14,USA,United States of America,US.KY,Kentucky,7212,328,
+1631,2020-05-15,USA,United States of America,US.KY,Kentucky,7433,332,
+1631,2020-05-16,USA,United States of America,US.KY,Kentucky,7672,334,
+1631,2020-05-17,USA,United States of America,US.KY,Kentucky,7672,334,
+1631,2020-05-18,USA,United States of America,US.KY,Kentucky,7915,346,
+1631,2020-05-19,USA,United States of America,US.KY,Kentucky,8047,366,
+1631,2020-05-20,USA,United States of America,US.KY,Kentucky,8162,376,
+1631,2020-05-21,USA,United States of America,US.KY,Kentucky,8284,386,
+1631,2020-05-22,USA,United States of America,US.KY,Kentucky,8422,391,
+1631,2020-05-23,USA,United States of America,US.KY,Kentucky,8568,391,
+1631,2020-05-24,USA,United States of America,US.KY,Kentucky,8568,391,
+1631,2020-05-25,USA,United States of America,US.KY,Kentucky,8568,391,
+1631,2020-05-26,USA,United States of America,US.KY,Kentucky,8949,394,
+1631,2020-05-27,USA,United States of America,US.KY,Kentucky,9075,400,
+1631,2020-05-28,USA,United States of America,US.KY,Kentucky,9180,409,
+1631,2020-05-29,USA,United States of America,US.KY,Kentucky,9458,418,
+1631,2020-05-30,USA,United States of America,US.KY,Kentucky,9696,431,
+1631,2020-05-31,USA,United States of America,US.KY,Kentucky,9696,431,
+1631,2020-06-01,USA,United States of America,US.KY,Kentucky,10034,439,
+1631,2020-06-02,USA,United States of America,US.KY,Kentucky,10173,442,
+1631,2020-06-03,USA,United States of America,US.KY,Kentucky,10410,450,
 1632,2020-04-04,USA,United States of America,US.LA,Louisiana,12484,408,
 1632,2020-04-05,USA,United States of America,US.LA,Louisiana,13010,478,
 1632,2020-04-06,USA,United States of America,US.LA,Louisiana,14866,518,
@@ -49534,14 +49534,14 @@
 1632,2020-05-24,USA,United States of America,US.LA,Louisiana,37079,2690,
 1632,2020-05-25,USA,United States of America,US.LA,Louisiana,37718,2690,
 1632,2020-05-26,USA,United States of America,US.LA,Louisiana,38054,2701,
-1632,2020-05-27,USA,United States of America,US.LA,Louisiana,38497,2721,
-1632,2020-05-28,USA,United States of America,US.LA,Louisiana,38802,2739,
-1632,2020-05-29,USA,United States of America,US.LA,Louisiana,38802,2765,
-1632,2020-05-30,USA,United States of America,US.LA,Louisiana,39577,2784,
-1632,2020-05-31,USA,United States of America,US.LA,Louisiana,39916,2789,
-1632,2020-06-01,USA,United States of America,US.LA,Louisiana,40340,2800,
-1632,2020-06-02,USA,United States of America,US.LA,Louisiana,40746,2835,
-1632,2020-06-03,USA,United States of America,US.LA,Louisiana,40746,2835,
+1632,2020-05-27,USA,United States of America,US.LA,Louisiana,38497,2720,
+1632,2020-05-28,USA,United States of America,US.LA,Louisiana,38802,2738,
+1632,2020-05-29,USA,United States of America,US.LA,Louisiana,38802,2764,
+1632,2020-05-30,USA,United States of America,US.LA,Louisiana,39577,2783,
+1632,2020-05-31,USA,United States of America,US.LA,Louisiana,39916,2788,
+1632,2020-06-01,USA,United States of America,US.LA,Louisiana,40340,2799,
+1632,2020-06-02,USA,United States of America,US.LA,Louisiana,40746,2833,
+1632,2020-06-03,USA,United States of America,US.LA,Louisiana,41133,2870,
 1633,2020-04-04,USA,United States of America,US.ME,Maine,455,10,
 1633,2020-04-05,USA,United States of America,US.ME,Maine,470,10,
 1633,2020-04-06,USA,United States of America,US.ME,Maine,499,10,
@@ -49602,7 +49602,7 @@
 1633,2020-05-31,USA,United States of America,US.ME,Maine,2324,89,
 1633,2020-06-01,USA,United States of America,US.ME,Maine,2347,89,
 1633,2020-06-02,USA,United States of America,US.ME,Maine,2377,94,
-1633,2020-06-03,USA,United States of America,US.ME,Maine,2377,94,
+1633,2020-06-03,USA,United States of America,US.ME,Maine,2418,95,
 1634,2020-04-04,USA,United States of America,US.MD,Maryland,3172,54,
 1634,2020-04-05,USA,United States of America,US.MD,Maryland,3617,67,
 1634,2020-04-06,USA,United States of America,US.MD,Maryland,4045,91,
@@ -49661,9 +49661,9 @@
 1634,2020-05-29,USA,United States of America,US.MD,Maryland,50987,2466,
 1634,2020-05-30,USA,United States of America,US.MD,Maryland,52015,2509,
 1634,2020-05-31,USA,United States of America,US.MD,Maryland,52715,2531,
-1634,2020-06-01,USA,United States of America,US.MD,Maryland,53327,2552,
-1634,2020-06-02,USA,United States of America,US.MD,Maryland,54175,2597,
-1634,2020-06-03,USA,United States of America,US.MD,Maryland,54175,2597,
+1634,2020-06-01,USA,United States of America,US.MD,Maryland,53326,2552,
+1634,2020-06-02,USA,United States of America,US.MD,Maryland,54171,2597,
+1634,2020-06-03,USA,United States of America,US.MD,Maryland,54982,2641,
 1635,2020-04-04,USA,United States of America,US.MA,Massachusetts,11677,216,
 1635,2020-04-05,USA,United States of America,US.MA,Massachusetts,12500,231,
 1635,2020-04-06,USA,United States of America,US.MA,Massachusetts,13837,260,
@@ -49723,8 +49723,8 @@
 1635,2020-05-30,USA,United States of America,US.MA,Massachusetts,96301,6768,
 1635,2020-05-31,USA,United States of America,US.MA,Massachusetts,96965,6846,
 1635,2020-06-01,USA,United States of America,US.MA,Massachusetts,100802,7033,
-1635,2020-06-02,USA,United States of America,US.MA,Massachusetts,101163,7085,
-1635,2020-06-03,USA,United States of America,US.MA,Massachusetts,101163,7085,
+1635,2020-06-02,USA,United States of America,US.MA,Massachusetts,101161,7085,
+1635,2020-06-03,USA,United States of America,US.MA,Massachusetts,101592,7152,
 1636,2020-04-04,USA,United States of America,US.MI,Michigan,11419,419,
 1636,2020-04-05,USA,United States of America,US.MI,Michigan,12694,481,
 1636,2020-04-06,USA,United States of America,US.MI,Michigan,13972,574,
@@ -49781,11 +49781,11 @@
 1636,2020-05-27,USA,United States of America,US.MI,Michigan,46464,4275,
 1636,2020-05-28,USA,United States of America,US.MI,Michigan,46858,4312,
 1636,2020-05-29,USA,United States of America,US.MI,Michigan,47238,4336,
-1636,2020-05-30,USA,United States of America,US.MI,Michigan,47567,4381,
-1636,2020-05-31,USA,United States of America,US.MI,Michigan,48018,4404,
-1636,2020-06-01,USA,United States of America,US.MI,Michigan,48142,4428,
-1636,2020-06-02,USA,United States of America,US.MI,Michigan,48331,4458,
-1636,2020-06-03,USA,United States of America,US.MI,Michigan,48331,4458,
+1636,2020-05-30,USA,United States of America,US.MI,Michigan,47566,4381,
+1636,2020-05-31,USA,United States of America,US.MI,Michigan,48017,4404,
+1636,2020-06-01,USA,United States of America,US.MI,Michigan,48140,4426,
+1636,2020-06-02,USA,United States of America,US.MI,Michigan,48329,4456,
+1636,2020-06-03,USA,United States of America,US.MI,Michigan,48585,4472,
 1637,2020-04-04,USA,United States of America,US.MN,Minnesota,865,24,
 1637,2020-04-05,USA,United States of America,US.MN,Minnesota,933,28,
 1637,2020-04-06,USA,United States of America,US.MN,Minnesota,984,30,
@@ -49840,13 +49840,13 @@
 1637,2020-05-25,USA,United States of America,US.MN,Minnesota,21313,889,
 1637,2020-05-26,USA,United States of America,US.MN,Minnesota,21960,907,
 1637,2020-05-27,USA,United States of America,US.MN,Minnesota,22462,941,
-1637,2020-05-28,USA,United States of America,US.MN,Minnesota,22947,976,
-1637,2020-05-29,USA,United States of America,US.MN,Minnesota,23530,1005,
-1637,2020-05-30,USA,United States of America,US.MN,Minnesota,24186,1036,
-1637,2020-05-31,USA,United States of America,US.MN,Minnesota,24849,1050,
-1637,2020-06-01,USA,United States of America,US.MN,Minnesota,25207,1060,
-1637,2020-06-02,USA,United States of America,US.MN,Minnesota,25508,1082,
-1637,2020-06-03,USA,United States of America,US.MN,Minnesota,25508,1082,
+1637,2020-05-28,USA,United States of America,US.MN,Minnesota,22946,976,
+1637,2020-05-29,USA,United States of America,US.MN,Minnesota,23529,1005,
+1637,2020-05-30,USA,United States of America,US.MN,Minnesota,24185,1036,
+1637,2020-05-31,USA,United States of America,US.MN,Minnesota,24848,1050,
+1637,2020-06-01,USA,United States of America,US.MN,Minnesota,25206,1060,
+1637,2020-06-02,USA,United States of America,US.MN,Minnesota,25502,1082,
+1637,2020-06-03,USA,United States of America,US.MN,Minnesota,25870,1097,
 1638,2020-04-04,USA,United States of America,US.MS,Mississippi,1638,43,
 1638,2020-04-05,USA,United States of America,US.MS,Mississippi,1737,51,
 1638,2020-04-06,USA,United States of America,US.MS,Mississippi,1737,51,
@@ -49902,12 +49902,12 @@
 1638,2020-05-26,USA,United States of America,US.MS,Mississippi,13731,652,
 1638,2020-05-27,USA,United States of America,US.MS,Mississippi,14044,670,
 1638,2020-05-28,USA,United States of America,US.MS,Mississippi,14371,693,
-1638,2020-05-29,USA,United States of America,US.MS,Mississippi,14791,710,
-1638,2020-05-30,USA,United States of America,US.MS,Mississippi,15229,723,
-1638,2020-05-31,USA,United States of America,US.MS,Mississippi,15523,734,
-1638,2020-06-01,USA,United States of America,US.MS,Mississippi,15752,739,
-1638,2020-06-02,USA,United States of America,US.MS,Mississippi,16041,767,
-1638,2020-06-03,USA,United States of America,US.MS,Mississippi,16041,767,
+1638,2020-05-29,USA,United States of America,US.MS,Mississippi,14790,710,
+1638,2020-05-30,USA,United States of America,US.MS,Mississippi,15226,723,
+1638,2020-05-31,USA,United States of America,US.MS,Mississippi,15512,734,
+1638,2020-06-01,USA,United States of America,US.MS,Mississippi,15735,739,
+1638,2020-06-02,USA,United States of America,US.MS,Mississippi,16021,767,
+1638,2020-06-03,USA,United States of America,US.MS,Mississippi,16322,782,
 1639,2020-04-03,USA,United States of America,US.MO,Missouri,4,,
 1639,2020-04-04,USA,United States of America,US.MO,Missouri,2335,37,
 1639,2020-04-05,USA,United States of America,US.MO,Missouri,2449,42,
@@ -49969,7 +49969,7 @@
 1639,2020-05-31,USA,United States of America,US.MO,Missouri,13414,774,
 1639,2020-06-01,USA,United States of America,US.MO,Missouri,13698,774,
 1639,2020-06-02,USA,United States of America,US.MO,Missouri,13992,786,
-1639,2020-06-03,USA,United States of America,US.MO,Missouri,13992,786,
+1639,2020-06-03,USA,United States of America,US.MO,Missouri,14165,791,
 1640,2020-04-04,USA,United States of America,US.MT,Montana,281,6,
 1640,2020-04-05,USA,United States of America,US.MT,Montana,296,6,
 1640,2020-04-06,USA,United States of America,US.MT,Montana,318,6,
@@ -50030,7 +50030,7 @@
 1640,2020-05-31,USA,United States of America,US.MT,Montana,515,17,
 1640,2020-06-01,USA,United States of America,US.MT,Montana,519,17,
 1640,2020-06-02,USA,United States of America,US.MT,Montana,523,17,
-1640,2020-06-03,USA,United States of America,US.MT,Montana,523,17,
+1640,2020-06-03,USA,United States of America,US.MT,Montana,525,17,
 1641,2020-04-04,USA,United States of America,US.NE,Nebraska,322,8,
 1641,2020-04-05,USA,United States of America,US.NE,Nebraska,365,8,
 1641,2020-04-06,USA,United States of America,US.NE,Nebraska,415,9,
@@ -50091,7 +50091,7 @@
 1641,2020-05-31,USA,United States of America,US.NE,Nebraska,14098,170,
 1641,2020-06-01,USA,United States of America,US.NE,Nebraska,14345,170,
 1641,2020-06-02,USA,United States of America,US.NE,Nebraska,14616,170,
-1641,2020-06-03,USA,United States of America,US.NE,Nebraska,14616,170,
+1641,2020-06-03,USA,United States of America,US.NE,Nebraska,14885,170,
 1642,2020-04-04,USA,United States of America,US.NV,Nevada,1733,46,
 1642,2020-04-05,USA,United States of America,US.NV,Nevada,1836,46,
 1642,2020-04-06,USA,United States of America,US.NV,Nevada,1970,46,
@@ -50213,7 +50213,7 @@
 1643,2020-05-31,USA,United States of America,US.NH,New Hampshire,3468,233,
 1643,2020-06-01,USA,United States of America,US.NH,New Hampshire,3490,233,
 1643,2020-06-02,USA,United States of America,US.NH,New Hampshire,3530,241,
-1643,2020-06-03,USA,United States of America,US.NH,New Hampshire,3530,241,
+1643,2020-06-03,USA,United States of America,US.NH,New Hampshire,3568,250,
 1644,2020-04-04,USA,United States of America,US.NJ,New Jersey,34403,843,
 1644,2020-04-05,USA,United States of America,US.NJ,New Jersey,37860,915,
 1644,2020-04-06,USA,United States of America,US.NJ,New Jersey,41539,999,
@@ -50457,7 +50457,7 @@
 1647,2020-05-31,USA,United States of America,US.NC,North Carolina,28786,937,
 1647,2020-06-01,USA,United States of America,US.NC,North Carolina,29593,948,
 1647,2020-06-02,USA,United States of America,US.NC,North Carolina,30024,961,
-1647,2020-06-03,USA,United States of America,US.NC,North Carolina,30206,961,
+1647,2020-06-03,USA,United States of America,US.NC,North Carolina,31223,999,
 1648,2020-04-04,USA,United States of America,US.ND,North Dakota,186,3,
 1648,2020-04-05,USA,United States of America,US.ND,North Dakota,207,3,
 1648,2020-04-06,USA,United States of America,US.ND,North Dakota,225,3,
@@ -50518,7 +50518,7 @@
 1648,2020-05-31,USA,United States of America,US.ND,North Dakota,2575,61,
 1648,2020-06-01,USA,United States of America,US.ND,North Dakota,2624,61,
 1648,2020-06-02,USA,United States of America,US.ND,North Dakota,2646,65,
-1648,2020-06-03,USA,United States of America,US.ND,North Dakota,2646,65,
+1648,2020-06-03,USA,United States of America,US.ND,North Dakota,2679,66,
 1649,2020-04-04,USA,United States of America,US.OH,Ohio,3739,102,
 1649,2020-04-05,USA,United States of America,US.OH,Ohio,4043,119,
 1649,2020-04-06,USA,United States of America,US.OH,Ohio,4444,142,
@@ -50577,9 +50577,9 @@
 1649,2020-05-29,USA,United States of America,US.OH,Ohio,34564,2129,
 1649,2020-05-30,USA,United States of America,US.OH,Ohio,35031,2148,
 1649,2020-05-31,USA,United States of America,US.OH,Ohio,35510,2153,
-1649,2020-06-01,USA,United States of America,US.OH,Ohio,35981,2205,
-1649,2020-06-02,USA,United States of America,US.OH,Ohio,36351,2259,
-1649,2020-06-03,USA,United States of America,US.OH,Ohio,36351,2259,
+1649,2020-06-01,USA,United States of America,US.OH,Ohio,35980,2205,
+1649,2020-06-02,USA,United States of America,US.OH,Ohio,36348,2258,
+1649,2020-06-03,USA,United States of America,US.OH,Ohio,36793,2300,
 1650,2020-04-02,USA,United States of America,US.OK,Oklahoma,2,,
 1650,2020-04-03,USA,United States of America,US.OK,Oklahoma,2,,
 1650,2020-04-04,USA,United States of America,US.OK,Oklahoma,1159,42,
@@ -50640,9 +50640,9 @@
 1650,2020-05-29,USA,United States of America,US.OK,Oklahoma,6335,329,
 1650,2020-05-30,USA,United States of America,US.OK,Oklahoma,6417,334,
 1650,2020-05-31,USA,United States of America,US.OK,Oklahoma,6417,334,
-1650,2020-06-01,USA,United States of America,US.OK,Oklahoma,6571,334,
-1650,2020-06-02,USA,United States of America,US.OK,Oklahoma,6692,339,
-1650,2020-06-03,USA,United States of America,US.OK,Oklahoma,6692,339,
+1650,2020-06-01,USA,United States of America,US.OK,Oklahoma,6568,334,
+1650,2020-06-02,USA,United States of America,US.OK,Oklahoma,6689,339,
+1650,2020-06-03,USA,United States of America,US.OK,Oklahoma,6805,341,
 1651,2020-04-04,USA,United States of America,US.OR,Oregon,999,26,
 1651,2020-04-05,USA,United States of America,US.OR,Oregon,1067,27,
 1651,2020-04-06,USA,United States of America,US.OR,Oregon,1132,29,
@@ -50701,9 +50701,9 @@
 1651,2020-05-29,USA,United States of America,US.OR,Oregon,4130,151,
 1651,2020-05-30,USA,United States of America,US.OR,Oregon,4185,153,
 1651,2020-05-31,USA,United States of America,US.OR,Oregon,4243,153,
-1651,2020-06-01,USA,United States of America,US.OR,Oregon,4302,154,
-1651,2020-06-02,USA,United States of America,US.OR,Oregon,4335,157,
-1651,2020-06-03,USA,United States of America,US.OR,Oregon,4335,157,
+1651,2020-06-01,USA,United States of America,US.OR,Oregon,4301,154,
+1651,2020-06-02,USA,United States of America,US.OR,Oregon,4334,157,
+1651,2020-06-03,USA,United States of America,US.OR,Oregon,4399,159,
 1652,2020-04-04,USA,United States of America,US.PA,Pennsylvania,10506,154,
 1652,2020-04-05,USA,United States of America,US.PA,Pennsylvania,11640,173,
 1652,2020-04-06,USA,United States of America,US.PA,Pennsylvania,13206,187,
@@ -50763,8 +50763,8 @@
 1652,2020-05-30,USA,United States of America,US.PA,Pennsylvania,75697,5537,
 1652,2020-05-31,USA,United States of America,US.PA,Pennsylvania,76127,5555,
 1652,2020-06-01,USA,United States of America,US.PA,Pennsylvania,76644,5567,
-1652,2020-06-02,USA,United States of America,US.PA,Pennsylvania,77225,5667,
-1652,2020-06-03,USA,United States of America,US.PA,Pennsylvania,77225,5667,
+1652,2020-06-02,USA,United States of America,US.PA,Pennsylvania,77221,5667,
+1652,2020-06-03,USA,United States of America,US.PA,Pennsylvania,77780,5742,
 1653,2020-04-04,USA,United States of America,US.RI,Rhode Island,806,17,
 1653,2020-04-05,USA,United States of America,US.RI,Rhode Island,922,25,
 1653,2020-04-06,USA,United States of America,US.RI,Rhode Island,1083,27,
@@ -50825,7 +50825,7 @@
 1653,2020-05-31,USA,United States of America,US.RI,Rhode Island,14928,718,
 1653,2020-06-01,USA,United States of America,US.RI,Rhode Island,14991,720,
 1653,2020-06-02,USA,United States of America,US.RI,Rhode Island,15112,732,
-1653,2020-06-03,USA,United States of America,US.RI,Rhode Island,15112,732,
+1653,2020-06-03,USA,United States of America,US.RI,Rhode Island,15219,742,
 1654,2020-04-04,USA,United States of America,US.SC,South Carolina,1913,40,
 1654,2020-04-05,USA,United States of America,US.SC,South Carolina,2048,43,
 1654,2020-04-06,USA,United States of America,US.SC,South Carolina,2230,48,
@@ -50947,7 +50947,7 @@
 1655,2020-05-31,USA,United States of America,US.SD,South Dakota,4993,62,
 1655,2020-06-01,USA,United States of America,US.SD,South Dakota,5034,62,
 1655,2020-06-02,USA,United States of America,US.SD,South Dakota,5067,62,
-1655,2020-06-03,USA,United States of America,US.SD,South Dakota,5067,62,
+1655,2020-06-03,USA,United States of America,US.SD,South Dakota,5162,62,
 1656,2020-04-04,USA,United States of America,US.TN,Tennessee,3321,48,
 1656,2020-04-05,USA,United States of America,US.TN,Tennessee,3627,49,
 1656,2020-04-06,USA,United States of America,US.TN,Tennessee,3786,62,
@@ -51000,15 +51000,15 @@
 1656,2020-05-23,USA,United States of America,US.TN,Tennessee,19779,329,
 1656,2020-05-24,USA,United States of America,US.TN,Tennessee,20102,336,
 1656,2020-05-25,USA,United States of America,US.TN,Tennessee,20532,338,
-1656,2020-05-26,USA,United States of America,US.TN,Tennessee,20889,343,
-1656,2020-05-27,USA,United States of America,US.TN,Tennessee,21281,353,
-1656,2020-05-28,USA,United States of America,US.TN,Tennessee,21675,356,
-1656,2020-05-29,USA,United States of America,US.TN,Tennessee,22059,360,
-1656,2020-05-30,USA,United States of America,US.TN,Tennessee,22565,364,
-1656,2020-05-31,USA,United States of America,US.TN,Tennessee,22565,364,
-1656,2020-06-01,USA,United States of America,US.TN,Tennessee,22565,364,
-1656,2020-06-02,USA,United States of America,US.TN,Tennessee,24342,381,
-1656,2020-06-03,USA,United States of America,US.TN,Tennessee,24342,381,
+1656,2020-05-26,USA,United States of America,US.TN,Tennessee,20888,343,
+1656,2020-05-27,USA,United States of America,US.TN,Tennessee,21280,353,
+1656,2020-05-28,USA,United States of America,US.TN,Tennessee,21673,356,
+1656,2020-05-29,USA,United States of America,US.TN,Tennessee,22057,360,
+1656,2020-05-30,USA,United States of America,US.TN,Tennessee,22563,364,
+1656,2020-05-31,USA,United States of America,US.TN,Tennessee,22563,364,
+1656,2020-06-01,USA,United States of America,US.TN,Tennessee,22563,364,
+1656,2020-06-02,USA,United States of America,US.TN,Tennessee,24332,381,
+1656,2020-06-03,USA,United States of America,US.TN,Tennessee,24332,381,
 1657,2020-04-04,USA,United States of America,US.TX,Texas,6066,114,
 1657,2020-04-05,USA,United States of America,US.TX,Texas,6510,132,
 1657,2020-04-06,USA,United States of America,US.TX,Texas,7014,143,
@@ -51068,8 +51068,8 @@
 1657,2020-05-30,USA,United States of America,US.TX,Texas,55474,1528,
 1657,2020-05-31,USA,United States of America,US.TX,Texas,57261,1546,
 1657,2020-06-01,USA,United States of America,US.TX,Texas,57871,1553,
-1657,2020-06-02,USA,United States of America,US.TX,Texas,59448,1585,
-1657,2020-06-03,USA,United States of America,US.TX,Texas,59448,1585,
+1657,2020-06-02,USA,United States of America,US.TX,Texas,59445,1585,
+1657,2020-06-03,USA,United States of America,US.TX,Texas,60826,1610,
 1658,2020-04-04,USA,United States of America,US.UT,Utah,1428,8,
 1658,2020-04-05,USA,United States of America,US.UT,Utah,1599,8,
 1658,2020-04-06,USA,United States of America,US.UT,Utah,1680,13,
@@ -51130,7 +51130,7 @@
 1658,2020-05-31,USA,United States of America,US.UT,Utah,9796,113,
 1658,2020-06-01,USA,United States of America,US.UT,Utah,9998,113,
 1658,2020-06-02,USA,United States of America,US.UT,Utah,10202,113,
-1658,2020-06-03,USA,United States of America,US.UT,Utah,10202,113,
+1658,2020-06-03,USA,United States of America,US.UT,Utah,10497,117,
 1659,2020-04-04,USA,United States of America,US.VT,Vermont,461,13,
 1659,2020-04-05,USA,United States of America,US.VT,Vermont,512,13,
 1659,2020-04-06,USA,United States of America,US.VT,Vermont,543,14,
@@ -51191,7 +51191,7 @@
 1659,2020-05-31,USA,United States of America,US.VT,Vermont,981,55,
 1659,2020-06-01,USA,United States of America,US.VT,Vermont,983,55,
 1659,2020-06-02,USA,United States of America,US.VT,Vermont,988,55,
-1659,2020-06-03,USA,United States of America,US.VT,Vermont,988,55,
+1659,2020-06-03,USA,United States of America,US.VT,Vermont,990,55,
 1660,2020-04-04,USA,United States of America,US.VA,Virginia,2412,51,
 1660,2020-04-05,USA,United States of America,US.VA,Virginia,2636,54,
 1660,2020-04-06,USA,United States of America,US.VA,Virginia,2876,67,
@@ -51243,16 +51243,16 @@
 1660,2020-05-22,USA,United States of America,US.VA,Virginia,34948,1133,
 1660,2020-05-23,USA,United States of America,US.VA,Virginia,35733,1158,
 1660,2020-05-24,USA,United States of America,US.VA,Virginia,36244,1170,
-1660,2020-05-25,USA,United States of America,US.VA,Virginia,37725,1206,
-1660,2020-05-26,USA,United States of America,US.VA,Virginia,39334,1232,
-1660,2020-05-27,USA,United States of America,US.VA,Virginia,40246,1279,
-1660,2020-05-28,USA,United States of America,US.VA,Virginia,41401,1336,
-1660,2020-05-29,USA,United States of America,US.VA,Virginia,42532,1358,
-1660,2020-05-30,USA,United States of America,US.VA,Virginia,43611,1370,
-1660,2020-05-31,USA,United States of America,US.VA,Virginia,44607,1375,
-1660,2020-06-01,USA,United States of America,US.VA,Virginia,45398,1390,
-1660,2020-06-02,USA,United States of America,US.VA,Virginia,46239,1407,
-1660,2020-06-03,USA,United States of America,US.VA,Virginia,46912,1428,
+1660,2020-05-25,USA,United States of America,US.VA,Virginia,37725,1205,
+1660,2020-05-26,USA,United States of America,US.VA,Virginia,39334,1231,
+1660,2020-05-27,USA,United States of America,US.VA,Virginia,40246,1278,
+1660,2020-05-28,USA,United States of America,US.VA,Virginia,41401,1335,
+1660,2020-05-29,USA,United States of America,US.VA,Virginia,42532,1357,
+1660,2020-05-30,USA,United States of America,US.VA,Virginia,43611,1369,
+1660,2020-05-31,USA,United States of America,US.VA,Virginia,44607,1374,
+1660,2020-06-01,USA,United States of America,US.VA,Virginia,45398,1389,
+1660,2020-06-02,USA,United States of America,US.VA,Virginia,46232,1405,
+1660,2020-06-03,USA,United States of America,US.VA,Virginia,46905,1428,
 1661,2020-04-04,USA,United States of America,US.WA,Washington,7591,318,
 1661,2020-04-05,USA,United States of America,US.WA,Washington,7984,343,
 1661,2020-04-06,USA,United States of America,US.WA,Washington,8384,383,
@@ -51312,8 +51312,8 @@
 1661,2020-05-30,USA,United States of America,US.WA,Washington,22037,1121,
 1661,2020-05-31,USA,United States of America,US.WA,Washington,22318,1121,
 1661,2020-06-01,USA,United States of America,US.WA,Washington,22717,1128,
-1661,2020-06-02,USA,United States of America,US.WA,Washington,22957,1134,
-1661,2020-06-03,USA,United States of America,US.WA,Washington,22957,1134,
+1661,2020-06-02,USA,United States of America,US.WA,Washington,22954,1134,
+1661,2020-06-03,USA,United States of America,US.WA,Washington,23285,1140,
 1662,2020-04-04,USA,United States of America,US.WV,West Virginia,281,2,
 1662,2020-04-05,USA,United States of America,US.WV,West Virginia,320,3,
 1662,2020-04-06,USA,United States of America,US.WV,West Virginia,345,4,
@@ -51366,15 +51366,15 @@
 1662,2020-05-23,USA,United States of America,US.WV,West Virginia,1702,71,
 1662,2020-05-24,USA,United States of America,US.WV,West Virginia,1754,71,
 1662,2020-05-25,USA,United States of America,US.WV,West Virginia,1778,71,
-1662,2020-05-26,USA,United States of America,US.WV,West Virginia,1857,73,
-1662,2020-05-27,USA,United States of America,US.WV,West Virginia,1887,73,
-1662,2020-05-28,USA,United States of America,US.WV,West Virginia,1929,73,
-1662,2020-05-29,USA,United States of America,US.WV,West Virginia,1969,73,
-1662,2020-05-30,USA,United States of America,US.WV,West Virginia,1985,74,
-1662,2020-05-31,USA,United States of America,US.WV,West Virginia,2006,74,
-1662,2020-06-01,USA,United States of America,US.WV,West Virginia,2025,76,
-1662,2020-06-02,USA,United States of America,US.WV,West Virginia,2056,78,
-1662,2020-06-03,USA,United States of America,US.WV,West Virginia,2056,78,
+1662,2020-05-26,USA,United States of America,US.WV,West Virginia,1856,73,
+1662,2020-05-27,USA,United States of America,US.WV,West Virginia,1886,73,
+1662,2020-05-28,USA,United States of America,US.WV,West Virginia,1928,73,
+1662,2020-05-29,USA,United States of America,US.WV,West Virginia,1968,73,
+1662,2020-05-30,USA,United States of America,US.WV,West Virginia,1984,74,
+1662,2020-05-31,USA,United States of America,US.WV,West Virginia,2005,74,
+1662,2020-06-01,USA,United States of America,US.WV,West Virginia,2024,76,
+1662,2020-06-02,USA,United States of America,US.WV,West Virginia,2053,78,
+1662,2020-06-03,USA,United States of America,US.WV,West Virginia,2077,78,
 1663,2020-04-04,USA,United States of America,US.WI,Wisconsin,2128,60,
 1663,2020-04-05,USA,United States of America,US.WI,Wisconsin,2319,75,
 1663,2020-04-06,USA,United States of America,US.WI,Wisconsin,2509,86,
@@ -51435,7 +51435,7 @@
 1663,2020-05-31,USA,United States of America,US.WI,Wisconsin,18400,592,
 1663,2020-06-01,USA,United States of America,US.WI,Wisconsin,18538,595,
 1663,2020-06-02,USA,United States of America,US.WI,Wisconsin,18917,607,
-1663,2020-06-03,USA,United States of America,US.WI,Wisconsin,18917,607,
+1663,2020-06-03,USA,United States of America,US.WI,Wisconsin,19400,616,
 1664,2020-04-04,USA,United States of America,US.WY,Wyoming,186,0,
 1664,2020-04-05,USA,United States of America,US.WY,Wyoming,200,0,
 1664,2020-04-06,USA,United States of America,US.WY,Wyoming,212,0,
@@ -51496,4 +51496,4 @@
 1664,2020-05-31,USA,United States of America,US.WY,Wyoming,903,16,
 1664,2020-06-01,USA,United States of America,US.WY,Wyoming,910,17,
 1664,2020-06-02,USA,United States of America,US.WY,Wyoming,912,17,
-1664,2020-06-03,USA,United States of America,US.WY,Wyoming,912,17,
+1664,2020-06-03,USA,United States of America,US.WY,Wyoming,915,17,
