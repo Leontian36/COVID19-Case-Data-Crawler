@@ -23,6 +23,8 @@ jobs:
       - name: Generate new data
         run: |
           python scripts/Denmark-crawler.py
+          python scripts/Hungary-crawler.py
+          python scripts/Slovakia-crawler.py
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
