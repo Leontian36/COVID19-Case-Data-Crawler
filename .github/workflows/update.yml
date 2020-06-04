@@ -22,8 +22,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Generate new data
         run: |
-          mkdir -p csv
-          python run.py
+          python scripts/Denmark-crawler.py
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
