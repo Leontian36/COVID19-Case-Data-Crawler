@@ -24,9 +24,9 @@
 23,2020-06-03,ARG,Argentina,AR.TF,Tierra del Fuego,0,0,36
 24,2020-06-03,ARG,Argentina,AR.TM,Tucuman,0,0,3
 25,2020-06-03,AUS,Australia,AU.AC,Australian Capital Territory,107,3,104
-26,2020-06-03,AUS,Australia,AU.NS,New South Wales,3104,48,2691
+26,2020-06-03,AUS,Australia,AU.NS,New South Wales,3106,48,2700
 27,2020-06-03,AUS,Australia,AU.NT,Northern Territory,29,0,29
-28,2020-06-03,AUS,Australia,AU.QL,Queensland,1059,6,1047
+28,2020-06-03,AUS,Australia,AU.QL,Queensland,1060,6,1046
 29,2020-06-03,AUS,Australia,AU.SA,South Australia,440,4,435
 30,2020-06-03,AUS,Australia,AU.TS,Tasmania,228,13,208
 31,2020-06-03,AUS,Australia,AU.VI,Victoria,1678,19,1569
@@ -40,35 +40,35 @@
 39,2020-06-03,AUT,Austria,AT.VO,Vorarlberg,901,19,867
 40,2020-06-03,AUT,Austria,AT.OO,Oberösterreich,2300,61,2221
 41,2020-06-03,AUT,Austria,AT.BU,Burgenland,342,11,328
-45,2020-06-03,BRA,Brazil,BR.AC,Acre,6465,165,
-46,2020-06-03,BRA,Brazil,BR.AP,Amapá,10511,237,
-47,2020-06-03,BRA,Brazil,BR.AM,Amazonas,43195,2102,
-48,2020-06-03,BRA,Brazil,BR.PB,Pará,41207,3040,
-49,2020-06-03,BRA,Brazil,BR.RO,Rondônia,5477,172,
-50,2020-06-03,BRA,Brazil,BR.RR,Roraima,3850,120,
-51,2020-06-03,BRA,Brazil,BR.TO,Tocantins,4483,79,
-52,2020-06-03,BRA,Brazil,BR.AL,Alagoas,11559,482,
-53,2020-06-03,BRA,Brazil,BR.BA,Bahia,21430,736,
-54,2020-06-03,BRA,Brazil,BR.CE,Ceará,53073,3421,
-55,2020-06-03,BRA,Brazil,BR.MA,Maranhão,36625,997,
-56,2020-06-03,BRA,Brazil,BR.PA,Paraíba,14859,379,
-57,2020-06-03,BRA,Brazil,BR.PE,Pernambuco,35508,2933,
-58,2020-06-03,BRA,Brazil,BR.PI,Piauí,5506,180,
-59,2020-06-03,BRA,Brazil,BR.RN,Rio Grande do Norte,8233,341,
-60,2020-06-03,BRA,Brazil,BR.SE,Sergipe,7555,172,
-61,2020-06-03,BRA,Brazil,BR.ES,Espirito Santo,15151,664,
-62,2020-06-03,BRA,Brazil,BR.MG,Minas Gerais,10939,289,
-63,2020-06-03,BRA,Brazil,BR.RJ,Rio de Janeiro,56732,5686,
-64,2020-06-03,BRA,Brazil,BR.SC,São Paulo,118295,7994,
-65,2020-06-03,BRA,Brazil,BR.PR,Paraná,5163,199,
-66,2020-06-03,BRA,Brazil,BR.RS,Rio Grande do Sul,9919,245,
-67,2020-06-03,BRA,Brazil,BR.SP,Santa Catarina,9660,148,
-68,2020-06-03,BRA,Brazil,BR.DF,Distrito Federal,11256,177,
-69,2020-06-03,BRA,Brazil,BR.GO,Goiás,4377,151,
-70,2020-06-03,BRA,Brazil,BR.MT,Mato Grosso,2709,70,
-71,2020-06-03,BRA,Brazil,BR.MS,Mato Grosso do Sul,1646,20,
+45,2020-06-03,BRA,Brazil,BR.AC,Acre,6679,171,
+46,2020-06-03,BRA,Brazil,BR.AP,Amapá,11107,247,
+47,2020-06-03,BRA,Brazil,BR.AM,Amazonas,44347,2138,
+48,2020-06-03,BRA,Brazil,BR.PB,Pará,44774,3193,
+49,2020-06-03,BRA,Brazil,BR.RO,Rondônia,5713,180,
+50,2020-06-03,BRA,Brazil,BR.RR,Roraima,4143,124,
+51,2020-06-03,BRA,Brazil,BR.TO,Tocantins,4698,82,
+52,2020-06-03,BRA,Brazil,BR.AL,Alagoas,12407,506,
+53,2020-06-03,BRA,Brazil,BR.BA,Bahia,22451,762,
+54,2020-06-03,BRA,Brazil,BR.CE,Ceará,56056,3605,
+55,2020-06-03,BRA,Brazil,BR.MA,Maranhão,38174,1028,
+56,2020-06-03,BRA,Brazil,BR.PA,Paraíba,16018,414,
+57,2020-06-03,BRA,Brazil,BR.PE,Pernambuco,36463,3012,
+58,2020-06-03,BRA,Brazil,BR.PI,Piauí,5828,192,
+59,2020-06-03,BRA,Brazil,BR.RN,Rio Grande do Norte,9149,367,
+60,2020-06-03,BRA,Brazil,BR.SE,Sergipe,7989,180,
+61,2020-06-03,BRA,Brazil,BR.ES,Espirito Santo,16121,698,
+62,2020-06-03,BRA,Brazil,BR.MG,Minas Gerais,12010,306,
+63,2020-06-03,BRA,Brazil,BR.RJ,Rio de Janeiro,59240,6010,
+64,2020-06-03,BRA,Brazil,BR.SC,São Paulo,123483,8276,
+65,2020-06-03,BRA,Brazil,BR.PR,Paraná,5494,205,
+66,2020-06-03,BRA,Brazil,BR.RS,Rio Grande do Sul,10398,258,
+67,2020-06-03,BRA,Brazil,BR.SP,Santa Catarina,10034,152,
+68,2020-06-03,BRA,Brazil,BR.DF,Distrito Federal,12020,191,
+69,2020-06-03,BRA,Brazil,BR.GO,Goiás,4570,155,
+70,2020-06-03,BRA,Brazil,BR.MT,Mato Grosso,2848,76,
+71,2020-06-03,BRA,Brazil,BR.MS,Mato Grosso do Sul,1802,20,
 72,2020-06-03,CAN,Canada,CA.AB,Alberta,7076,145,
-73,2020-06-03,CAN,Canada,CA.BC,British Columbia,2601,165,
+73,2020-06-03,CAN,Canada,CA.BC,British Columbia,2623,166,
 75,2020-06-03,CAN,Canada,CA.MB,Manitoba,298,7,
 76,2020-06-03,CAN,Canada,CA.NB,New Brunswick,135,0,
 77,2020-06-03,CAN,Canada,CA.NF,Newfoundland and Labrador,261,3,
@@ -116,22 +116,22 @@
 ,2020-06-03,HRV,Croatia,HR.VS,Vukovarsko-Srijemska,41,0,
 ,2020-06-03,HRV,Croatia,HR.ZD,Zadarska,87,1,
 ,2020-06-03,HRV,Croatia,HR.ZG,Zagrebačka,131,4,
-244,2020-06-03,DEU,Germany,DE.RP,Rheinland-Pfalz,6712,230,
-245,2020-06-03,DEU,Germany,DE.SH,Schleswig-Holstein,3106,146,
-247,2020-06-03,DEU,Germany,DE.HE,Hessen,10080,480,
-248,2020-06-03,DEU,Germany,DE.BW,Baden-Württemberg,34813,1760,
-249,2020-06-03,DEU,Germany,DE.BY,Bayern,47138,2466,
-250,2020-06-03,DEU,Germany,DE.NW,Nordrhein-Westfalen,38185,1607,
-251,2020-06-03,DEU,Germany,DE.HB,Bremen,1447,43,
-252,2020-06-03,DEU,Germany,DE.HH,Hamburg,5098,253,
-253,2020-06-03,DEU,Germany,DE.NI,Niedersachsen,12114,596,
-254,2020-06-03,DEU,Germany,DE.BE,Berlin,6874,198,
-255,2020-06-03,DEU,Germany,DE.BR,Brandenburg,3273,156,
-256,2020-06-03,DEU,Germany,DE.SN,Sachsen,5305,212,
-257,2020-06-03,DEU,Germany,DE.TH,Thüringen,3022,166,
-258,2020-06-03,DEU,Germany,DE.SL,Saarland,2735,163,
-259,2020-06-03,DEU,Germany,DE.MV,Mecklenburg-Vorpommern,761,20,
-260,2020-06-03,DEU,Germany,DE.ST,Sachsen-Anhalt,1707,55,
+244,2020-06-03,DEU,Germany,DE.RP,Rheinland-Pfalz,6719,230,
+245,2020-06-03,DEU,Germany,DE.SH,Schleswig-Holstein,3103,146,
+247,2020-06-03,DEU,Germany,DE.HE,Hessen,10129,482,
+248,2020-06-03,DEU,Germany,DE.BW,Baden-Württemberg,34830,1761,
+249,2020-06-03,DEU,Germany,DE.BY,Bayern,47209,2479,
+250,2020-06-03,DEU,Germany,DE.NW,Nordrhein-Westfalen,38297,1611,
+251,2020-06-03,DEU,Germany,DE.HB,Bremen,1462,44,
+252,2020-06-03,DEU,Germany,DE.HH,Hamburg,5096,253,
+253,2020-06-03,DEU,Germany,DE.NI,Niedersachsen,12182,601,
+254,2020-06-03,DEU,Germany,DE.BE,Berlin,6901,200,
+255,2020-06-03,DEU,Germany,DE.BR,Brandenburg,3280,156,
+256,2020-06-03,DEU,Germany,DE.SN,Sachsen,5312,212,
+257,2020-06-03,DEU,Germany,DE.TH,Thüringen,3033,167,
+258,2020-06-03,DEU,Germany,DE.SL,Saarland,2737,164,
+259,2020-06-03,DEU,Germany,DE.MV,Mecklenburg-Vorpommern,763,20,
+260,2020-06-03,DEU,Germany,DE.ST,Sachsen-Anhalt,1711,55,
 261,2020-06-03,IND,India,IN.KL,Kerala,469,,
 262,2020-06-03,IND,India,IN.DD,Delhi,2918,,
 263,2020-06-03,IND,India,IN.TG,Telangana,1001,,
@@ -271,7 +271,7 @@
 405,2020-06-03,ITA,Italy,IT.UM,Umbria,1431,76,1324
 406,2020-06-03,ITA,Italy,IT.VD,Valle d'Aosta,1187,143,1031
 407,2020-06-03,ITA,Italy,IT.VN,Veneto,19164,1921,15856
-408,2020-06-03,JPN,Japan,JP.HK,Hokkaido,1096,87,812
+408,2020-06-03,JPN,Japan,JP.HK,Hokkaido,1099,87,821
 409,2020-06-03,JPN,Japan,JP.AO,Aomori,27,1,26
 410,2020-06-03,JPN,Japan,JP.IW,Iwate,0,0,0
 411,2020-06-03,JPN,Japan,JP.MG,Miyagi,88,1,87
@@ -281,43 +281,43 @@
 415,2020-06-03,JPN,Japan,JP.IB,Ibaraki,168,10,153
 416,2020-06-03,JPN,Japan,JP.TC,Tochigi,66,0,53
 417,2020-06-03,JPN,Japan,JP.GM,Gunma,149,19,122
-418,2020-06-03,JPN,Japan,JP.ST,Saitama,1003,48,905
-419,2020-06-03,JPN,Japan,JP.CH,Chiba,906,45,824
-420,2020-06-03,JPN,Japan,JP.TK,Tokyo,5283,306,4586
-421,2020-06-03,JPN,Japan,JP.KN,Kanagawa,1373,86,1123
+418,2020-06-03,JPN,Japan,JP.ST,Saitama,1005,49,909
+419,2020-06-03,JPN,Japan,JP.CH,Chiba,907,45,825
+420,2020-06-03,JPN,Japan,JP.TK,Tokyo,5295,306,4623
+421,2020-06-03,JPN,Japan,JP.KN,Kanagawa,1375,86,1130
 422,2020-06-03,JPN,Japan,JP.NI,Niigata,83,0,81
-423,2020-06-03,JPN,Japan,JP.TY,Toyama,227,22,193
-424,2020-06-03,JPN,Japan,JP.IS,Ishikawa,298,25,227
+423,2020-06-03,JPN,Japan,JP.TY,Toyama,227,22,196
+424,2020-06-03,JPN,Japan,JP.IS,Ishikawa,298,26,233
 425,2020-06-03,JPN,Japan,JP.FI,Fukui,122,8,112
-426,2020-06-03,JPN,Japan,JP.YN,Yamanashi,64,1,59
+426,2020-06-03,JPN,Japan,JP.YN,Yamanashi,65,1,60
 427,2020-06-03,JPN,Japan,JP.NN,Nagano,76,0,71
 428,2020-06-03,JPN,Japan,JP.GF,Gifu,151,7,141
 429,2020-06-03,JPN,Japan,JP.SZ,Shizuoka,76,1,73
-430,2020-06-03,JPN,Japan,JP.AI,Aichi,508,34,457
+430,2020-06-03,JPN,Japan,JP.AI,Aichi,509,34,458
 431,2020-06-03,JPN,Japan,JP.ME,Mie,45,1,44
-432,2020-06-03,JPN,Japan,JP.SH,Shiga,100,1,91
-433,2020-06-03,JPN,Japan,JP.KY,Kyoto,358,17,325
+432,2020-06-03,JPN,Japan,JP.SH,Shiga,100,1,92
+433,2020-06-03,JPN,Japan,JP.KY,Kyoto,358,17,331
 434,2020-06-03,JPN,Japan,JP.OS,Osaka,1783,84,1602
-435,2020-06-03,JPN,Japan,JP.HG,Hyogo,699,42,632
-436,2020-06-03,JPN,Japan,JP.NR,Nara,92,2,88
-437,2020-06-03,JPN,Japan,JP.WK,Wakayama,63,3,57
+435,2020-06-03,JPN,Japan,JP.HG,Hyogo,699,42,636
+436,2020-06-03,JPN,Japan,JP.NR,Nara,92,2,89
+437,2020-06-03,JPN,Japan,JP.WK,Wakayama,63,3,60
 438,2020-06-03,JPN,Japan,JP.TT,Tottori,3,0,3
-439,2020-06-03,JPN,Japan,JP.SM,Shimane,24,0,22
+439,2020-06-03,JPN,Japan,JP.SM,Shimane,24,0,23
 440,2020-06-03,JPN,Japan,JP.OY,Okayama,25,0,25
 441,2020-06-03,JPN,Japan,JP.HS,Hiroshima,167,3,158
 442,2020-06-03,JPN,Japan,JP.YC,Yamaguchi,37,0,36
 443,2020-06-03,JPN,Japan,JP.TS,Tokushima,5,1,4
 444,2020-06-03,JPN,Japan,JP.KG,Kagawa,28,0,28
-445,2020-06-03,JPN,Japan,JP.EH,Ehime,82,4,54
+445,2020-06-03,JPN,Japan,JP.EH,Ehime,82,4,55
 446,2020-06-03,JPN,Japan,JP.KC,Kochi,74,3,71
-447,2020-06-03,JPN,Japan,JP.FO,Fukuoka,774,27,626
+447,2020-06-03,JPN,Japan,JP.FO,Fukuoka,780,27,628
 448,2020-06-03,JPN,Japan,JP.SG,Saga,47,0,45
 449,2020-06-03,JPN,Japan,JP.NS,Nagasaki,17,1,16
 450,2020-06-03,JPN,Japan,JP.KM,Kumamoto,48,3,44
 451,2020-06-03,JPN,Japan,JP.OT,Oita,60,1,58
 452,2020-06-03,JPN,Japan,JP.MZ,Miyazaki,17,0,17
 453,2020-06-03,JPN,Japan,JP.KS,Kagoshima,10,0,10
-454,2020-06-03,JPN,Japan,JP.ON,Okinawa,142,6,137
+454,2020-06-03,JPN,Japan,JP.ON,Okinawa,142,7,137
 462,2020-06-03,KOR,South Korea,KR.SO,Seoul,730,,
 465,2020-06-03,KOR,South Korea,KR.PU,Busan,136,,
 457,2020-06-03,KOR,South Korea,KR.TG,Daegu,6887,,
@@ -351,121 +351,121 @@
 488,2020-06-03,MYS,Malaysia,MY.KL,Kuala Lumpur,2044,,
 489,2020-06-03,MYS,Malaysia,MY.PJ,Putrajaya,97,,
 490,2020-06-03,MYS,Malaysia,MY.LA,Labuan,16,,
-491,2020-06-03,MEX,Mexico,MX.AG,Aguascalientes,900,35,0
-492,2020-06-03,MEX,Mexico,MX.BN,Baja California,5313,879,0
-493,2020-06-03,MEX,Mexico,MX.BS,Baja California Sur,643,35,0
-494,2020-06-03,MEX,Mexico,MX.CM,Campeche,712,92,0
-495,2020-06-03,MEX,Mexico,MX.CP,Chiapas,1957,146,0
-496,2020-06-03,MEX,Mexico,MX.CH,Chihuahua,1697,340,0
-497,2020-06-03,MEX,Mexico,MX.DF,Ciudad de Mexico,31850,2850,0
-498,2020-06-03,MEX,Mexico,MX.CA,Coahuila,1178,81,1
-499,2020-06-03,MEX,Mexico,MX.CL,Colima,154,26,0
-500,2020-06-03,MEX,Mexico,MX.DU,Durango,397,42,0
-501,2020-06-03,MEX,Mexico,MX.GJ,Guanajuato,1900,116,0
-502,2020-06-03,MEX,Mexico,MX.GR,Guerrero,1981,286,0
-503,2020-06-03,MEX,Mexico,MX.HI,Hidalgo,1876,329,0
-504,2020-06-03,MEX,Mexico,MX.JA,Jalisco,2052,167,0
-505,2020-06-03,MEX,Mexico,MX.MC,Michoacan,2064,175,0
-506,2020-06-03,MEX,Mexico,MX.MR,Morelos,1380,273,0
-507,2020-06-03,MEX,Mexico,MX.MX,México,10454,1205,1
-508,2020-06-03,MEX,Mexico,MX.NA,Nayarit,610,68,0
-509,2020-06-03,MEX,Mexico,MX.NL,Nuevo Leon,1530,99,0
-510,2020-06-03,MEX,Mexico,MX.OA,Oaxaca,1599,166,0
-511,2020-06-03,MEX,Mexico,MX.PU,Puebla,3280,392,0
-512,2020-06-03,MEX,Mexico,MX.QE,Queretaro,1026,114,0
-513,2020-06-03,MEX,Mexico,MX.QR,Quintana Roo,1945,363,0
-514,2020-06-03,MEX,Mexico,MX.SL,San Luis Potosi,989,57,0
-515,2020-06-03,MEX,Mexico,MX.SI,Sinaloa,3713,548,1
-516,2020-06-03,MEX,Mexico,MX.SO,Sonora,2229,132,0
-517,2020-06-03,MEX,Mexico,MX.TB,Tabasco,4630,562,0
-518,2020-06-03,MEX,Mexico,MX.TM,Tamaulipas,1748,116,0
-519,2020-06-03,MEX,Mexico,MX.TL,Tlaxcala,1103,151,0
-520,2020-06-03,MEX,Mexico,MX.VE,Veracruz,4195,581,0
-521,2020-06-03,MEX,Mexico,MX.YU,Yucatan,1915,173,0
-522,2020-06-03,MEX,Mexico,MX.ZA,Zacatecas,306,38,0
-1172,2020-06-03,RUS,Russia,RU.MC,Moscow,185374,2624,88269
-1173,2020-06-03,RUS,Russia,RU.SP,Saint Petersburg,16689,223,6008
-1174,2020-06-03,RUS,Russia,RU.MS,Moscow Oblast,40455,495,8809
-1175,2020-06-03,RUS,Russia,RU.SA,Samara Oblast,2724,22,1072
+491,2020-06-03,MEX,Mexico,MX.AG,Aguascalientes,950,36,0
+492,2020-06-03,MEX,Mexico,MX.BN,Baja California,5545,1013,0
+493,2020-06-03,MEX,Mexico,MX.BS,Baja California Sur,679,35,0
+494,2020-06-03,MEX,Mexico,MX.CM,Campeche,735,94,0
+495,2020-06-03,MEX,Mexico,MX.CP,Chiapas,1982,162,0
+496,2020-06-03,MEX,Mexico,MX.CH,Chihuahua,1730,358,0
+497,2020-06-03,MEX,Mexico,MX.DF,Ciudad de Mexico,32906,3214,0
+498,2020-06-03,MEX,Mexico,MX.CA,Coahuila,1260,88,1
+499,2020-06-03,MEX,Mexico,MX.CL,Colima,167,27,0
+500,2020-06-03,MEX,Mexico,MX.DU,Durango,461,44,0
+501,2020-06-03,MEX,Mexico,MX.GJ,Guanajuato,2037,122,0
+502,2020-06-03,MEX,Mexico,MX.GR,Guerrero,2062,305,0
+503,2020-06-03,MEX,Mexico,MX.HI,Hidalgo,1989,365,0
+504,2020-06-03,MEX,Mexico,MX.JA,Jalisco,2166,183,0
+505,2020-06-03,MEX,Mexico,MX.MC,Michoacan,2161,194,0
+506,2020-06-03,MEX,Mexico,MX.MR,Morelos,1405,281,0
+507,2020-06-03,MEX,Mexico,MX.MX,México,10824,1305,1
+508,2020-06-03,MEX,Mexico,MX.NA,Nayarit,624,75,0
+509,2020-06-03,MEX,Mexico,MX.NL,Nuevo Leon,1634,103,0
+510,2020-06-03,MEX,Mexico,MX.OA,Oaxaca,1746,198,0
+511,2020-06-03,MEX,Mexico,MX.PU,Puebla,3489,433,0
+512,2020-06-03,MEX,Mexico,MX.QE,Queretaro,1084,124,0
+513,2020-06-03,MEX,Mexico,MX.QR,Quintana Roo,1999,393,0
+514,2020-06-03,MEX,Mexico,MX.SL,San Luis Potosi,1030,57,0
+515,2020-06-03,MEX,Mexico,MX.SI,Sinaloa,3917,624,1
+516,2020-06-03,MEX,Mexico,MX.SO,Sonora,2358,142,0
+517,2020-06-03,MEX,Mexico,MX.TB,Tabasco,4829,592,0
+518,2020-06-03,MEX,Mexico,MX.TM,Tamaulipas,1811,126,0
+519,2020-06-03,MEX,Mexico,MX.TL,Tlaxcala,1135,155,0
+520,2020-06-03,MEX,Mexico,MX.VE,Veracruz,4250,649,0
+521,2020-06-03,MEX,Mexico,MX.YU,Yucatan,1957,192,0
+522,2020-06-03,MEX,Mexico,MX.ZA,Zacatecas,316,39,0
+1172,2020-06-03,RUS,Russia,RU.MC,Moscow,187216,2685,91654
+1173,2020-06-03,RUS,Russia,RU.SP,Saint Petersburg,17069,240,6331
+1174,2020-06-03,RUS,Russia,RU.MS,Moscow Oblast,41191,515,9311
+1175,2020-06-03,RUS,Russia,RU.SA,Samara Oblast,2770,23,1138
 1176,2020-06-03,RUS,Russia,RU.SK,Saha Republic,1930,8,857
 1177,2020-06-03,RUS,Russia,RU.SV,Sverdlov Oblast,5449,27,2173
-1178,2020-06-03,RUS,Russia,RU.KN,Kaliningrad Oblast,1607,24,670
-1179,2020-06-03,RUS,Russia,RU.KV,Kirov Oblast,1828,17,981
-1180,2020-06-03,RUS,Russia,RU.NS,Novosibirsk Oblast,3020,34,1214
+1178,2020-06-03,RUS,Russia,RU.KN,Kaliningrad Oblast,1642,24,698
+1179,2020-06-03,RUS,Russia,RU.KV,Kirov Oblast,1904,17,1013
+1180,2020-06-03,RUS,Russia,RU.NS,Novosibirsk Oblast,3122,34,1235
 1181,2020-06-03,RUS,Russia,RU.KX,Krasnoyarskiy Kray,4249,39,894
-1182,2020-06-03,RUS,Russia,RU.TB,Tambov Oblast,3110,8,1221
-1183,2020-06-03,RUS,Russia,RU.LP,Lipetsk Oblast,2261,6,742
-1184,2020-06-03,RUS,Russia,RU.TV,Tver Oblast,1695,28,1147
+1182,2020-06-03,RUS,Russia,RU.TB,Tambov Oblast,3175,8,1272
+1183,2020-06-03,RUS,Russia,RU.LP,Lipetsk Oblast,2326,7,789
+1184,2020-06-03,RUS,Russia,RU.TV,Tver Oblast,1731,33,1229
 1185,2020-06-03,RUS,Russia,RU.KH,Habarovskiy Kray,2081,11,1002
 1186,2020-06-03,RUS,Russia,RU.TY,Tumen Oblast,1638,8,812
-1187,2020-06-03,RUS,Russia,RU.TL,Tula Oblast,4074,39,1921
+1187,2020-06-03,RUS,Russia,RU.TL,Tula Oblast,4183,42,2037
 1188,2020-06-03,RUS,Russia,RU.PE,Perm Oblast,1713,20,1053
 1189,2020-06-03,RUS,Russia,RU.NZ,Nizhegorodskaya Oblast,9834,98,3693
 1190,2020-06-03,RUS,Russia,RU.KD,Krasnodarskiy Kray,3824,32,2711
-1191,2020-06-03,RUS,Russia,RU.VR,Voronezh Oblast,2234,16,1499
-1192,2020-06-03,RUS,Russia,RU.KE,Kemerovo Oblast,589,7,259
+1191,2020-06-03,RUS,Russia,RU.VR,Voronezh Oblast,2361,16,1567
+1192,2020-06-03,RUS,Russia,RU.KE,Kemerovo Oblast,616,7,261
 1193,2020-06-03,RUS,Russia,RU.KK,Republic of Hakassia,964,10,563
-1194,2020-06-03,RUS,Russia,RU.MM,Murmansk Oblast,3296,7,2192
-1195,2020-06-03,RUS,Russia,RU.KO,Komi Republic,1393,24,748
-1196,2020-06-03,RUS,Russia,RU.KG,Kaluga Oblast,4092,32,1614
-1197,2020-06-03,RUS,Russia,RU.IV,Ivanovo Oblast,2140,18,864
+1194,2020-06-03,RUS,Russia,RU.MM,Murmansk Oblast,3342,7,2375
+1195,2020-06-03,RUS,Russia,RU.KO,Komi Republic,1426,25,801
+1196,2020-06-03,RUS,Russia,RU.KG,Kaluga Oblast,4179,34,1732
+1197,2020-06-03,RUS,Russia,RU.IV,Ivanovo Oblast,2205,18,928
 1198,2020-06-03,RUS,Russia,RU.ZB,Zabaykalskiy Kray,1097,20,538
-1199,2020-06-03,RUS,Russia,RU.TO,Tomsk Oblast,739,11,340
-1200,2020-06-03,RUS,Russia,RU.AR,Arkhangelsk Oblast,2124,7,659
-1201,2020-06-03,RUS,Russia,RU.RZ,Ryazan Oblast,3653,9,1075
+1199,2020-06-03,RUS,Russia,RU.TO,Tomsk Oblast,765,11,359
+1200,2020-06-03,RUS,Russia,RU.AR,Arkhangelsk Oblast,2363,7,698
+1201,2020-06-03,RUS,Russia,RU.RZ,Ryazan Oblast,3728,9,1169
 1202,2020-06-03,RUS,Russia,RU.CV,Republic of Chuvashia,2885,14,1242
 1203,2020-06-03,RUS,Russia,RU.UL,Ulianovsk Oblast,2466,8,713
-1204,2020-06-03,RUS,Russia,RU.YS,Yaroslavl Oblast,3284,14,826
+1204,2020-06-03,RUS,Russia,RU.YS,Yaroslavl Oblast,3356,14,896
 1205,2020-06-03,RUS,Russia,RU.PZ,Pensa Oblast,2332,19,1827
-1206,2020-06-03,RUS,Russia,RU.BL,Belgorod Oblast,2471,20,999
+1206,2020-06-03,RUS,Russia,RU.BL,Belgorod Oblast,2548,22,1082
 1207,2020-06-03,RUS,Russia,RU.KM,Hanty-Mansiyskiy AO,2436,18,782
 1208,2020-06-03,RUS,Russia,RU.LN,Leningradskaya Oblast,2822,11,1561
-1209,2020-06-03,RUS,Russia,RU.OB,Orenburg Oblast,2032,7,1196
-1210,2020-06-03,RUS,Russia,RU.SR,Saratov Oblast,3269,34,1206
+1209,2020-06-03,RUS,Russia,RU.OB,Orenburg Oblast,2085,8,1241
+1210,2020-06-03,RUS,Russia,RU.SR,Saratov Oblast,3363,34,1288
 1211,2020-06-03,RUS,Russia,RU.TT,Republic of Tatarstan,3194,10,2616
-1212,2020-06-03,RUS,Russia,RU.KU,Kurgan Oblast,252,0,134
+1212,2020-06-03,RUS,Russia,RU.KU,Kurgan Oblast,255,0,144
 1213,2020-06-03,RUS,Russia,RU.KB,Republic of Kabardino-Balkaria,2827,17,1143
 1214,2020-06-03,RUS,Russia,RU.CL,Cheliabinsk Oblast,2795,16,1258
 1215,2020-06-03,RUS,Russia,RU.ST,Stavropolskiy Kray,2485,46,1067
 1216,2020-06-03,RUS,Russia,RU.BR,Briansk Oblast,3685,31,2217
 1217,2020-06-03,RUS,Russia,RU.UD,Republic of Udmurtia,652,12,411
-1218,2020-06-03,RUS,Russia,RU.NG,Novgorod Oblast,1430,8,391
+1218,2020-06-03,RUS,Russia,RU.NG,Novgorod Oblast,1493,8,416
 1220,2020-06-03,RUS,Russia,RU.BK,Republic of Bashkortostan,3260,18,1116
-1221,2020-06-03,RUS,Russia,RU.CN,Chechen Republic,1264,13,847
+1221,2020-06-03,RUS,Russia,RU.CN,Chechen Republic,1278,14,894
 1222,2020-06-03,RUS,Russia,RU.PR,Primorskiy Kray,1995,19,1075
-1223,2020-06-03,RUS,Russia,RU.VG,Volgograd Oblast,3334,20,1097
-1224,2020-06-03,RUS,Russia,RU.OL,Orel Oblast,2372,26,1231
-1225,2020-06-03,RUS,Russia,RU.PS,Pskov Oblast,910,10,359
-1226,2020-06-03,RUS,Russia,RU.RO,Rostov Oblast,5195,40,1834
+1223,2020-06-03,RUS,Russia,RU.VG,Volgograd Oblast,3432,20,1165
+1224,2020-06-03,RUS,Russia,RU.OL,Orel Oblast,2443,27,1274
+1225,2020-06-03,RUS,Russia,RU.PS,Pskov Oblast,954,10,368
+1226,2020-06-03,RUS,Russia,RU.RO,Rostov Oblast,5373,40,1950
 1227,2020-06-03,RUS,Russia,RU.BU,Republic of Buriatia,1467,10,796
 1228,2020-06-03,RUS,Russia,RU.MR,Republic of Mordovia,1895,12,799
 1229,2020-06-03,RUS,Russia,RU.DA,Republic of Dagestan,4955,235,4427
-1230,2020-06-03,RUS,Russia,RU.SL,Sakhalin Oblast,133,0,54
-1231,2020-06-03,RUS,Russia,RU.KT,Kostroma Oblast,804,11,420
-1232,2020-06-03,RUS,Russia,RU.SM,Smolensk Oblast,2409,41,821
+1230,2020-06-03,RUS,Russia,RU.SL,Sakhalin Oblast,143,0,62
+1231,2020-06-03,RUS,Russia,RU.KT,Kostroma Oblast,825,11,425
+1232,2020-06-03,RUS,Russia,RU.SM,Smolensk Oblast,2536,41,880
 1233,2020-06-03,RUS,Russia,RU.AD,Republic of Adygeia,854,9,371
-1234,2020-06-03,RUS,Russia,RU.OM,Omsk Oblast,1437,18,386
-1235,2020-06-03,RUS,Russia,RU.IK,Irkutsk Oblast,2189,13,405
+1234,2020-06-03,RUS,Russia,RU.OM,Omsk Oblast,1482,18,437
+1235,2020-06-03,RUS,Russia,RU.IK,Irkutsk Oblast,2309,14,458
 1236,2020-06-03,RUS,Russia,RU.AM,Amursk Oblast,506,5,163
 1237,2020-06-03,RUS,Russia,RU.AL,Altayskiy Kray,1848,12,787
-1238,2020-06-03,RUS,Russia,RU.VL,Vladimir Oblast,2797,24,839
-1239,2020-06-03,RUS,Russia,RU.VO,Vologda Oblast,979,7,380
+1238,2020-06-03,RUS,Russia,RU.VL,Vladimir Oblast,2853,27,941
+1239,2020-06-03,RUS,Russia,RU.VO,Vologda Oblast,998,11,439
 1240,2020-06-03,RUS,Russia,RU.KL,Republic of Kalmykia,1054,15,484
 1241,2020-06-03,RUS,Russia,RU.ME,Republic of Mariy El,1774,13,1370
 1242,2020-06-03,RUS,Russia,RU.AS,Astrahan Oblast,1752,15,920
-1243,2020-06-03,RUS,Russia,RU.MG,Magadan Oblast,248,3,199
-1245,2020-06-03,RUS,Russia,RU.KS,Kursk Oblast,3123,13,1452
+1243,2020-06-03,RUS,Russia,RU.MG,Magadan Oblast,260,3,201
+1245,2020-06-03,RUS,Russia,RU.KS,Kursk Oblast,3199,13,1513
 1246,2020-06-03,RUS,Russia,RU.NO,Republic of North Osetia-Alania,2957,46,1952
 1247,2020-06-03,RUS,Russia,RU.YN,Yamalo-Nenetskiy AO,2375,9,975
 1248,2020-06-03,RUS,Russia,RU.YV,Jewish Autonomous Oblast,309,3,198
-1249,2020-06-03,RUS,Russia,RU.IN,Ingushetia Republic,2164,52,906
+1249,2020-06-03,RUS,Russia,RU.IN,Ingushetia Republic,2197,58,966
 1250,2020-06-03,RUS,Russia,RU.KQ,Kamchatskiy Kray,849,8,259
 1251,2020-06-03,RUS,Russia,RU.KI,Republic of Karelia,430,1,168
 1252,2020-06-03,RUS,Russia,RU.KC,Republic of Karachaevo-Cherkessia,1067,5,308
 1253,2020-06-03,RUS,Russia,RU.TU,Republic of Tyva,1055,2,91
 1254,2020-06-03,RUS,Russia,RU.NN,Nenetskiy Autonomous Oblast,72,0,12
 1255,2020-06-03,RUS,Russia,RU.CK,Chukotskiy Autonomous Oblast,80,1,54
-,2020-06-03,RUS,Russia,RU.GA,Altai Republic,133,0,80
+,2020-06-03,RUS,Russia,RU.GA,Altai Republic,138,0,84
 1268,2020-06-03,ZAF,South Africa,ZA.EC,Eastern Cape,4526,,
 1269,2020-06-03,ZAF,South Africa,ZA.FS,Free State,319,,
 1270,2020-06-03,ZAF,South Africa,ZA.GT,Gauteng,4567,,
@@ -524,7 +524,7 @@
 1324,2020-06-03,CHE,Switzerland,CH.FR,Fribourg,1162,,
 1325,2020-06-03,CHE,Switzerland,CH.GE,Genève,5154,,
 1326,2020-06-03,CHE,Switzerland,CH.GL,Glarus,128,,
-1327,2020-06-03,CHE,Switzerland,CH.GR,Graubünden,827,,
+1327,2020-06-03,CHE,Switzerland,CH.GR,Graubünden,828,,
 1328,2020-06-03,CHE,Switzerland,CH.JU,Jura,205,,
 1329,2020-06-03,CHE,Switzerland,CH.LU,Luzern,735,,
 1330,2020-06-03,CHE,Switzerland,CH.NE,Neuchâtel,727,,
@@ -537,7 +537,7 @@
 1337,2020-06-03,CHE,Switzerland,CH.TG,Thurgau,383,,
 1338,2020-06-03,CHE,Switzerland,CH.TI,Ticino,3315,,
 1339,2020-06-03,CHE,Switzerland,CH.UR,Uri,93,,
-1340,2020-06-03,CHE,Switzerland,CH.VD,Vaud,5447,,
+1340,2020-06-03,CHE,Switzerland,CH.VD,Vaud,5450,,
 1341,2020-06-03,CHE,Switzerland,CH.VS,Valais,1947,,
 1342,2020-06-03,CHE,Switzerland,CH.ZG,Zug,202,,
 1343,2020-06-03,CHE,Switzerland,CH.ZH,Zürich,3623,,
@@ -545,19 +545,19 @@
 1615,2020-06-03,USA,United States of America,US.AK,Alaska,505,10,
 1616,2020-06-03,USA,United States of America,US.AZ,Arizona,22356,983,
 1617,2020-06-03,USA,United States of America,US.AR,Arkansas,8067,142,
-1618,2020-06-03,USA,United States of America,US.CA,California,118291,4334,
+1618,2020-06-03,USA,United States of America,US.CA,California,119817,4386,
 1619,2020-06-03,USA,United States of America,US.CO,Colorado,27083,1494,
 1620,2020-06-03,USA,United States of America,US.CT,Connecticut,43091,3989,
 1621,2020-06-03,USA,United States of America,US.DC,District of Columbia,9016,473,
 1622,2020-06-03,USA,United States of America,US.DE,Delaware,9712,375,
 1623,2020-06-03,USA,United States of America,US.FL,Florida,58764,2566,
-1624,2020-06-03,USA,United States of America,US.GA,Georgia,48907,2124,
+1624,2020-06-03,USA,United States of America,US.GA,Georgia,48894,2123,
 1625,2020-06-03,USA,United States of America,US.HI,Hawaii,653,17,
 1626,2020-06-03,USA,United States of America,US.ID,Idaho,2933,83,
 1627,2020-06-03,USA,United States of America,US.IL,Illinois,123830,5621,
 1628,2020-06-03,USA,United States of America,US.IN,Indiana,35712,2207,
-1629,2020-06-03,USA,United States of America,US.IA,Iowa,20146,574,
-1630,2020-06-03,USA,United States of America,US.KS,Kansas,10087,226,
+1629,2020-06-03,USA,United States of America,US.IA,Iowa,20300,574,
+1630,2020-06-03,USA,United States of America,US.KS,Kansas,10092,226,
 1631,2020-06-03,USA,United States of America,US.KY,Kentucky,10410,450,
 1632,2020-06-03,USA,United States of America,US.LA,Louisiana,41133,2870,
 1633,2020-06-03,USA,United States of America,US.ME,Maine,2418,95,
@@ -569,12 +569,12 @@
 1639,2020-06-03,USA,United States of America,US.MO,Missouri,14165,791,
 1640,2020-06-03,USA,United States of America,US.MT,Montana,525,17,
 1641,2020-06-03,USA,United States of America,US.NE,Nebraska,14885,170,
-1642,2020-06-03,USA,United States of America,US.NV,Nevada,8856,417,
+1642,2020-06-03,USA,United States of America,US.NV,Nevada,8951,431,
 1643,2020-06-03,USA,United States of America,US.NH,New Hampshire,3568,250,
-1644,2020-06-03,USA,United States of America,US.NJ,New Jersey,161545,11771,
-1645,2020-06-03,USA,United States of America,US.NM,New Mexico,8024,367,
-1646,2020-06-03,USA,United States of America,US.NY,New York,378113,29968,
-1647,2020-06-03,USA,United States of America,US.NC,North Carolina,31223,999,
+1644,2020-06-03,USA,United States of America,US.NJ,New Jersey,162068,11880,
+1645,2020-06-03,USA,United States of America,US.NM,New Mexico,8140,375,
+1646,2020-06-03,USA,United States of America,US.NY,New York,379138,30019,
+1647,2020-06-03,USA,United States of America,US.NC,North Carolina,31277,999,
 1648,2020-06-03,USA,United States of America,US.ND,North Dakota,2679,66,
 1649,2020-06-03,USA,United States of America,US.OH,Ohio,36793,2300,
 1650,2020-06-03,USA,United States of America,US.OK,Oklahoma,6805,341,
@@ -583,12 +583,12 @@
 1653,2020-06-03,USA,United States of America,US.RI,Rhode Island,15219,742,
 1654,2020-06-03,USA,United States of America,US.SC,South Carolina,12415,501,
 1655,2020-06-03,USA,United States of America,US.SD,South Dakota,5162,62,
-1656,2020-06-03,USA,United States of America,US.TN,Tennessee,24332,381,
+1656,2020-06-03,USA,United States of America,US.TN,Tennessee,24833,388,
 1657,2020-06-03,USA,United States of America,US.TX,Texas,60826,1610,
 1658,2020-06-03,USA,United States of America,US.UT,Utah,10497,117,
 1659,2020-06-03,USA,United States of America,US.VT,Vermont,990,55,
 1660,2020-06-03,USA,United States of America,US.VA,Virginia,46905,1428,
-1661,2020-06-03,USA,United States of America,US.WA,Washington,23285,1140,
+1661,2020-06-03,USA,United States of America,US.WA,Washington,23289,1140,
 1662,2020-06-03,USA,United States of America,US.WV,West Virginia,2077,78,
 1663,2020-06-03,USA,United States of America,US.WI,Wisconsin,19400,616,
 1664,2020-06-03,USA,United States of America,US.WY,Wyoming,915,17,
