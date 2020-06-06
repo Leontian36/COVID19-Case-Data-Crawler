@@ -1,13 +1,12 @@
 '''
 @Author: Leon Tian
 @Date: 2020-05-31 22:37:39
-@LastEditTime: 2020-06-06 18:03:42
+@LastEditTime: 2020-06-06 18:10:02
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
 import requests
 from urllib import request
-from w3lib.html import remove_tags
 from bs4 import BeautifulSoup
 import os
 import time
