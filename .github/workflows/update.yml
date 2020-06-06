@@ -26,6 +26,7 @@ jobs:
           python scripts/Hungary-crawler.py
           python scripts/Slovakia-crawler.py
           python scripts/Bulgaria-crawler.py
+          python scripts/India-crawler.py
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
