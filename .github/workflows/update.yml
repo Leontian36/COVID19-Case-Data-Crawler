@@ -37,6 +37,7 @@ jobs:
           python scripts/Switzerland-crawler.py
           python scripts/Moldova-crawler.py
           python scripts/Somalia-crawler.py
+          python scripts/Chile-crawler.py
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
