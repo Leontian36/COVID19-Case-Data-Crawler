@@ -49,7 +49,7 @@ for image in items:
 		htmlnew = urllib.parse.urljoin(basewebsite,html)
    	 	#print(image.get('src'))
 		print(htmlnew)
-	
+
 
 
 #try:
@@ -67,7 +67,7 @@ for index, item in enumerate(items):
 			file.flush()
 		file.close()  # 关闭文件
 		print('第%d张图片下载完成' % (index+1))
-		time.sleep(1) 
+		time.sleep(1)
 		 # 自定义延时
 print('抓取完成')
 
