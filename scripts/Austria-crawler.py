@@ -1,7 +1,7 @@
 '''
 @Author: Yifei Tian
 @Date: 2020-05-31 22:37:39
-@LastEditTime: 2020-06-09 19:20:21
+@LastEditTime: 2020-06-24 17:57:06
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
@@ -32,12 +32,27 @@ if os.path.exists(folder_path) == False:  # 判断文件夹是否已经存在
 
 table_name = folder_path +'.csv'
 
-    
+convert_dict = {'Bgld.': int, 
+                'Ktn.': int,
+                'NÖ': int, 
+                'OÖ': int, 
+                'Sbg.': int, 
+                'Stmk.': int, 
+                'T': int, 
+                'W': int, 
+                'Vbg.': int, 
+                'Austria as a whole': int, 
+               } 
 try:
     df = pd.read_html(tables[0].prettify())
     df = pd.concat(df)
+    df = df.rename(columns={"Bundesland":"states", "Österreich  gesamt":"Austria as a whole"})
+    #pd.to_numeric(pd,downcast='signed')
+    df = df.rename(index={0:"Confirmed cases", 1:"Deaths", 2:"Recover", 3:"Hospitalization ", 4:"Intensive care unit", 5:"Tests "})
+    #df = df.astype(convert_dict) 
     df.to_csv(folder_path+'table.csv', encoding='utf-8-sig')
     print('抓取完成')
 except IOError:
  	print("error")
 print (df)
+#print(df.dtypes)

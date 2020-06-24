@@ -1,7 +1,7 @@
 '''
 @Author: Yifei Tian
 @Date: 2020-05-31 22:37:39
-@LastEditTime: 2020-06-08 14:30:35
+@LastEditTime: 2020-06-24 18:02:05
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
@@ -35,6 +35,7 @@ table_name = folder_path +'.csv'
 try:
     df = pd.read_html(tables[1].prettify())
     df = pd.concat(df)
+    df = df.rename(columns={"Departamento":"Department", "Hoy":"Today","Acumulado": "Accumulated", "Decesos":"Deaths","Recuperados":"Recovered"})
     df.to_csv(folder_path+'table.csv', encoding='utf-8-sig')
     print('抓取完成')
 except IOError:
