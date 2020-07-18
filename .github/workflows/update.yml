@@ -43,6 +43,9 @@ jobs:
           python scripts/BosniaHerzegovina-crawler.py
           python scripts/Nigeria-crawler.py
           python scripts/Libya-crawler.py
+          python scripts/Malaysia-crawler.py
+
+
       - name: Commit data files
         run: |
           git config --local user.email "action@github.com"
