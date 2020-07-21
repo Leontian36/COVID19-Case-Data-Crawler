@@ -1,7 +1,7 @@
 '''
 @Author: Yifei Tian
 @Date: 2020-05-31 22:37:39
-@LastEditTime: 2020-06-09 14:34:38
+@LastEditTime: 2020-07-21 18:40:59
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
@@ -34,9 +34,16 @@ table_name = folder_path +'.csv'
     
 try:
     df = pd.read_html(tables[0].prettify())
+    #print(df)
     df = pd.concat(df)
+    #df = df.drop([0])
+    #header =df.iloc[0]
+    #header =["Accumulated confirmed cases","Total new cases","New cases with symptoms"]
+    # print(header)
+    #df = df[1:]
+    #df = df.rename(columns=header)
     df.to_csv(folder_path+'table.csv', encoding='utf-8-sig')
     print('抓取完成')
 except IOError:
  	print("error")
-#print (df)
+print (df)
