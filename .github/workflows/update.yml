@@ -45,6 +45,7 @@ jobs:
           python scripts/Libya-crawler.py
           python scripts/Malaysia-crawler.py
           python scripts/Cambodia-crawler.py
+          python scripts/Oman-crawler.py
 
 
       - name: Commit data files
