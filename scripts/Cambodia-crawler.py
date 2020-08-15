@@ -27,6 +27,7 @@ names = {
   "កោះកុង": "Koh Kong",
   "កំពត": "Krong Kampot",
   "ព្រះវិហារ": "Preah Vihear",
+  "កំពង់ស្ពឺ": "Kampong Speu",
   "ប្រទេសកម្ពុជា": "Cambodia (totals)"
 }
 
@@ -57,13 +58,15 @@ if not os.path.exists(folder_path):
 file = open(folder_path+'table.csv', 'w', newline='', encoding='utf-8-sig')
 writer = csv.writer(file)
 
+print([region["location"]["name_km"] for region in data])
+
 # Write each line to the CSV
 labels = ["Region", "LocalName", "TotalCases", "NewCases", "Recoveries", "NewRecoveries", "Deaths", "NewDeaths"]
 writer.writerow(labels)
 for region in data:
-	local_name = region["location"]["name_km"]
-	row = [names[local_name], local_name, region["total_case"], region["new_case"], region["recovered_case"], region["new_recovered_case"], region["death_case"], region["new_death_case"]]
-	writer.writerow(row)
+  local_name = region["location"]["name_km"]
+  row = [names[local_name], local_name, region["total_case"], region["new_case"], region["recovered_case"], region["new_recovered_case"], region["death_case"], region["new_death_case"]]
+  writer.writerow(row)
 
 
 
