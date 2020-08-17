@@ -48,6 +48,8 @@ jobs:
           python scripts/Oman-crawler.py
           python scripts/Bangladesh-crawler.py
           python scripts/Lebanon-crawler.py
+          python scripts/ElSalvador-crawler.py
+          python scripts/Honduras-crawler.py
 
 
       - name: Commit data files
