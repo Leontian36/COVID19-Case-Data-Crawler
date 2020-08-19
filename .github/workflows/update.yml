@@ -50,6 +50,7 @@ jobs:
           python scripts/Lebanon-crawler.py
           python scripts/ElSalvador-crawler.py
           python scripts/Honduras-crawler.py
+          python scripts/SierraLeone-crawler.py
 
 
       - name: Commit data files
