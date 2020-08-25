@@ -51,6 +51,12 @@ jobs:
           python scripts/ElSalvador-crawler.py
           python scripts/Honduras-crawler.py
           python scripts/SierraLeone-crawler.py
+          python scripts/Spain-crawler.py
+          python scripts/Greece-crawler.py
+          python scripts/Malawi-crawler.py
+          python scripts/Algeria-crawler.py
+          python scripts/Ghana-crawler.py
+          python scripts/Romania-crawler.py
 
 
       - name: Commit data files
