@@ -57,6 +57,7 @@ jobs:
           python scripts/Algeria-crawler.py
           python scripts/Ghana-crawler.py
           python scripts/Romania-crawler.py
+          python scripts/Vietnam-crawler.py
 
 
       - name: Commit data files
