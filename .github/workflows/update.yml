@@ -21,8 +21,8 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: Generate new data
-        run: |
         if: always()
+        run: |
           python scripts/Denmark-crawler.py
           python scripts/Hungary-crawler.py
           python scripts/Slovakia-crawler.py
