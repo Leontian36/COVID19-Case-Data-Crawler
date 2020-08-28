@@ -22,6 +22,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Generate new data
         run: |
+        if: always()
           python scripts/Denmark-crawler.py
           python scripts/Hungary-crawler.py
           python scripts/Slovakia-crawler.py
@@ -54,7 +55,7 @@ jobs:
           python scripts/Spain-crawler.py
           python scripts/Greece-crawler.py
           python scripts/Malawi-crawler.py
-          #python scripts/Algeria-crawler.py
+          python scripts/Algeria-crawler.py
           python scripts/Ghana-crawler.py
           python scripts/Romania-crawler.py
           python scripts/Vietnam-crawler.py
