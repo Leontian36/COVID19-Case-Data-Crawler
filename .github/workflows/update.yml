@@ -64,6 +64,7 @@ jobs:
           python scripts/Croatia-crawler.py
           python scripts/Ukraine-crawler.py
           python scripts/Latvia-crawler.py
+          python scripts/Albania-crawler.py
 
 
 
