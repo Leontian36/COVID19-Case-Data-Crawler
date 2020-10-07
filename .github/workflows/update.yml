@@ -10,6 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
 
     steps:
       - name: Checkout repo
@@ -69,6 +70,7 @@ jobs:
           python scripts/Brazil-crawler.py
           python scripts/Russia-crawler.py
           python scripts/SouthAfrica-crawler.py
+          python scripts/Norway-crawler.py
 
 
 
