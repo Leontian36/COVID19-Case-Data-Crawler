@@ -47,7 +47,7 @@ jobs:
           python scripts/Libya-crawler.py
           python scripts/Malaysia-crawler.py
           python scripts/Cambodia-crawler.py
-          python scripts/Oman-crawler.py
+          #python scripts/Oman-crawler.py
           python scripts/Bangladesh-crawler.py
           python scripts/Lebanon-crawler.py
           python scripts/ElSalvador-crawler.py
