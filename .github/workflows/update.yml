@@ -69,7 +69,7 @@ jobs:
           python scripts/Sweden-crawler.py
           python scripts/Brazil-crawler.py
           python scripts/Russia-crawler.py
-          python scripts/SouthAfrica-crawler.py
+          #python scripts/SouthAfrica-crawler.py
           python scripts/Norway-crawler.py
 
 
