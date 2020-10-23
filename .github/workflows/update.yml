@@ -41,7 +41,7 @@ jobs:
           python scripts/Somalia-crawler.py
           python scripts/Chile-crawler.py
           python scripts/Austria-crawler.py
-          python scripts/Germany-crawler.py
+          #python scripts/Germany-crawler.py
           python scripts/BosniaHerzegovina-crawler.py
           python scripts/Nigeria-crawler.py
           python scripts/Libya-crawler.py
