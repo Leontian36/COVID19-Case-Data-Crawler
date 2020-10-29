@@ -1,0 +1,90 @@
+name: Dataset Update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 */8 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.7"
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Generate new data
+        if: always()
+        run: |
+          python scripts/Denmark-crawler.py
+          python scripts/Hungary-crawler.py
+          python scripts/Slovakia-crawler.py
+          python scripts/Bulgaria-crawler.py
+          python scripts/India-crawler.py
+          python scripts/Kazakhstan-crawler.py
+          python scripts/NewZealand-crawler.py
+          python scripts/Jamaica-crawler.py
+          python scripts/Bolivia-crawler.py
+          python scripts/Myanmar-crawler.py
+          python scripts/Panama-crawler.py
+          python scripts/Thailand-crawler.py
+          python scripts/Switzerland-crawler.py
+          python scripts/Moldova-crawler.py
+          python scripts/Somalia-crawler.py
+          python scripts/Chile-crawler.py
+          python scripts/Austria-crawler.py
+          #python scripts/Germany-crawler.py
+          python scripts/BosniaHerzegovina-crawler.py
+          python scripts/Nigeria-crawler.py
+          python scripts/Libya-crawler.py
+          python scripts/Malaysia-crawler.py
+          python scripts/Cambodia-crawler.py
+          #python scripts/Oman-crawler.py
+          python scripts/Bangladesh-crawler.py
+          python scripts/Lebanon-crawler.py
+          python scripts/ElSalvador-crawler.py
+          python scripts/Honduras-crawler.py
+          python scripts/SierraLeone-crawler.py
+          #python scripts/Spain-crawler.py
+          #python scripts/Greece-crawler.py
+          python scripts/Malawi-crawler.py
+          #python scripts/Algeria-crawler.py
+          python scripts/Ghana-crawler.py
+          python scripts/Romania-crawler.py
+          #python scripts/Vietnam-crawler.py
+          python scripts/Italy-crawler.py
+          python scripts/Japan-crawler.py
+          python scripts/Croatia-crawler.py
+          python scripts/Ukraine-crawler.py
+          python scripts/Latvia-crawler.py
+          python scripts/Albania-crawler.py
+          python scripts/Sweden-crawler.py
+          python scripts/Brazil-crawler.py
+          python scripts/Russia-crawler.py
+          #python scripts/SouthAfrica-crawler.py
+          python scripts/Norway-crawler.py
+
+
+
+
+
+      - name: Commit data files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git commit -m "Dataset Update" || echo "Nothing to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          repository: leontian36/COVID19-Case-Data-Crawler
+          github_token: ${{ secrets.GITHUB_TOKEN }}
