@@ -1,7 +1,7 @@
 '''
 @Author: Matthew Shabet
 @Date: 2020-09-14 19:51:00
-@LastEditTime: 2020-09-14 23:48:00
+@LastEditTime: 2020-11-12 23:48:00
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
@@ -19,16 +19,17 @@ url = "https://sacoronavirus.co.za/category/press-releases-and-notices/"
 response = requests.get(url, headers={'Connection': 'close'})
 soup = BeautifulSoup(response.content, 'html.parser')
 tag = soup.findAll("div", {"class": "fusion-posts-container fusion-blog-layout-grid fusion-blog-layout-grid-4 isotope fusion-blog-equal-heights fusion-blog-pagination fusion-blog-rollover"})
-pages = tag[0].contents
-links = [p.contents[0].contents[1].contents[0].contents[0].contents[0]["href"] for p in pages]
+pages = tag[0].contents[1::2]
+
+links = [p.contents[1].contents[3].contents[1].contents[1].contents[0]["href"] for p in pages]
 link = [l for l in links if l.find("update-on-covid-19") >= 0][0]
 
 # Get the data
 response = requests.get(link, headers={'Connection': 'close'})
 soup = BeautifulSoup(response.content, 'html.parser')
 tags = soup.findAll("table", {"class": "NormalTable"})
-cases_body = tags[0].contents[0]
-death_recov_body = tags[1].contents[0]
+cases_body = tags[0].contents[1]
+death_recov_body = tags[1].contents[1]
 
 # Construct the tables
 cases = []
@@ -60,7 +61,7 @@ writer = csv.writer(file)
 headers = ["Region", "Cases", "Percentage total", "Deaths", "Recoveries", "Active"]
 writer.writerow(headers)
 for r in regions:
-	c = cases[case_map[r]]
-	dr = death_recov[death_recov_map[r]]
-	row = [r, c[1], c[2], dr[1], dr[2], dr[3]]
-	writer.writerow(row)
+    c = cases[case_map[r]]
+    dr = death_recov[death_recov_map[r]]
+    row = [r, c[1], c[2], dr[1], dr[2], dr[3]]
+    writer.writerow(row)
