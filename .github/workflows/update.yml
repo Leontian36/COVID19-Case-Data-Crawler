@@ -59,7 +59,7 @@ jobs:
           #python scripts/Algeria-crawler.py
           python scripts/Ghana-crawler.py
           python scripts/Romania-crawler.py
-          #python scripts/Vietnam-crawler.py
+          python scripts/Vietnam-crawler.py
           python scripts/Italy-crawler.py
           python scripts/Japan-crawler.py
           python scripts/Croatia-crawler.py
@@ -69,7 +69,7 @@ jobs:
           python scripts/Sweden-crawler.py
           python scripts/Brazil-crawler.py
           python scripts/Russia-crawler.py
-          python scripts/SouthAfrica-crawler.py
+          #python scripts/SouthAfrica-crawler.py
           python scripts/Norway-crawler.py
           python scripts/Poland-crawler.py
 
