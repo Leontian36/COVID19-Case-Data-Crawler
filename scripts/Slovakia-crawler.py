@@ -1,8 +1,8 @@
 '''
 @Author: your name
 @Date: 2020-05-31 22:37:39
-@LastEditTime: 2020-06-03 15:24:24
-@LastEditors: Please set LastEditors
+LastEditTime: 2021-01-28 21:27:06
+LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 '''
 import requests
@@ -13,6 +13,7 @@ import time
 from datetime import datetime
 import pandas as pd 
 
+begin_time = datetime.now()
 url = 'https://korona.gov.sk/en/coronavirus-covid-19-in-the-slovak-republic-in-numbers/'
 # strhtml = requests.get(url)
 # soup = BeautifulSoup(strhtml.text,'lxml')
@@ -45,6 +46,7 @@ try:
 except IOError:
  	print("error")
 
+print(datetime.now() - begin_time)
 # df_list = []
 # try:
 # 	for index, table in enumerate(tables):

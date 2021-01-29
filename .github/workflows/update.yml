@@ -24,7 +24,7 @@ jobs:
       - name: Generate new data
         if: always()
         run: |
-          python scripts/Denmark-crawler.py
+          #python scripts/Denmark-crawler.py
           python scripts/Hungary-crawler.py
           python scripts/Slovakia-crawler.py
           python scripts/Bulgaria-crawler.py
