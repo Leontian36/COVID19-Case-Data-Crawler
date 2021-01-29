@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 from datetime import datetime
-
+begin_time = datetime.datetime.now()
 url = 'https://www.ssi.dk/sygdomme-beredskab-og-forskning/sygdomsovervaagning/c/covid19-overvaagning'
 # strhtml = requests.get(url)
 # soup = BeautifulSoup(strhtml.text,'lxml')
@@ -36,7 +36,7 @@ items.pop(0)
 
 for image in items:
     print(image.get('src'))
-	
+
 try:
 	for index, item in enumerate(items):
 		if item:
@@ -55,3 +55,4 @@ try:
 
 except IOError:
 	print("error")
+print(datetime.datetime.now() - begin_time)
