@@ -32,7 +32,7 @@ jobs:
           python scripts/Kazakhstan-crawler.py
           python scripts/NewZealand-crawler.py
           python scripts/Jamaica-crawler.py
-          python scripts/Bolivia-crawler.py
+          #python scripts/Bolivia-crawler.py
           python scripts/Myanmar-crawler.py
           python scripts/Panama-crawler.py
           python scripts/Thailand-crawler.py
